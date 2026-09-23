@@ -32,6 +32,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add huse_hvidovre_historik.json bolig_tidsserie.json index.html
+          git add huse_hvidovre_historik.json huse_kobenhavn_historik.json bolig_tidsserie.json index.html
           git commit -m "Auto-opdatering af bolighistorik og HTML rapport [skip ci]" || exit 0
           git push
