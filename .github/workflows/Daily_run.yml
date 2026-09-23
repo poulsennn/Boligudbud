@@ -25,7 +25,7 @@ jobs:
           pip install requests
 
       - name: Kør boligscript
-        run: python bolig_opdatering.py
+        run: python Boligopdatering.py
 
       - name: Gem opdateret historikfil i GitHub
         run: |
