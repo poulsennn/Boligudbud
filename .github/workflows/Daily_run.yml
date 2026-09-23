@@ -24,6 +24,8 @@ jobs:
           pip install requests pandas plotly
 
       - name: Kør boligscript
+        env:
+          TZ: 'Europe/Copenhagen'
         run: python bolig_opdatering.py
 
       - name: Gem opdateret historik og HTML i GitHub
