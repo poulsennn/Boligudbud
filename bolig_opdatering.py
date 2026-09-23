@@ -5,9 +5,20 @@ import pandas as pd
 import plotly.express as px
 import requests
 
-# Konfiguration
-MUNICIPALITY_ID = 167  # Hvidovre Kommune ID hos Boliga
-DATA_FILE = "huse_hvidovre_historik.json"
+# Konfiguration af kommuner (Boliga Kommune ID'er)
+KOMMUNER = {
+    "hvidovre": {
+        "navn": "Hvidovre Kommune",
+        "id": 167,
+        "historik_fil": "huse_hvidovre_historik.json",
+    },
+    "kobenhavn": {
+        "navn": "Københavns Kommune",
+        "id": 101,
+        "historik_fil": "huse_kobenhavn_historik.json",
+    },
+}
+
 TIMESERIES_FILE = "bolig_tidsserie.json"
 HTML_OUTPUT = "index.html"
 
@@ -20,8 +31,8 @@ HEADERS = {
 }
 
 
-def hent_aktuelle_huse():
-    """Henter alle huse/rækkehuse til salg i Hvidovre Kommune fra Boliga."""
+def hent_aktuelle_huse(mup_id):
+    """Henter alle huse/rækkehuse til salg for en specifik kommune fra Boliga."""
     huse = {}
     page = 1
     page_size = 50
@@ -29,7 +40,7 @@ def hent_aktuelle_huse():
     while True:
         url = "https://api.boliga.dk/api/v2/search/results"
         params = {
-            "municipality": MUNICIPALITY_ID,
+            "municipality": mup_id,
             "propertyType": "1,2",  # 1 = Villa, 2 = Rækkehus
             "pageSize": page_size,
             "page": page,
@@ -41,7 +52,7 @@ def hent_aktuelle_huse():
             response.raise_for_status()
             data = response.json()
         except requests.RequestException as e:
-            print(f"Fejl ved hentning af data (side {page}): {e}")
+            print(f"Fejl ved hentning af data for kommune ID {mup_id} (side {page}): {e}")
             break
 
         results = data.get("results", [])
@@ -75,10 +86,13 @@ def hent_aktuelle_huse():
     return huse
 
 
-def generer_html_rapport(tidsserie_data):
-    """Genererer en HTML-rapport med et Plotly Express-diagram og tabeller over afgang og prisnedsættelser."""
+def generer_fane_indhold(key, kommune_navn, tidsserie_data):
+    """Bygger HTML og Plotly-graf for én specifik kommune."""
+    kom_data = tidsserie_data.get(key, {})
+
+    # 1. Byg Dataframe til diagram
     rows = []
-    for dato, data in tidsserie_data.items():
+    for dato, data in kom_data.items():
         rows.append(
             {
                 "Dato": dato,
@@ -89,29 +103,29 @@ def generer_html_rapport(tidsserie_data):
             }
         )
 
-    df = pd.DataFrame(rows)
+    if rows:
+        df = pd.DataFrame(rows)
+        fig = px.line(
+            df,
+            x="Dato",
+            y=["Boligudbud", "Tilgang (Nye)", "Afgang (Fjernet)", "Prisnedsættelser"],
+            title=f"Boligmarkedet i {kommune_navn} (Udbud, ændringer & prisændringer)",
+            labels={"value": "Antal boliger", "variable": "Måling", "Dato": "Dato"},
+            markers=True,
+        )
+        fig.update_layout(
+            template="plotly_white",
+            hovermode="x unified",
+            legend=dict(title="", orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
+        )
+        chart_html = fig.to_html(full_html=False, include_plotlyjs=False)
+    else:
+        chart_html = "<p>Ingen historiske data tilgængelige endnu.</p>"
 
-    fig = px.line(
-        df,
-        x="Dato",
-        y=["Boligudbud", "Tilgang (Nye)", "Afgang (Fjernet)", "Prisnedsættelser"],
-        title="Boligmarkedet i Hvidovre Kommune (Udbud, ændringer & prisændringer)",
-        labels={"value": "Antal boliger", "variable": "Måling", "Dato": "Dato"},
-        markers=True,
-    )
-
-    fig.update_layout(
-        template="plotly_white",
-        hovermode="x unified",
-        legend=dict(title="", orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
-    )
-
-    chart_html = fig.to_html(full_html=False, include_plotlyjs="cdn")
-
-    # 1. Tabel over PRISNEDSÆTTELSER
+    # 2. Tabel over PRISNEDSÆTTELSER
     pris_rows_html = ""
-    for dato in sorted(tidsserie_data.keys(), reverse=True):
-        nedsaettelser = tidsserie_data[dato].get("prisnedsaettelser_huse", [])
+    for dato in sorted(kom_data.keys(), reverse=True):
+        nedsaettelser = kom_data[dato].get("prisnedsaettelser_huse", [])
         if nedsaettelser:
             for h in nedsaettelser:
                 pris_for = f"{h['pris_for']:,} kr.".replace(",", ".") if h.get("pris_for") else "N/A"
@@ -136,10 +150,10 @@ def generer_html_rapport(tidsserie_data):
     if not pris_rows_html:
         pris_rows_html = "<tr><td colspan='6'>Ingen prisnedsættelser registreret endnu.</td></tr>"
 
-    # 2. Tabel over AFGÅEDE BOLIGER
+    # 3. Tabel over AFGÅEDE BOLIGER
     afgang_rows_html = ""
-    for dato in sorted(tidsserie_data.keys(), reverse=True):
-        afgaaede = tidsserie_data[dato].get("afgaaet_huse", [])
+    for dato in sorted(kom_data.keys(), reverse=True):
+        afgaaede = kom_data[dato].get("afgaaet_huse", [])
         if afgaaede:
             for h in afgaaede:
                 pris_formatted = f"{h['pris']:,} kr.".replace(",", ".") if h.get("pris") else "N/A"
@@ -158,15 +172,60 @@ def generer_html_rapport(tidsserie_data):
     if not afgang_rows_html:
         afgang_rows_html = "<tr><td colspan='5'>Ingen afgåede boliger registreret endnu.</td></tr>"
 
-    # Tidspunkt ud fra miljøets/systemets tidszone (sat via TZ i GitHub Actions)
+    return f"""
+        <div class="chart-box">
+            {chart_html}
+        </div>
+
+        <h2>📉 Historiske prisnedsættelser ({kommune_navn})</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Dato</th>
+                    <th>Adresse</th>
+                    <th>Før pris</th>
+                    <th>Efter pris</th>
+                    <th>Nedsætning</th>
+                    <th>Link</th>
+                </tr>
+            </thead>
+            <tbody>
+                {pris_rows_html}
+            </tbody>
+        </table>
+
+        <h2>📋 Afgåede boliger ({kommune_navn})</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Dato</th>
+                    <th>Adresse</th>
+                    <th>Kvadratmeter</th>
+                    <th>Sidste udbudspris</th>
+                    <th>Link</th>
+                </tr>
+            </thead>
+            <tbody>
+                {afgang_rows_html}
+            </tbody>
+        </table>
+    """
+
+
+def generer_samlet_html(tidsserie_data):
+    """Genererer en samlet HTML-fil med faner for hver kommune."""
     nu_tid = datetime.now().strftime("%d-%m-%Y kl. %H:%M")
+
+    hvidovre_html = generer_fane_indhold("hvidovre", KOMMUNER["hvidovre"]["navn"], tidsserie_data)
+    kobenhavn_html = generer_fane_indhold("kobenhavn", KOMMUNER["kobenhavn"]["navn"], tidsserie_data)
 
     html_content = f"""<!DOCTYPE html>
 <html lang="da">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Boligmarkedet i Hvidovre Kommune</title>
+    <title>Boligmarkedet - Hvidovre & København</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <style>
         body {{
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
@@ -186,6 +245,40 @@ def generer_html_rapport(tidsserie_data):
         h1, h2 {{
             color: #1a252f;
         }}
+        
+        /* Faneblade (Tabs) CSS */
+        .tab-buttons {{
+            display: flex;
+            gap: 10px;
+            margin-bottom: 25px;
+            border-bottom: 2px solid #e9ecef;
+        }}
+        .tab-btn {{
+            padding: 12px 24px;
+            border: none;
+            background: none;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            color: #6c757d;
+            border-bottom: 3px solid transparent;
+            margin-bottom: -2px;
+            transition: all 0.2s ease;
+        }}
+        .tab-btn:hover {{
+            color: #0066cc;
+        }}
+        .tab-btn.active {{
+            color: #0066cc;
+            border-bottom-color: #0066cc;
+        }}
+        .tab-content {{
+            display: none;
+        }}
+        .tab-content.active {{
+            display: block;
+        }}
+
         .chart-box {{
             margin-bottom: 40px;
         }}
@@ -224,50 +317,48 @@ def generer_html_rapport(tidsserie_data):
 </head>
 <body>
     <div class="container">
-        <h1>🏡 Boligudbud & Historik i Hvidovre Kommune</h1>
+        <h1>🏡 Boligudbud & Historik</h1>
         <p>Automatisk daglig opdatering af huse og rækkehuse til salg.</p>
-        
-        <div class="chart-box">
-            {chart_html}
+
+        <!-- Fane-knapper -->
+        <div class="tab-buttons">
+            <button class="tab-btn active" onclick="openTab(event, 'tab-hvidovre')">Hvidovre Kommune</button>
+            <button class="tab-btn" onclick="openTab(event, 'tab-kobenhavn')">Københavns Kommune</button>
         </div>
 
-        <h2>📉 Historiske prisnedsættelser</h2>
-        <table>
-            <thead>
-                <tr>
-                    <th>Dato</th>
-                    <th>Adresse</th>
-                    <th>Før pris</th>
-                    <th>Efter pris</th>
-                    <th>Nedsætning</th>
-                    <th>Link</th>
-                </tr>
-            </thead>
-            <tbody>
-                {pris_rows_html}
-            </tbody>
-        </table>
+        <!-- Fane 1: Hvidovre -->
+        <div id="tab-hvidovre" class="tab-content active">
+            {hvidovre_html}
+        </div>
 
-        <h2>📋 Afgåede boliger (Solgt / Fjernet fra udbud)</h2>
-        <table>
-            <thead>
-                <tr>
-                    <th>Dato</th>
-                    <th>Adresse</th>
-                    <th>Kvadratmeter</th>
-                    <th>Sidste udbudspris</th>
-                    <th>Link</th>
-                </tr>
-            </thead>
-            <tbody>
-                {afgang_rows_html}
-            </tbody>
-        </table>
+        <!-- Fane 2: København -->
+        <div id="tab-kobenhavn" class="tab-content">
+            {kobenhavn_html}
+        </div>
 
         <div class="footer">
             Sidst opdateret: {nu_tid}
         </div>
     </div>
+
+    <script>
+        function openTab(evt, tabName) {{
+            var i, tabcontent, tablinks;
+            tabcontent = document.getElementsByClassName("tab-content");
+            for (i = 0; i < tabcontent.length; i++) {{
+                tabcontent[i].classList.remove("active");
+            }}
+            tablinks = document.getElementsByClassName("tab-btn");
+            for (i = 0; i < tablinks.length; i++) {{
+                tablinks[i].classList.remove("active");
+            }}
+            document.getElementById(tabName).classList.add("active");
+            evt.currentTarget.classList.add("active");
+            
+            // Tving Plotly til at tilpasse grafstørrelsen ved fane-skift
+            window.dispatchEvent(new Event('resize'));
+        }}
+    </script>
 </body>
 </html>
 """
@@ -275,83 +366,103 @@ def generer_html_rapport(tidsserie_data):
     with open(HTML_OUTPUT, "w", encoding="utf-8") as f:
         f.write(html_content)
 
-    print(f"✅ HTML-rapport opdateret: '{HTML_OUTPUT}'")
+    print(f"✅ HTML-rapport opdateret med faner: '{HTML_OUTPUT}'")
 
 
 def sammenlign_og_opdater():
-    """Hovedfunktion for samkørsel, historikopdatering og HTML-generering."""
-    dagens_huse = hent_aktuelle_huse()
-
-    if not dagens_huse:
-        print("Fejl: Ingen huse fundet.")
-        return
-
-    tidligere_huse = {}
-    første_kørsel = not os.path.exists(DATA_FILE)
-
-    if os.path.exists(DATA_FILE):
-        with open(DATA_FILE, "r", encoding="utf-8") as f:
-            tidligere_huse = json.load(f)
-
-    dagens_ids = set(dagens_huse.keys())
-    tidligere_ids = set(tidligere_huse.keys())
-
-    nye_ids = dagens_ids - tidligere_ids
-    fjernede_ids = tidligere_ids - dagens_ids if not første_kørsel else set()
-    eksisterende_ids = dagens_ids.intersection(tidligere_ids) if not første_kørsel else set()
-
-    prisnedsaettelser_liste = []
-    for hid in eksisterende_ids:
-        gammel_pris = tidligere_huse[hid].get("pris")
-        ny_pris = dagens_huse[hid].get("pris")
-
-        if gammel_pris and ny_pris and ny_pris < gammel_pris:
-            forskellig = gammel_pris - ny_pris
-            pct = round((forskellig / gammel_pris) * 100, 1)
-            prisnedsaettelser_liste.append(
-                {
-                    "adresse": dagens_huse[hid]["adresse"],
-                    "pris_for": gammel_pris,
-                    "pris_efter": ny_pris,
-                    "besparelse": forskellig,
-                    "procent": pct,
-                    "url": dagens_huse[hid]["url"],
-                }
-            )
-
+    """Behandler data for hver kommune og gemmer historik."""
+    # Indlæs samlet tidsserie-historik (eller konverter gammelt format)
     tidsserie_data = {}
     if os.path.exists(TIMESERIES_FILE):
         with open(TIMESERIES_FILE, "r", encoding="utf-8") as f:
-            tidsserie_data = json.load(f)
+            raw_data = json.load(f)
+
+            # Konverter gammel tidsserie-struktur ifald den fandtes i roden
+            if raw_data and not ("hvidovre" in raw_data or "kobenhavn" in raw_data):
+                tidsserie_data = {"hvidovre": raw_data, "kobenhavn": {}}
+            else:
+                tidsserie_data = raw_data
 
     idag_str = datetime.now().strftime("%Y-%m-%d")
 
-    afgaaet_liste = [
-        {
-            "adresse": tidligere_huse[hid]["adresse"],
-            "kvm": tidligere_huse[hid]["kvm"],
-            "pris": tidligere_huse[hid]["pris"],
-            "url": tidligere_huse[hid]["url"],
+    # Gennemgå hver kommune
+    for key, info in KOMMUNER.items():
+        print(f"Henter og behandler data for {info['navn']}...")
+        dagens_huse = hent_aktuelle_huse(info["id"])
+
+        if not dagens_huse:
+            print(f"Advarsel: Ingen huse fundet for {info['navn']}.")
+            continue
+
+        tidligere_huse = {}
+        historik_fil = info["historik_fil"]
+        første_kørsel = not os.path.exists(historik_fil)
+
+        if os.path.exists(historik_fil):
+            with open(historik_fil, "r", encoding="utf-8") as f:
+                tidligere_huse = json.load(f)
+
+        dagens_ids = set(dagens_huse.keys())
+        tidligere_ids = set(tidligere_huse.keys())
+
+        nye_ids = dagens_ids - tidligere_ids
+        fjernede_ids = tidligere_ids - dagens_ids if not første_kørsel else set()
+        eksisterende_ids = dagens_ids.intersection(tidligere_ids) if not første_kørsel else set()
+
+        # Registrer prisnedsættelser
+        prisnedsaettelser_liste = []
+        for hid in eksisterende_ids:
+            gammel_pris = tidligere_huse[hid].get("pris")
+            ny_pris = dagens_huse[hid].get("pris")
+
+            if gammel_pris and ny_pris and ny_pris < gammel_pris:
+                forskellig = gammel_pris - ny_pris
+                pct = round((forskellig / gammel_pris) * 100, 1)
+                prisnedsaettelser_liste.append(
+                    {
+                        "adresse": dagens_huse[hid]["adresse"],
+                        "pris_for": gammel_pris,
+                        "pris_efter": ny_pris,
+                        "besparelse": forskellig,
+                        "procent": pct,
+                        "url": dagens_huse[hid]["url"],
+                    }
+                )
+
+        # Gem afgåede huse
+        afgaaet_liste = [
+            {
+                "adresse": tidligere_huse[hid]["adresse"],
+                "kvm": tidligere_huse[hid]["kvm"],
+                "pris": tidligere_huse[hid]["pris"],
+                "url": tidligere_huse[hid]["url"],
+            }
+            for hid in fjernede_ids
+        ]
+
+        # Sørg for at struktur findes for kommune
+        if key not in tidsserie_data:
+            tidsserie_data[key] = {}
+
+        tidsserie_data[key][idag_str] = {
+            "total_udbud": len(dagens_huse),
+            "tilgang_antal": len(nye_ids) if not første_kørsel else 0,
+            "afgang_antal": len(fjernede_ids),
+            "prisnedsaettelse_antal": len(prisnedsaettelser_liste),
+            "afgaaet_huse": afgaaet_liste,
+            "prisnedsaettelser_huse": prisnedsaettelser_liste,
         }
-        for hid in fjernede_ids
-    ]
 
-    tidsserie_data[idag_str] = {
-        "total_udbud": len(dagens_huse),
-        "tilgang_antal": len(nye_ids) if not første_kørsel else 0,
-        "afgang_antal": len(fjernede_ids),
-        "prisnedsaettelse_antal": len(prisnedsaettelser_liste),
-        "afgaaet_huse": afgaaet_liste,
-        "prisnedsaettelser_huse": prisnedsaettelser_liste,
-    }
+        # Gem kommunens egen historikfil for huse
+        with open(historik_fil, "w", encoding="utf-8") as f:
+            json.dump(dagens_huse, f, ensure_ascii=False, indent=2)
 
-    with open(DATA_FILE, "w", encoding="utf-8") as f:
-        json.dump(dagens_huse, f, ensure_ascii=False, indent=2)
-
+    # Gem samlet tidsserie
     with open(TIMESERIES_FILE, "w", encoding="utf-8") as f:
         json.dump(tidsserie_data, f, ensure_ascii=False, indent=2)
 
-    generer_html_rapport(tidsserie_data)
+    # Byg samlet HTML med faner
+    generer_samlet_html(tidsserie_data)
 
 
 if __name__ == "__main__":
