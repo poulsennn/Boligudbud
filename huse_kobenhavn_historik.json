@@ -1,0 +1,2693 @@
+{
+  "2342166": {
+    "id": "2342166",
+    "adresse": "Lundeborgvej 2, 2900 Hellerup",
+    "pris": 7795000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1964,
+    "url": "https://www.boliga.dk/bolig/2342166"
+  },
+  "2351973": {
+    "id": "2351973",
+    "adresse": "Lundedalsvej 8, 2900 Hellerup",
+    "pris": 10495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1956,
+    "url": "https://www.boliga.dk/bolig/2351973"
+  },
+  "2355187": {
+    "id": "2355187",
+    "adresse": "Rygårds Allé 135B, 2900 Hellerup",
+    "pris": 12995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 2017,
+    "url": "https://www.boliga.dk/bolig/2355187"
+  },
+  "2354265": {
+    "id": "2354265",
+    "adresse": "Strandagervej 13, 2900 Hellerup",
+    "pris": 17795000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1958,
+    "url": "https://www.boliga.dk/bolig/2354265"
+  },
+  "2352944": {
+    "id": "2352944",
+    "adresse": "Lundevangsvej 6, 2900 Hellerup",
+    "pris": 18495000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 1961,
+    "url": "https://www.boliga.dk/bolig/2352944"
+  },
+  "2314898": {
+    "id": "2314898",
+    "adresse": "Strandagervej 9, 2900 Hellerup",
+    "pris": 19495000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1916,
+    "url": "https://www.boliga.dk/bolig/2314898"
+  },
+  "2331649": {
+    "id": "2331649",
+    "adresse": "Gammel Vartov Vej 21, 2900 Hellerup",
+    "pris": 29995000,
+    "kvm": null,
+    "vaerelser": 10.0,
+    "byggeaar": 1916,
+    "url": "https://www.boliga.dk/bolig/2331649"
+  },
+  "2345451": {
+    "id": "2345451",
+    "adresse": "Svanemøllevej 33, 2900 Hellerup",
+    "pris": 39000000,
+    "kvm": null,
+    "vaerelser": 10.0,
+    "byggeaar": 1937,
+    "url": "https://www.boliga.dk/bolig/2345451"
+  },
+  "2354929": {
+    "id": "2354929",
+    "adresse": "Ehlersvej 24, 2900 Hellerup",
+    "pris": 68000000,
+    "kvm": null,
+    "vaerelser": 8.0,
+    "byggeaar": 1908,
+    "url": "https://www.boliga.dk/bolig/2354929"
+  },
+  "2363750": {
+    "id": "2363750",
+    "adresse": "Tudskærvej 24, 2720 Vanløse",
+    "pris": 3095000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1946,
+    "url": "https://www.boliga.dk/bolig/2363750"
+  },
+  "2369742": {
+    "id": "2369742",
+    "adresse": "Randbølvej 44, 2720 Vanløse",
+    "pris": 3995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1938,
+    "url": "https://www.boliga.dk/bolig/2369742"
+  },
+  "2356193": {
+    "id": "2356193",
+    "adresse": "Jyllingevej 106, 2720 Vanløse",
+    "pris": 5500000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1930,
+    "url": "https://www.boliga.dk/bolig/2356193"
+  },
+  "2351432": {
+    "id": "2351432",
+    "adresse": "Tybjergvej 65A, 2720 Vanløse",
+    "pris": 5999000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1971,
+    "url": "https://www.boliga.dk/bolig/2351432"
+  },
+  "2347263": {
+    "id": "2347263",
+    "adresse": "Slotsherrensvej 35, 2720 Vanløse",
+    "pris": 6498000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1937,
+    "url": "https://www.boliga.dk/bolig/2347263"
+  },
+  "2363751": {
+    "id": "2363751",
+    "adresse": "Tudskærvej 24, 2720 Vanløse",
+    "pris": 7695000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1946,
+    "url": "https://www.boliga.dk/bolig/2363751"
+  },
+  "2291604": {
+    "id": "2291604",
+    "adresse": "Ålekistevej 17, 2720 Vanløse",
+    "pris": 7995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1965,
+    "url": "https://www.boliga.dk/bolig/2291604"
+  },
+  "2312799": {
+    "id": "2312799",
+    "adresse": "Slotsherrensvej 52, 2720 Vanløse",
+    "pris": 7995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1919,
+    "url": "https://www.boliga.dk/bolig/2312799"
+  },
+  "2359287": {
+    "id": "2359287",
+    "adresse": "Slotsherrensvej 25, 2720 Vanløse",
+    "pris": 7995000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1933,
+    "url": "https://www.boliga.dk/bolig/2359287"
+  },
+  "2337565": {
+    "id": "2337565",
+    "adresse": "Hasselvej 13, 2720 Vanløse",
+    "pris": 8495000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1937,
+    "url": "https://www.boliga.dk/bolig/2337565"
+  },
+  "2367411": {
+    "id": "2367411",
+    "adresse": "Egemarkevej 8, 2720 Vanløse",
+    "pris": 8498000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1925,
+    "url": "https://www.boliga.dk/bolig/2367411"
+  },
+  "2286260": {
+    "id": "2286260",
+    "adresse": "Egholmvej 8, 2720 Vanløse",
+    "pris": 8650000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1925,
+    "url": "https://www.boliga.dk/bolig/2286260"
+  },
+  "2361494": {
+    "id": "2361494",
+    "adresse": "Hvidtjørnevej 2, 2720 Vanløse",
+    "pris": 8995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1946,
+    "url": "https://www.boliga.dk/bolig/2361494"
+  },
+  "2359030": {
+    "id": "2359030",
+    "adresse": "Bratskovvej 14A, 2720 Vanløse",
+    "pris": 9495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1966,
+    "url": "https://www.boliga.dk/bolig/2359030"
+  },
+  "2369836": {
+    "id": "2369836",
+    "adresse": "Toftøjevej 20, 2720 Vanløse",
+    "pris": 9498000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1931,
+    "url": "https://www.boliga.dk/bolig/2369836"
+  },
+  "2356945": {
+    "id": "2356945",
+    "adresse": "Fuglagervej 33, 2720 Vanløse",
+    "pris": 9795000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1934,
+    "url": "https://www.boliga.dk/bolig/2356945"
+  },
+  "2349201": {
+    "id": "2349201",
+    "adresse": "Nørager Plads 8, 2720 Vanløse",
+    "pris": 9798000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1929,
+    "url": "https://www.boliga.dk/bolig/2349201"
+  },
+  "2344529": {
+    "id": "2344529",
+    "adresse": "Bangsbovej 30, 2720 Vanløse",
+    "pris": 9995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1935,
+    "url": "https://www.boliga.dk/bolig/2344529"
+  },
+  "2354812": {
+    "id": "2354812",
+    "adresse": "Egelykkevej 5, st. tv, 2720 Vanløse",
+    "pris": 9995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1945,
+    "url": "https://www.boliga.dk/bolig/2354812"
+  },
+  "2366729": {
+    "id": "2366729",
+    "adresse": "Flinterupvej 18, 2720 Vanløse",
+    "pris": 9995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1962,
+    "url": "https://www.boliga.dk/bolig/2366729"
+  },
+  "2334184": {
+    "id": "2334184",
+    "adresse": "Morsøvej 53, 2720 Vanløse",
+    "pris": 10495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1923,
+    "url": "https://www.boliga.dk/bolig/2334184"
+  },
+  "2367849": {
+    "id": "2367849",
+    "adresse": "Bangsbovej 39, 2720 Vanløse",
+    "pris": 10795000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1957,
+    "url": "https://www.boliga.dk/bolig/2367849"
+  },
+  "2345498": {
+    "id": "2345498",
+    "adresse": "Bratskovvej 25, 2720 Vanløse",
+    "pris": 10995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1935,
+    "url": "https://www.boliga.dk/bolig/2345498"
+  },
+  "2333600": {
+    "id": "2333600",
+    "adresse": "Åbjergvej 14A, 2720 Vanløse",
+    "pris": 10998000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1947,
+    "url": "https://www.boliga.dk/bolig/2333600"
+  },
+  "2341685": {
+    "id": "2341685",
+    "adresse": "Egholmvej 15, 2720 Vanløse",
+    "pris": 11395000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1926,
+    "url": "https://www.boliga.dk/bolig/2341685"
+  },
+  "2370204": {
+    "id": "2370204",
+    "adresse": "Højstrupvej 38, 2720 Vanløse",
+    "pris": 11495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1932,
+    "url": "https://www.boliga.dk/bolig/2370204"
+  },
+  "2334178": {
+    "id": "2334178",
+    "adresse": "Havdrupvej 141, 2720 Vanløse",
+    "pris": 11500000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1932,
+    "url": "https://www.boliga.dk/bolig/2334178"
+  },
+  "2365818": {
+    "id": "2365818",
+    "adresse": "Kongsdalvej 43, 2720 Vanløse",
+    "pris": 11650000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1934,
+    "url": "https://www.boliga.dk/bolig/2365818"
+  },
+  "2352305": {
+    "id": "2352305",
+    "adresse": "Apollovej 16A, 2720 Vanløse",
+    "pris": 11900000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 1935,
+    "url": "https://www.boliga.dk/bolig/2352305"
+  },
+  "2334177": {
+    "id": "2334177",
+    "adresse": "Ådalsvej 47, 2720 Vanløse",
+    "pris": 11995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1992,
+    "url": "https://www.boliga.dk/bolig/2334177"
+  },
+  "2337542": {
+    "id": "2337542",
+    "adresse": "Havdrupvej 118, 2720 Vanløse",
+    "pris": 11995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1934,
+    "url": "https://www.boliga.dk/bolig/2337542"
+  },
+  "2337887": {
+    "id": "2337887",
+    "adresse": "Kæragervej 7, 2720 Vanløse",
+    "pris": 12495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1938,
+    "url": "https://www.boliga.dk/bolig/2337887"
+  },
+  "2365048": {
+    "id": "2365048",
+    "adresse": "Fossgårdsvej 23, 2720 Vanløse",
+    "pris": 12495000,
+    "kvm": null,
+    "vaerelser": 8.0,
+    "byggeaar": 1825,
+    "url": "https://www.boliga.dk/bolig/2365048"
+  },
+  "2343895": {
+    "id": "2343895",
+    "adresse": "Selsøvej 17, 2720 Vanløse",
+    "pris": 12995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1931,
+    "url": "https://www.boliga.dk/bolig/2343895"
+  },
+  "2364131": {
+    "id": "2364131",
+    "adresse": "Klingseyvej 10A, 2720 Vanløse",
+    "pris": 12995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 2024,
+    "url": "https://www.boliga.dk/bolig/2364131"
+  },
+  "2364686": {
+    "id": "2364686",
+    "adresse": "Eriksholmvej 19, 2720 Vanløse",
+    "pris": 12995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1925,
+    "url": "https://www.boliga.dk/bolig/2364686"
+  },
+  "2367760": {
+    "id": "2367760",
+    "adresse": "Randbølvej 36, 2720 Vanløse",
+    "pris": 12995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1939,
+    "url": "https://www.boliga.dk/bolig/2367760"
+  },
+  "2318756": {
+    "id": "2318756",
+    "adresse": "Birkagervej 6, 2720 Vanløse",
+    "pris": 14500000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1940,
+    "url": "https://www.boliga.dk/bolig/2318756"
+  },
+  "2347790": {
+    "id": "2347790",
+    "adresse": "Grøndals Parkvej 42, 2720 Vanløse",
+    "pris": 15000000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1938,
+    "url": "https://www.boliga.dk/bolig/2347790"
+  },
+  "2363703": {
+    "id": "2363703",
+    "adresse": "Grønvangen 8, 2720 Vanløse",
+    "pris": 15000000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1923,
+    "url": "https://www.boliga.dk/bolig/2363703"
+  },
+  "2355409": {
+    "id": "2355409",
+    "adresse": "Limfjordsvej 50, 2720 Vanløse",
+    "pris": 15595000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1930,
+    "url": "https://www.boliga.dk/bolig/2355409"
+  },
+  "2355289": {
+    "id": "2355289",
+    "adresse": "Grostedet 10B, 2700 Brønshøj",
+    "pris": 4095000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 2027,
+    "url": "https://www.boliga.dk/bolig/2355289"
+  },
+  "2355291": {
+    "id": "2355291",
+    "adresse": "Grostedet 12B, 2700 Brønshøj",
+    "pris": 4245000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 2027,
+    "url": "https://www.boliga.dk/bolig/2355291"
+  },
+  "2355288": {
+    "id": "2355288",
+    "adresse": "Grostedet 3B, 2700 Brønshøj",
+    "pris": 4445000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 2027,
+    "url": "https://www.boliga.dk/bolig/2355288"
+  },
+  "2352403": {
+    "id": "2352403",
+    "adresse": "Muldager 55, 2700 Brønshøj",
+    "pris": 4995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1956,
+    "url": "https://www.boliga.dk/bolig/2352403"
+  },
+  "2360384": {
+    "id": "2360384",
+    "adresse": "Solgavl 12, 2700 Brønshøj",
+    "pris": 4995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 2025,
+    "url": "https://www.boliga.dk/bolig/2360384"
+  },
+  "2337323": {
+    "id": "2337323",
+    "adresse": "Dybekær 8A, 2700 Brønshøj",
+    "pris": 5699000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1977,
+    "url": "https://www.boliga.dk/bolig/2337323"
+  },
+  "2347684": {
+    "id": "2347684",
+    "adresse": "Dybekær 16A, 2700 Brønshøj",
+    "pris": 5745000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1977,
+    "url": "https://www.boliga.dk/bolig/2347684"
+  },
+  "2341864": {
+    "id": "2341864",
+    "adresse": "Møllebakken 7A, 2700 Brønshøj",
+    "pris": 5995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1965,
+    "url": "https://www.boliga.dk/bolig/2341864"
+  },
+  "2362182": {
+    "id": "2362182",
+    "adresse": "Hf. Birkevang 184, 2700 Brønshøj",
+    "pris": 5995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1938,
+    "url": "https://www.boliga.dk/bolig/2362182"
+  },
+  "2363246": {
+    "id": "2363246",
+    "adresse": "Abildvang 140, 2700 Brønshøj",
+    "pris": 5995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 2007,
+    "url": "https://www.boliga.dk/bolig/2363246"
+  },
+  "2367780": {
+    "id": "2367780",
+    "adresse": "Faksingevej 11B, 2700 Brønshøj",
+    "pris": 5995000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1975,
+    "url": "https://www.boliga.dk/bolig/2367780"
+  },
+  "2340985": {
+    "id": "2340985",
+    "adresse": "Husumvej 102A, 2700 Brønshøj",
+    "pris": 6250000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1998,
+    "url": "https://www.boliga.dk/bolig/2340985"
+  },
+  "2323191": {
+    "id": "2323191",
+    "adresse": "Dyssevænget 46, 2700 Brønshøj",
+    "pris": 6495000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1935,
+    "url": "https://www.boliga.dk/bolig/2323191"
+  },
+  "2347200": {
+    "id": "2347200",
+    "adresse": "Stenlillevej 4, 2700 Brønshøj",
+    "pris": 6495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1925,
+    "url": "https://www.boliga.dk/bolig/2347200"
+  },
+  "2360690": {
+    "id": "2360690",
+    "adresse": "Kongemarksvej 6, 2700 Brønshøj",
+    "pris": 6495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1952,
+    "url": "https://www.boliga.dk/bolig/2360690"
+  },
+  "2334255": {
+    "id": "2334255",
+    "adresse": "Tersløsevej 12, 2700 Brønshøj",
+    "pris": 6695000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1935,
+    "url": "https://www.boliga.dk/bolig/2334255"
+  },
+  "2312797": {
+    "id": "2312797",
+    "adresse": "Mellemvangen 14, 2700 Brønshøj",
+    "pris": 7195000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1916,
+    "url": "https://www.boliga.dk/bolig/2312797"
+  },
+  "2331349": {
+    "id": "2331349",
+    "adresse": "Dybekær 13, 2700 Brønshøj",
+    "pris": 7250000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1972,
+    "url": "https://www.boliga.dk/bolig/2331349"
+  },
+  "2355698": {
+    "id": "2355698",
+    "adresse": "Bakkekammen 38, 2700 Brønshøj",
+    "pris": 7250000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1974,
+    "url": "https://www.boliga.dk/bolig/2355698"
+  },
+  "2304343": {
+    "id": "2304343",
+    "adresse": "Korsager Allé 15, 2700 Brønshøj",
+    "pris": 7295000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1933,
+    "url": "https://www.boliga.dk/bolig/2304343"
+  },
+  "2320514": {
+    "id": "2320514",
+    "adresse": "Dyssevænget 72A, 2700 Brønshøj",
+    "pris": 7495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1990,
+    "url": "https://www.boliga.dk/bolig/2320514"
+  },
+  "2346715": {
+    "id": "2346715",
+    "adresse": "Islevhusvej 35, 2700 Brønshøj",
+    "pris": 7495000,
+    "kvm": null,
+    "vaerelser": 10.0,
+    "byggeaar": 1938,
+    "url": "https://www.boliga.dk/bolig/2346715"
+  },
+  "2354276": {
+    "id": "2354276",
+    "adresse": "Arnesvej 31A, 2700 Brønshøj",
+    "pris": 7495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1983,
+    "url": "https://www.boliga.dk/bolig/2354276"
+  },
+  "2310176": {
+    "id": "2310176",
+    "adresse": "Knabstrupvej 6, 2700 Brønshøj",
+    "pris": 7995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1905,
+    "url": "https://www.boliga.dk/bolig/2310176"
+  },
+  "2355749": {
+    "id": "2355749",
+    "adresse": "Tølløsevej 10, 2700 Brønshøj",
+    "pris": 7995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1910,
+    "url": "https://www.boliga.dk/bolig/2355749"
+  },
+  "2348492": {
+    "id": "2348492",
+    "adresse": "Pilesvinget 81, 2700 Brønshøj",
+    "pris": 8195000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1977,
+    "url": "https://www.boliga.dk/bolig/2348492"
+  },
+  "2364345": {
+    "id": "2364345",
+    "adresse": "Risvangen 43, 2700 Brønshøj",
+    "pris": 8195000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1958,
+    "url": "https://www.boliga.dk/bolig/2364345"
+  },
+  "2366996": {
+    "id": "2366996",
+    "adresse": "Dyssevænget 60, 2700 Brønshøj",
+    "pris": 8250000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1963,
+    "url": "https://www.boliga.dk/bolig/2366996"
+  },
+  "2344609": {
+    "id": "2344609",
+    "adresse": "Brønshøjholms Allé 42, 2700 Brønshøj",
+    "pris": 8495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1895,
+    "url": "https://www.boliga.dk/bolig/2344609"
+  },
+  "2367728": {
+    "id": "2367728",
+    "adresse": "Degnemose Allé 30, 2700 Brønshøj",
+    "pris": 8495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1941,
+    "url": "https://www.boliga.dk/bolig/2367728"
+  },
+  "2358480": {
+    "id": "2358480",
+    "adresse": "Brønshøjvej 27, 2700 Brønshøj",
+    "pris": 8695000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1929,
+    "url": "https://www.boliga.dk/bolig/2358480"
+  },
+  "2298774": {
+    "id": "2298774",
+    "adresse": "Sparresholmvej 8, 2700 Brønshøj",
+    "pris": 8995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1946,
+    "url": "https://www.boliga.dk/bolig/2298774"
+  },
+  "2354878": {
+    "id": "2354878",
+    "adresse": "Kongstedvej 9C, 2700 Brønshøj",
+    "pris": 8995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1979,
+    "url": "https://www.boliga.dk/bolig/2354878"
+  },
+  "2368443": {
+    "id": "2368443",
+    "adresse": "Bjernedevej 8, 2700 Brønshøj",
+    "pris": 8995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1932,
+    "url": "https://www.boliga.dk/bolig/2368443"
+  },
+  "2354877": {
+    "id": "2354877",
+    "adresse": "Uggerløsevej 10, 2700 Brønshøj",
+    "pris": 9245000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1934,
+    "url": "https://www.boliga.dk/bolig/2354877"
+  },
+  "2357550": {
+    "id": "2357550",
+    "adresse": "Dybekær 14, 2700 Brønshøj",
+    "pris": 9245000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1931,
+    "url": "https://www.boliga.dk/bolig/2357550"
+  },
+  "2354873": {
+    "id": "2354873",
+    "adresse": "Stenmaglevej 112, 2700 Brønshøj",
+    "pris": 9495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2014,
+    "url": "https://www.boliga.dk/bolig/2354873"
+  },
+  "2363596": {
+    "id": "2363596",
+    "adresse": "Hampeland 11, 2700 Brønshøj",
+    "pris": 9495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1937,
+    "url": "https://www.boliga.dk/bolig/2363596"
+  },
+  "2364230": {
+    "id": "2364230",
+    "adresse": "Veksøvej 20, 2700 Brønshøj",
+    "pris": 9495000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1940,
+    "url": "https://www.boliga.dk/bolig/2364230"
+  },
+  "2367207": {
+    "id": "2367207",
+    "adresse": "Gråbynkevej 4, 2700 Brønshøj",
+    "pris": 9495000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1936,
+    "url": "https://www.boliga.dk/bolig/2367207"
+  },
+  "2346647": {
+    "id": "2346647",
+    "adresse": "Gaunøvej 17, 2700 Brønshøj",
+    "pris": 9845000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1930,
+    "url": "https://www.boliga.dk/bolig/2346647"
+  },
+  "2360941": {
+    "id": "2360941",
+    "adresse": "Bjergmarksvej 8B, 2700 Brønshøj",
+    "pris": 9995000,
+    "kvm": null,
+    "vaerelser": 9.0,
+    "byggeaar": 1859,
+    "url": "https://www.boliga.dk/bolig/2360941"
+  },
+  "2362885": {
+    "id": "2362885",
+    "adresse": "Højlandsvangen 82, 2700 Brønshøj",
+    "pris": 9995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1928,
+    "url": "https://www.boliga.dk/bolig/2362885"
+  },
+  "2363042": {
+    "id": "2363042",
+    "adresse": "Lystrupvej 8, 2700 Brønshøj",
+    "pris": 9995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1926,
+    "url": "https://www.boliga.dk/bolig/2363042"
+  },
+  "2367191": {
+    "id": "2367191",
+    "adresse": "Pilesvinget 13, 2700 Brønshøj",
+    "pris": 9995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1942,
+    "url": "https://www.boliga.dk/bolig/2367191"
+  },
+  "2367293": {
+    "id": "2367293",
+    "adresse": "Marbjergvej 5, 2700 Brønshøj",
+    "pris": 9995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1930,
+    "url": "https://www.boliga.dk/bolig/2367293"
+  },
+  "2359323": {
+    "id": "2359323",
+    "adresse": "Kongstedvej 9A, 2700 Brønshøj",
+    "pris": 10495000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1930,
+    "url": "https://www.boliga.dk/bolig/2359323"
+  },
+  "2327413": {
+    "id": "2327413",
+    "adresse": "Sonnerupvej 88, 2700 Brønshøj",
+    "pris": 10995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1927,
+    "url": "https://www.boliga.dk/bolig/2327413"
+  },
+  "2358481": {
+    "id": "2358481",
+    "adresse": "Lilliendalsvej 8, 2700 Brønshøj",
+    "pris": 10995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1914,
+    "url": "https://www.boliga.dk/bolig/2358481"
+  },
+  "2362358": {
+    "id": "2362358",
+    "adresse": "Åkandevej 5, 2700 Brønshøj",
+    "pris": 10995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1909,
+    "url": "https://www.boliga.dk/bolig/2362358"
+  },
+  "2366706": {
+    "id": "2366706",
+    "adresse": "Kildeløbet 34, 2700 Brønshøj",
+    "pris": 10995000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 1934,
+    "url": "https://www.boliga.dk/bolig/2366706"
+  },
+  "2355834": {
+    "id": "2355834",
+    "adresse": "Veksøvej 52, 2700 Brønshøj",
+    "pris": 11195000,
+    "kvm": null,
+    "vaerelser": 9.0,
+    "byggeaar": 2008,
+    "url": "https://www.boliga.dk/bolig/2355834"
+  },
+  "2350811": {
+    "id": "2350811",
+    "adresse": "Klintevej 18, 2700 Brønshøj",
+    "pris": 11245000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1930,
+    "url": "https://www.boliga.dk/bolig/2350811"
+  },
+  "2346536": {
+    "id": "2346536",
+    "adresse": "Fuglsang Allé 124, 2700 Brønshøj",
+    "pris": 11495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1934,
+    "url": "https://www.boliga.dk/bolig/2346536"
+  },
+  "2351786": {
+    "id": "2351786",
+    "adresse": "Glumsøvej 22, 2700 Brønshøj",
+    "pris": 11495000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 2026,
+    "url": "https://www.boliga.dk/bolig/2351786"
+  },
+  "2331645": {
+    "id": "2331645",
+    "adresse": "Løvetandsvej 41, 2700 Brønshøj",
+    "pris": 11850000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 1945,
+    "url": "https://www.boliga.dk/bolig/2331645"
+  },
+  "2332210": {
+    "id": "2332210",
+    "adresse": "Præstegårds Allé 25, 2700 Brønshøj",
+    "pris": 11995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1914,
+    "url": "https://www.boliga.dk/bolig/2332210"
+  },
+  "2366593": {
+    "id": "2366593",
+    "adresse": "Tryggevældevej 121, 2700 Brønshøj",
+    "pris": 11995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1935,
+    "url": "https://www.boliga.dk/bolig/2366593"
+  },
+  "2334155": {
+    "id": "2334155",
+    "adresse": "Gråbynkevej 22, 2700 Brønshøj",
+    "pris": 12500000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 1939,
+    "url": "https://www.boliga.dk/bolig/2334155"
+  },
+  "2332160": {
+    "id": "2332160",
+    "adresse": "Brønshøj Kirkevej 20, 2700 Brønshøj",
+    "pris": 12900000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1938,
+    "url": "https://www.boliga.dk/bolig/2332160"
+  },
+  "2356811": {
+    "id": "2356811",
+    "adresse": "Astrupvej 52, 2700 Brønshøj",
+    "pris": 12995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 2022,
+    "url": "https://www.boliga.dk/bolig/2356811"
+  },
+  "2322030": {
+    "id": "2322030",
+    "adresse": "Højsagervej 32, 1., 2500 Valby",
+    "pris": 2995000,
+    "kvm": null,
+    "vaerelser": 2.0,
+    "byggeaar": 1944,
+    "url": "https://www.boliga.dk/bolig/2322030"
+  },
+  "2323524": {
+    "id": "2323524",
+    "adresse": "Vigerslevvej 251A, 2500 Valby",
+    "pris": 4998000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1975,
+    "url": "https://www.boliga.dk/bolig/2323524"
+  },
+  "2347789": {
+    "id": "2347789",
+    "adresse": "Humlehaven 62 1, 2500 Valby",
+    "pris": 5250000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1950,
+    "url": "https://www.boliga.dk/bolig/2347789"
+  },
+  "2341484": {
+    "id": "2341484",
+    "adresse": "Vigerslevvej 253A, 2500 Valby",
+    "pris": 5298000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1975,
+    "url": "https://www.boliga.dk/bolig/2341484"
+  },
+  "2347053": {
+    "id": "2347053",
+    "adresse": "Vigerslevvej 260B, 2500 Valby",
+    "pris": 6250000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1971,
+    "url": "https://www.boliga.dk/bolig/2347053"
+  },
+  "2281232": {
+    "id": "2281232",
+    "adresse": "Vigerslevstræde 25C, 2500 Valby",
+    "pris": 6375000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1981,
+    "url": "https://www.boliga.dk/bolig/2281232"
+  },
+  "2352433": {
+    "id": "2352433",
+    "adresse": "Urtehaven 102, 2500 Valby",
+    "pris": 6498000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1946,
+    "url": "https://www.boliga.dk/bolig/2352433"
+  },
+  "2367094": {
+    "id": "2367094",
+    "adresse": "Monrads Allé 17B, 2500 Valby",
+    "pris": 7499000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1974,
+    "url": "https://www.boliga.dk/bolig/2367094"
+  },
+  "2308504": {
+    "id": "2308504",
+    "adresse": "Kongshaven 88, 2500 Valby",
+    "pris": 7700000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1944,
+    "url": "https://www.boliga.dk/bolig/2308504"
+  },
+  "2264040": {
+    "id": "2264040",
+    "adresse": "Vigerslevstræde 9+9A, 2500 Valby",
+    "pris": 7750000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1893,
+    "url": "https://www.boliga.dk/bolig/2264040"
+  },
+  "2364537": {
+    "id": "2364537",
+    "adresse": "Monrads Allé 17A, 2500 Valby",
+    "pris": 7795000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1974,
+    "url": "https://www.boliga.dk/bolig/2364537"
+  },
+  "2360979": {
+    "id": "2360979",
+    "adresse": "Rubinolavej 33, 2500 Valby",
+    "pris": 7895000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2018,
+    "url": "https://www.boliga.dk/bolig/2360979"
+  },
+  "2342288": {
+    "id": "2342288",
+    "adresse": "Lindehaven 28, 2500 Valby",
+    "pris": 7995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1933,
+    "url": "https://www.boliga.dk/bolig/2342288"
+  },
+  "2352078": {
+    "id": "2352078",
+    "adresse": "Lily Brobergs Vej 5, 2500 Valby",
+    "pris": 8295000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2008,
+    "url": "https://www.boliga.dk/bolig/2352078"
+  },
+  "2364212": {
+    "id": "2364212",
+    "adresse": "Åhaven 86, 2500 Valby",
+    "pris": 8495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1932,
+    "url": "https://www.boliga.dk/bolig/2364212"
+  },
+  "2364488": {
+    "id": "2364488",
+    "adresse": "Buster Larsens Vej 14, 2500 Valby",
+    "pris": 8495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2009,
+    "url": "https://www.boliga.dk/bolig/2364488"
+  },
+  "2364517": {
+    "id": "2364517",
+    "adresse": "Danshøjvej 58, 2500 Valby",
+    "pris": 8495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1937,
+    "url": "https://www.boliga.dk/bolig/2364517"
+  },
+  "2370397": {
+    "id": "2370397",
+    "adresse": "Poul Reumerts Vej 31, 2500 Valby",
+    "pris": 8495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2008,
+    "url": "https://www.boliga.dk/bolig/2370397"
+  },
+  "2356669": {
+    "id": "2356669",
+    "adresse": "Kongshaven 44, 2500 Valby",
+    "pris": 8995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1937,
+    "url": "https://www.boliga.dk/bolig/2356669"
+  },
+  "2353175": {
+    "id": "2353175",
+    "adresse": "Urtehaven 34, 2500 Valby",
+    "pris": 9595000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1951,
+    "url": "https://www.boliga.dk/bolig/2353175"
+  },
+  "2366478": {
+    "id": "2366478",
+    "adresse": "Steins Plads 6, 2500 Valby",
+    "pris": 11498000,
+    "kvm": null,
+    "vaerelser": 9.0,
+    "byggeaar": 1912,
+    "url": "https://www.boliga.dk/bolig/2366478"
+  },
+  "2327424": {
+    "id": "2327424",
+    "adresse": "Ålholmvej 56, 2500 Valby",
+    "pris": 11500000,
+    "kvm": null,
+    "vaerelser": 10.0,
+    "byggeaar": 1934,
+    "url": "https://www.boliga.dk/bolig/2327424"
+  },
+  "2352012": {
+    "id": "2352012",
+    "adresse": "Nystedvej 13, 2500 Valby",
+    "pris": 11995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1929,
+    "url": "https://www.boliga.dk/bolig/2352012"
+  },
+  "2362269": {
+    "id": "2362269",
+    "adresse": "Castbergsvej 34, 2500 Valby",
+    "pris": 12900000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 1923,
+    "url": "https://www.boliga.dk/bolig/2362269"
+  },
+  "2360734": {
+    "id": "2360734",
+    "adresse": "Solskrænten 24, 2500 Valby",
+    "pris": 12995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1928,
+    "url": "https://www.boliga.dk/bolig/2360734"
+  },
+  "2369720": {
+    "id": "2369720",
+    "adresse": "Lykkebovej 44, 2500 Valby",
+    "pris": 12998000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1930,
+    "url": "https://www.boliga.dk/bolig/2369720"
+  },
+  "2341955": {
+    "id": "2341955",
+    "adresse": "Strindbergsvej 104, 2500 Valby",
+    "pris": 13250000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1914,
+    "url": "https://www.boliga.dk/bolig/2341955"
+  },
+  "2342037": {
+    "id": "2342037",
+    "adresse": "Valbygårdsvej 36, 2500 Valby",
+    "pris": 13495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1894,
+    "url": "https://www.boliga.dk/bolig/2342037"
+  },
+  "2358551": {
+    "id": "2358551",
+    "adresse": "Amalie Skrams Allé 1, 2500 Valby",
+    "pris": 13995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1914,
+    "url": "https://www.boliga.dk/bolig/2358551"
+  },
+  "2327116": {
+    "id": "2327116",
+    "adresse": "Sæbyholmsvej 32, 2500 Valby",
+    "pris": 14995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1924,
+    "url": "https://www.boliga.dk/bolig/2327116"
+  },
+  "2359189": {
+    "id": "2359189",
+    "adresse": "Eschrichtsvej 16, 2500 Valby",
+    "pris": 15500000,
+    "kvm": null,
+    "vaerelser": 8.0,
+    "byggeaar": 1913,
+    "url": "https://www.boliga.dk/bolig/2359189"
+  },
+  "2321024": {
+    "id": "2321024",
+    "adresse": "Kjærstrupvej 30, 2500 Valby",
+    "pris": 16950000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 1932,
+    "url": "https://www.boliga.dk/bolig/2321024"
+  },
+  "2326926": {
+    "id": "2326926",
+    "adresse": "Valbygårdsvej 10, 2500 Valby",
+    "pris": 18795000,
+    "kvm": null,
+    "vaerelser": 8.0,
+    "byggeaar": 1897,
+    "url": "https://www.boliga.dk/bolig/2326926"
+  },
+  "2364002": {
+    "id": "2364002",
+    "adresse": "Solskrænten 10, 2500 Valby",
+    "pris": 19500000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 1931,
+    "url": "https://www.boliga.dk/bolig/2364002"
+  },
+  "2315345": {
+    "id": "2315345",
+    "adresse": "Engdraget 25, 2500 Valby",
+    "pris": 19995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2018,
+    "url": "https://www.boliga.dk/bolig/2315345"
+  },
+  "2367202": {
+    "id": "2367202",
+    "adresse": "Nøddehaven 42, 2500 Valby",
+    "pris": 22000000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 2024,
+    "url": "https://www.boliga.dk/bolig/2367202"
+  },
+  "2254004": {
+    "id": "2254004",
+    "adresse": "Skovbogårds Allé 6, 2500 Valby",
+    "pris": 33900000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1914,
+    "url": "https://www.boliga.dk/bolig/2254004"
+  },
+  "2318017": {
+    "id": "2318017",
+    "adresse": "Bjerregårds Sidevej 5, 2500 Valby",
+    "pris": 35000000,
+    "kvm": null,
+    "vaerelser": 8.0,
+    "byggeaar": 1898,
+    "url": "https://www.boliga.dk/bolig/2318017"
+  },
+  "2323427": {
+    "id": "2323427",
+    "adresse": "Dexter Gordons Vej 4, 2450 København SV",
+    "pris": 4250000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 2014,
+    "url": "https://www.boliga.dk/bolig/2323427"
+  },
+  "2342213": {
+    "id": "2342213",
+    "adresse": "Teglholmens Østkaj 32, 1. tv, 2450 København SV",
+    "pris": 10995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 2022,
+    "url": "https://www.boliga.dk/bolig/2342213"
+  },
+  "2364584": {
+    "id": "2364584",
+    "adresse": "Teglholmens Østkaj 82, 2450 København SV",
+    "pris": 16495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2019,
+    "url": "https://www.boliga.dk/bolig/2364584"
+  },
+  "2362337": {
+    "id": "2362337",
+    "adresse": "Albert Schweitzers Vej 62, 2450 København SV",
+    "pris": 23000000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2020,
+    "url": "https://www.boliga.dk/bolig/2362337"
+  },
+  "2323254": {
+    "id": "2323254",
+    "adresse": "Albert Schweitzers Vej 76, 2450 København SV",
+    "pris": 23500000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2020,
+    "url": "https://www.boliga.dk/bolig/2323254"
+  },
+  "2331340": {
+    "id": "2331340",
+    "adresse": "Tuborgvej 228, 2400 København NV",
+    "pris": 4595000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 1954,
+    "url": "https://www.boliga.dk/bolig/2331340"
+  },
+  "2367977": {
+    "id": "2367977",
+    "adresse": "Utterslevvej 21A, 2400 København NV",
+    "pris": 6995000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1875,
+    "url": "https://www.boliga.dk/bolig/2367977"
+  },
+  "2352073": {
+    "id": "2352073",
+    "adresse": "Tuborgvej 178, 2400 København NV",
+    "pris": 8495000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1954,
+    "url": "https://www.boliga.dk/bolig/2352073"
+  },
+  "2356626": {
+    "id": "2356626",
+    "adresse": "Grønnemose Allé 20, 2400 København NV",
+    "pris": 8495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1943,
+    "url": "https://www.boliga.dk/bolig/2356626"
+  },
+  "2337597": {
+    "id": "2337597",
+    "adresse": "Emdrup Engvej 4, 2400 København NV",
+    "pris": 8795000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1929,
+    "url": "https://www.boliga.dk/bolig/2337597"
+  },
+  "2367874": {
+    "id": "2367874",
+    "adresse": "Rismosevej 10A, 2400 København NV",
+    "pris": 9495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1969,
+    "url": "https://www.boliga.dk/bolig/2367874"
+  },
+  "2354184": {
+    "id": "2354184",
+    "adresse": "Ravneholmsvej 15, 2400 København NV",
+    "pris": 11495000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 1921,
+    "url": "https://www.boliga.dk/bolig/2354184"
+  },
+  "2367446": {
+    "id": "2367446",
+    "adresse": "Hvidkildevej 85, 2400 København NV",
+    "pris": 12995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1929,
+    "url": "https://www.boliga.dk/bolig/2367446"
+  },
+  "2357268": {
+    "id": "2357268",
+    "adresse": "Grønnemose Allé 4, 2400 København NV",
+    "pris": 13495000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1922,
+    "url": "https://www.boliga.dk/bolig/2357268"
+  },
+  "2364455": {
+    "id": "2364455",
+    "adresse": "Smedetoften 19, 2400 København NV",
+    "pris": 13500000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1934,
+    "url": "https://www.boliga.dk/bolig/2364455"
+  },
+  "2328272": {
+    "id": "2328272",
+    "adresse": "Azaleagangen 44, 2300 København S",
+    "pris": 3995000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1966,
+    "url": "https://www.boliga.dk/bolig/2328272"
+  },
+  "2357060": {
+    "id": "2357060",
+    "adresse": "Hf. Engly 34, 2300 København S",
+    "pris": 4895000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1950,
+    "url": "https://www.boliga.dk/bolig/2357060"
+  },
+  "2366741": {
+    "id": "2366741",
+    "adresse": "Ejler Billes Allé 68, 2300 København S",
+    "pris": 4995000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 2020,
+    "url": "https://www.boliga.dk/bolig/2366741"
+  },
+  "2346303": {
+    "id": "2346303",
+    "adresse": "Azaleagangen 20, 2300 København S",
+    "pris": 5245000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1981,
+    "url": "https://www.boliga.dk/bolig/2346303"
+  },
+  "2360552": {
+    "id": "2360552",
+    "adresse": "Hannemanns Allé 4P, 2300 København S",
+    "pris": 5995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 2016,
+    "url": "https://www.boliga.dk/bolig/2360552"
+  },
+  "2293893": {
+    "id": "2293893",
+    "adresse": "Fælleddiget 25, 2300 København S",
+    "pris": 6000000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1978,
+    "url": "https://www.boliga.dk/bolig/2293893"
+  },
+  "2276526": {
+    "id": "2276526",
+    "adresse": "Nordre Kongelundsvej 1, 2300 København S",
+    "pris": 6200000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1977,
+    "url": "https://www.boliga.dk/bolig/2276526"
+  },
+  "2354286": {
+    "id": "2354286",
+    "adresse": "Hannemanns Allé 12B, 2300 København S",
+    "pris": 6295000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 2016,
+    "url": "https://www.boliga.dk/bolig/2354286"
+  },
+  "2360677": {
+    "id": "2360677",
+    "adresse": "Richard Mortensens Vej 112, 2300 København S",
+    "pris": 6295000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 2011,
+    "url": "https://www.boliga.dk/bolig/2360677"
+  },
+  "2364316": {
+    "id": "2364316",
+    "adresse": "Richard Mortensens Vej 10H, 2300 København S",
+    "pris": 6295000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2016,
+    "url": "https://www.boliga.dk/bolig/2364316"
+  },
+  "2289069": {
+    "id": "2289069",
+    "adresse": "Azaleagangen 54, 2300 København S",
+    "pris": 6495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 2023,
+    "url": "https://www.boliga.dk/bolig/2289069"
+  },
+  "2302921": {
+    "id": "2302921",
+    "adresse": "Syriensvej 37, 2300 København S",
+    "pris": 6495000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1942,
+    "url": "https://www.boliga.dk/bolig/2302921"
+  },
+  "2306416": {
+    "id": "2306416",
+    "adresse": "Hannemanns Allé 4E, 2300 København S",
+    "pris": 6495000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 2016,
+    "url": "https://www.boliga.dk/bolig/2306416"
+  },
+  "2348343": {
+    "id": "2348343",
+    "adresse": "Kongovej 14H, 2300 København S",
+    "pris": 6495000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 2021,
+    "url": "https://www.boliga.dk/bolig/2348343"
+  },
+  "2356021": {
+    "id": "2356021",
+    "adresse": "Ved Slusen 33, 2300 København S",
+    "pris": 6495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1970,
+    "url": "https://www.boliga.dk/bolig/2356021"
+  },
+  "2364765": {
+    "id": "2364765",
+    "adresse": "Hannemanns Allé 12R, 2300 København S",
+    "pris": 6495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 2016,
+    "url": "https://www.boliga.dk/bolig/2364765"
+  },
+  "2366926": {
+    "id": "2366926",
+    "adresse": "Doris Lessings Vej 51E, 2300 København S",
+    "pris": 6495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2017,
+    "url": "https://www.boliga.dk/bolig/2366926"
+  },
+  "2370344": {
+    "id": "2370344",
+    "adresse": "Doris Lessings Vej 41B, 2300 København S",
+    "pris": 6495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2017,
+    "url": "https://www.boliga.dk/bolig/2370344"
+  },
+  "2365765": {
+    "id": "2365765",
+    "adresse": "Robert Jacobsens Vej 42L, 2300 København S",
+    "pris": 6595000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2018,
+    "url": "https://www.boliga.dk/bolig/2365765"
+  },
+  "2343503": {
+    "id": "2343503",
+    "adresse": "Ejler Billes Allé 130, 1. tv., 2300 København S",
+    "pris": 6695000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 2020,
+    "url": "https://www.boliga.dk/bolig/2343503"
+  },
+  "2344964": {
+    "id": "2344964",
+    "adresse": "Richard Mortensens Vej 166, 2300 København S",
+    "pris": 6695000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 2011,
+    "url": "https://www.boliga.dk/bolig/2344964"
+  },
+  "2365868": {
+    "id": "2365868",
+    "adresse": "Agerlandsvej 49, 2300 København S",
+    "pris": 6695000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1940,
+    "url": "https://www.boliga.dk/bolig/2365868"
+  },
+  "2357664": {
+    "id": "2357664",
+    "adresse": "Azaleagangen 48, 2300 København S",
+    "pris": 6795000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1963,
+    "url": "https://www.boliga.dk/bolig/2357664"
+  },
+  "2360634": {
+    "id": "2360634",
+    "adresse": "Milosvej 10, 2300 København S",
+    "pris": 6795000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1937,
+    "url": "https://www.boliga.dk/bolig/2360634"
+  },
+  "2305618": {
+    "id": "2305618",
+    "adresse": "Kansasvej 16, 2300 København S",
+    "pris": 6950000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1930,
+    "url": "https://www.boliga.dk/bolig/2305618"
+  },
+  "2362521": {
+    "id": "2362521",
+    "adresse": "Stenrosevej 11, 2300 København S",
+    "pris": 6950000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1986,
+    "url": "https://www.boliga.dk/bolig/2362521"
+  },
+  "2331043": {
+    "id": "2331043",
+    "adresse": "Fælleddiget 81, 2300 København S",
+    "pris": 6995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1978,
+    "url": "https://www.boliga.dk/bolig/2331043"
+  },
+  "2352186": {
+    "id": "2352186",
+    "adresse": "Kongelundsvej 98B, 2300 København S",
+    "pris": 6995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 2008,
+    "url": "https://www.boliga.dk/bolig/2352186"
+  },
+  "2367456": {
+    "id": "2367456",
+    "adresse": "Kålagervej 11, 2300 København S",
+    "pris": 6995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1966,
+    "url": "https://www.boliga.dk/bolig/2367456"
+  },
+  "2291166": {
+    "id": "2291166",
+    "adresse": "Hovmålvej 104, 2300 København S",
+    "pris": 7195000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1963,
+    "url": "https://www.boliga.dk/bolig/2291166"
+  },
+  "2304331": {
+    "id": "2304331",
+    "adresse": "Tomatvej 51, 2300 København S",
+    "pris": 7495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2015,
+    "url": "https://www.boliga.dk/bolig/2304331"
+  },
+  "2306144": {
+    "id": "2306144",
+    "adresse": "Biens Allé 8A, 2300 København S",
+    "pris": 7495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1908,
+    "url": "https://www.boliga.dk/bolig/2306144"
+  },
+  "2360673": {
+    "id": "2360673",
+    "adresse": "Syriensvej 33, 2300 København S",
+    "pris": 7495000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1942,
+    "url": "https://www.boliga.dk/bolig/2360673"
+  },
+  "2366975": {
+    "id": "2366975",
+    "adresse": "Kaliforniensvej 19, 2300 København S",
+    "pris": 7495000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1938,
+    "url": "https://www.boliga.dk/bolig/2366975"
+  },
+  "2367734": {
+    "id": "2367734",
+    "adresse": "Ilfordvej 10, 2300 København S",
+    "pris": 7495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1957,
+    "url": "https://www.boliga.dk/bolig/2367734"
+  },
+  "2362966": {
+    "id": "2362966",
+    "adresse": "Syriensvej 13, 2300 København S",
+    "pris": 7500000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1935,
+    "url": "https://www.boliga.dk/bolig/2362966"
+  },
+  "2370202": {
+    "id": "2370202",
+    "adresse": "Oxford Have 159, 2300 København S",
+    "pris": 7795000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 2006,
+    "url": "https://www.boliga.dk/bolig/2370202"
+  },
+  "2322019": {
+    "id": "2322019",
+    "adresse": "Vejlands Allé 124, 2300 København S",
+    "pris": 7995000,
+    "kvm": null,
+    "vaerelser": 9.0,
+    "byggeaar": 2011,
+    "url": "https://www.boliga.dk/bolig/2322019"
+  },
+  "2366297": {
+    "id": "2366297",
+    "adresse": "Kongovej 14P, 2300 København S",
+    "pris": 7995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 2021,
+    "url": "https://www.boliga.dk/bolig/2366297"
+  },
+  "2328710": {
+    "id": "2328710",
+    "adresse": "Røde Mellemvej 104, 2300 København S",
+    "pris": 8198000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 1939,
+    "url": "https://www.boliga.dk/bolig/2328710"
+  },
+  "2364663": {
+    "id": "2364663",
+    "adresse": "Tuelandsvej 24, 2300 København S",
+    "pris": 8345000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1937,
+    "url": "https://www.boliga.dk/bolig/2364663"
+  },
+  "2349731": {
+    "id": "2349731",
+    "adresse": "Agerlandsvej 17, 2300 København S",
+    "pris": 8495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1917,
+    "url": "https://www.boliga.dk/bolig/2349731"
+  },
+  "2362416": {
+    "id": "2362416",
+    "adresse": "Kaprifolievej 13, 2300 København S",
+    "pris": 8495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1955,
+    "url": "https://www.boliga.dk/bolig/2362416"
+  },
+  "2339482": {
+    "id": "2339482",
+    "adresse": "Robert Jacobsens Vej 44M, 2300 København S",
+    "pris": 8750000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2018,
+    "url": "https://www.boliga.dk/bolig/2339482"
+  },
+  "2351048": {
+    "id": "2351048",
+    "adresse": "Robert Jacobsens Vej 44T, 2300 København S",
+    "pris": 8750000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2018,
+    "url": "https://www.boliga.dk/bolig/2351048"
+  },
+  "2356984": {
+    "id": "2356984",
+    "adresse": "Tom Kristensens Vej 81, 2300 København S",
+    "pris": 8795000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2014,
+    "url": "https://www.boliga.dk/bolig/2356984"
+  },
+  "2294008": {
+    "id": "2294008",
+    "adresse": "Ceylonvej 32, 2300 København S",
+    "pris": 8995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1930,
+    "url": "https://www.boliga.dk/bolig/2294008"
+  },
+  "2343978": {
+    "id": "2343978",
+    "adresse": "Hollands Allé 1, 2300 København S",
+    "pris": 8995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1903,
+    "url": "https://www.boliga.dk/bolig/2343978"
+  },
+  "2354611": {
+    "id": "2354611",
+    "adresse": "Etonvej 2, 2300 København S",
+    "pris": 8995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1934,
+    "url": "https://www.boliga.dk/bolig/2354611"
+  },
+  "2370292": {
+    "id": "2370292",
+    "adresse": "Lillegrund 83, 2300 København S",
+    "pris": 8995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 2003,
+    "url": "https://www.boliga.dk/bolig/2370292"
+  },
+  "2361598": {
+    "id": "2361598",
+    "adresse": "Gyldenrisvej 33, 2300 København S",
+    "pris": 9295000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1956,
+    "url": "https://www.boliga.dk/bolig/2361598"
+  },
+  "2316693": {
+    "id": "2316693",
+    "adresse": "Kornskyldvej 93, 2300 København S",
+    "pris": 9495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1952,
+    "url": "https://www.boliga.dk/bolig/2316693"
+  },
+  "2316825": {
+    "id": "2316825",
+    "adresse": "Kongelundsvej 122, 2300 København S",
+    "pris": 9495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2022,
+    "url": "https://www.boliga.dk/bolig/2316825"
+  },
+  "2355465": {
+    "id": "2355465",
+    "adresse": "Obdams Allé 35, 2300 København S",
+    "pris": 9495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1903,
+    "url": "https://www.boliga.dk/bolig/2355465"
+  },
+  "2354818": {
+    "id": "2354818",
+    "adresse": "Etonvej 6, 2300 København S",
+    "pris": 9498000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1950,
+    "url": "https://www.boliga.dk/bolig/2354818"
+  },
+  "2355816": {
+    "id": "2355816",
+    "adresse": "Portlandsvej 30, 2300 København S",
+    "pris": 9995000,
+    "kvm": null,
+    "vaerelser": 8.0,
+    "byggeaar": 1935,
+    "url": "https://www.boliga.dk/bolig/2355816"
+  },
+  "2349798": {
+    "id": "2349798",
+    "adresse": "Grækenlandsvej 151, 2300 København S",
+    "pris": 10250000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1931,
+    "url": "https://www.boliga.dk/bolig/2349798"
+  },
+  "2325678": {
+    "id": "2325678",
+    "adresse": "Amsterdamvej 26, 2300 København S",
+    "pris": 10495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1929,
+    "url": "https://www.boliga.dk/bolig/2325678"
+  },
+  "2337340": {
+    "id": "2337340",
+    "adresse": "Samosvej 5, 2300 København S",
+    "pris": 10495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1900,
+    "url": "https://www.boliga.dk/bolig/2337340"
+  },
+  "2360263": {
+    "id": "2360263",
+    "adresse": "Roselillevej 80A, 2300 København S",
+    "pris": 10495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1932,
+    "url": "https://www.boliga.dk/bolig/2360263"
+  },
+  "2364013": {
+    "id": "2364013",
+    "adresse": "Oldenborggade 12, 2300 København S",
+    "pris": 10495000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 2020,
+    "url": "https://www.boliga.dk/bolig/2364013"
+  },
+  "2362932": {
+    "id": "2362932",
+    "adresse": "Syriensvej 3, 2300 København S",
+    "pris": 10500000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1936,
+    "url": "https://www.boliga.dk/bolig/2362932"
+  },
+  "2349973": {
+    "id": "2349973",
+    "adresse": "Helikonsvej 23, 2300 København S",
+    "pris": 10650000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1925,
+    "url": "https://www.boliga.dk/bolig/2349973"
+  },
+  "2357347": {
+    "id": "2357347",
+    "adresse": "Agerlandsvej 57, 2300 København S",
+    "pris": 10998000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 2016,
+    "url": "https://www.boliga.dk/bolig/2357347"
+  },
+  "2313734": {
+    "id": "2313734",
+    "adresse": "Nordre Kongelundsvej 20, 2300 København S",
+    "pris": 11495000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1935,
+    "url": "https://www.boliga.dk/bolig/2313734"
+  },
+  "2323899": {
+    "id": "2323899",
+    "adresse": "Samosvej 16, 2300 København S",
+    "pris": 11495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1930,
+    "url": "https://www.boliga.dk/bolig/2323899"
+  },
+  "2348331": {
+    "id": "2348331",
+    "adresse": "Soltoftevej 5, 2300 København S",
+    "pris": 11595000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1927,
+    "url": "https://www.boliga.dk/bolig/2348331"
+  },
+  "2368406": {
+    "id": "2368406",
+    "adresse": "Gårdfæstevej 5, 2300 København S",
+    "pris": 11695000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 2010,
+    "url": "https://www.boliga.dk/bolig/2368406"
+  },
+  "2348186": {
+    "id": "2348186",
+    "adresse": "Engvej 104, 2300 København S",
+    "pris": 11995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1923,
+    "url": "https://www.boliga.dk/bolig/2348186"
+  },
+  "2364842": {
+    "id": "2364842",
+    "adresse": "Hilmar Baunsgaards Boulevard 15, 2300 København S",
+    "pris": 12495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2014,
+    "url": "https://www.boliga.dk/bolig/2364842"
+  },
+  "2367213": {
+    "id": "2367213",
+    "adresse": "Derbyvej 12, 2300 København S",
+    "pris": 12495000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 2026,
+    "url": "https://www.boliga.dk/bolig/2367213"
+  },
+  "2295229": {
+    "id": "2295229",
+    "adresse": "Hilmar Baunsgaards Boulevard 27, 2300 København S",
+    "pris": 12745000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2014,
+    "url": "https://www.boliga.dk/bolig/2295229"
+  },
+  "2305250": {
+    "id": "2305250",
+    "adresse": "Persiensvej 14, 2300 København S",
+    "pris": 12995000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 1920,
+    "url": "https://www.boliga.dk/bolig/2305250"
+  },
+  "2305285": {
+    "id": "2305285",
+    "adresse": "Kingstonvej 9, 2300 København S",
+    "pris": 12995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2020,
+    "url": "https://www.boliga.dk/bolig/2305285"
+  },
+  "2355010": {
+    "id": "2355010",
+    "adresse": "Niels Neergaards Gade 40, 2300 København S",
+    "pris": 12995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2014,
+    "url": "https://www.boliga.dk/bolig/2355010"
+  },
+  "2355403": {
+    "id": "2355403",
+    "adresse": "Engvej 26, 2300 København S",
+    "pris": 12995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1929,
+    "url": "https://www.boliga.dk/bolig/2355403"
+  },
+  "2361665": {
+    "id": "2361665",
+    "adresse": "Gyldenlakvej 39, 2300 København S",
+    "pris": 12995000,
+    "kvm": null,
+    "vaerelser": 8.0,
+    "byggeaar": 1934,
+    "url": "https://www.boliga.dk/bolig/2361665"
+  },
+  "2362446": {
+    "id": "2362446",
+    "adresse": "Amager Strandvej 116F, 2300 København S",
+    "pris": 13000000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2019,
+    "url": "https://www.boliga.dk/bolig/2362446"
+  },
+  "2363154": {
+    "id": "2363154",
+    "adresse": "Amager Strandvej 116A, 2300 København S",
+    "pris": 13000000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2019,
+    "url": "https://www.boliga.dk/bolig/2363154"
+  },
+  "2363570": {
+    "id": "2363570",
+    "adresse": "Ridder Stigs Vej 11, 2300 København S",
+    "pris": 13495000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1940,
+    "url": "https://www.boliga.dk/bolig/2363570"
+  },
+  "2357420": {
+    "id": "2357420",
+    "adresse": "Kretavej 33, 2300 København S",
+    "pris": 13695000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1936,
+    "url": "https://www.boliga.dk/bolig/2357420"
+  },
+  "2367941": {
+    "id": "2367941",
+    "adresse": "Engvej 32, 2300 København S",
+    "pris": 13750000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1940,
+    "url": "https://www.boliga.dk/bolig/2367941"
+  },
+  "2336943": {
+    "id": "2336943",
+    "adresse": "Adriansvej 13, 2300 København S",
+    "pris": 13995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1938,
+    "url": "https://www.boliga.dk/bolig/2336943"
+  },
+  "2351017": {
+    "id": "2351017",
+    "adresse": "Veronavej 1, 2300 København S",
+    "pris": 14000000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1923,
+    "url": "https://www.boliga.dk/bolig/2351017"
+  },
+  "2353581": {
+    "id": "2353581",
+    "adresse": "Milanovej 29, 2300 København S",
+    "pris": 14495000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1925,
+    "url": "https://www.boliga.dk/bolig/2353581"
+  },
+  "2361235": {
+    "id": "2361235",
+    "adresse": "Ætnavej 5, 2300 København S",
+    "pris": 14750000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1905,
+    "url": "https://www.boliga.dk/bolig/2361235"
+  },
+  "2359777": {
+    "id": "2359777",
+    "adresse": "Spartavej 19, 2300 København S",
+    "pris": 14795000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1925,
+    "url": "https://www.boliga.dk/bolig/2359777"
+  },
+  "2335830": {
+    "id": "2335830",
+    "adresse": "Ravennavej 13, 2300 København S",
+    "pris": 14995000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 1963,
+    "url": "https://www.boliga.dk/bolig/2335830"
+  },
+  "2342701": {
+    "id": "2342701",
+    "adresse": "Røde Mellemvej 144, 2300 København S",
+    "pris": 14995000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 2015,
+    "url": "https://www.boliga.dk/bolig/2342701"
+  },
+  "2355269": {
+    "id": "2355269",
+    "adresse": "Pallesvej 17, 2300 København S",
+    "pris": 14995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1930,
+    "url": "https://www.boliga.dk/bolig/2355269"
+  },
+  "2348582": {
+    "id": "2348582",
+    "adresse": "Islands Brygge 143, 2300 København S",
+    "pris": 15495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2015,
+    "url": "https://www.boliga.dk/bolig/2348582"
+  },
+  "2309715": {
+    "id": "2309715",
+    "adresse": "Kaprifolievej 1, 2300 København S",
+    "pris": 15995000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 1930,
+    "url": "https://www.boliga.dk/bolig/2309715"
+  },
+  "2336729": {
+    "id": "2336729",
+    "adresse": "Christian IIs Allé 8, 2300 København S",
+    "pris": 15995000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 1895,
+    "url": "https://www.boliga.dk/bolig/2336729"
+  },
+  "2325453": {
+    "id": "2325453",
+    "adresse": "Sixtusvej 14, 2300 København S",
+    "pris": 16245000,
+    "kvm": null,
+    "vaerelser": 10.0,
+    "byggeaar": 1904,
+    "url": "https://www.boliga.dk/bolig/2325453"
+  },
+  "2326314": {
+    "id": "2326314",
+    "adresse": "Rundholtsvej 41, 2300 København S",
+    "pris": 17777777,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 2013,
+    "url": "https://www.boliga.dk/bolig/2326314"
+  },
+  "2358835": {
+    "id": "2358835",
+    "adresse": "Knud Kristensens Gade 39, 2300 København S",
+    "pris": 18995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 2016,
+    "url": "https://www.boliga.dk/bolig/2358835"
+  },
+  "2356827": {
+    "id": "2356827",
+    "adresse": "Torfavej 2, 2300 København S",
+    "pris": 19995000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 1927,
+    "url": "https://www.boliga.dk/bolig/2356827"
+  },
+  "2356262": {
+    "id": "2356262",
+    "adresse": "Hagbardvej 18, 2300 København S",
+    "pris": 26500000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 2023,
+    "url": "https://www.boliga.dk/bolig/2356262"
+  },
+  "2347010": {
+    "id": "2347010",
+    "adresse": "Hf. Kongelund 12, 2300 København S",
+    "pris": 6495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1945,
+    "url": "https://www.boliga.dk/bolig/2347010"
+  },
+  "2364727": {
+    "id": "2364727",
+    "adresse": "Sundkaj 17, 2150 Nordhavn",
+    "pris": 13995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2020,
+    "url": "https://www.boliga.dk/bolig/2364727"
+  },
+  "2370027": {
+    "id": "2370027",
+    "adresse": "Teglstrupvej 31, 2100 København Ø",
+    "pris": 11795000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1928,
+    "url": "https://www.boliga.dk/bolig/2370027"
+  },
+  "2297526": {
+    "id": "2297526",
+    "adresse": "Webersgade 40, 2100 København Ø",
+    "pris": 12995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1879,
+    "url": "https://www.boliga.dk/bolig/2297526"
+  },
+  "2347785": {
+    "id": "2347785",
+    "adresse": "Strandpromenaden 65 2 th, 2100 København Ø",
+    "pris": 15000000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 2017,
+    "url": "https://www.boliga.dk/bolig/2347785"
+  },
+  "2364679": {
+    "id": "2364679",
+    "adresse": "Heisesgade 29, 2100 København Ø",
+    "pris": 15495000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1893,
+    "url": "https://www.boliga.dk/bolig/2364679"
+  },
+  "2363968": {
+    "id": "2363968",
+    "adresse": "Wiedeweltsgade 29, 2100 København Ø",
+    "pris": 15500000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1879,
+    "url": "https://www.boliga.dk/bolig/2363968"
+  },
+  "2362447": {
+    "id": "2362447",
+    "adresse": "Rudolph Berghs Gade 65, 2100 København Ø",
+    "pris": 17495000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 1921,
+    "url": "https://www.boliga.dk/bolig/2362447"
+  },
+  "2363967": {
+    "id": "2363967",
+    "adresse": "Øster Allé 16, 2100 København Ø",
+    "pris": 17800000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1901,
+    "url": "https://www.boliga.dk/bolig/2363967"
+  },
+  "2368405": {
+    "id": "2368405",
+    "adresse": "Heisesgade 49, 2100 København Ø",
+    "pris": 18485000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1901,
+    "url": "https://www.boliga.dk/bolig/2368405"
+  },
+  "2323423": {
+    "id": "2323423",
+    "adresse": "Olufsvej 33, 2100 København Ø",
+    "pris": 18895000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1877,
+    "url": "https://www.boliga.dk/bolig/2323423"
+  },
+  "2356799": {
+    "id": "2356799",
+    "adresse": "Olufsvej 15, 2100 København Ø",
+    "pris": 19900000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1889,
+    "url": "https://www.boliga.dk/bolig/2356799"
+  },
+  "2326376": {
+    "id": "2326376",
+    "adresse": "Heisesgade 1, 2100 København Ø",
+    "pris": 19995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1894,
+    "url": "https://www.boliga.dk/bolig/2326376"
+  },
+  "2274183": {
+    "id": "2274183",
+    "adresse": "Vibekegade 17, 2100 København Ø",
+    "pris": 22000000,
+    "kvm": null,
+    "vaerelser": 16.0,
+    "byggeaar": 1926,
+    "url": "https://www.boliga.dk/bolig/2274183"
+  },
+  "2354641": {
+    "id": "2354641",
+    "adresse": "Øster Søgade 48, 2100 København Ø",
+    "pris": 24995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1880,
+    "url": "https://www.boliga.dk/bolig/2354641"
+  },
+  "2356914": {
+    "id": "2356914",
+    "adresse": "Vesterled 41, 2100 København Ø",
+    "pris": 26750000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 1963,
+    "url": "https://www.boliga.dk/bolig/2356914"
+  },
+  "2333863": {
+    "id": "2333863",
+    "adresse": "Svanevænget 15, 2100 København Ø",
+    "pris": 28495000,
+    "kvm": null,
+    "vaerelser": 8.0,
+    "byggeaar": 1936,
+    "url": "https://www.boliga.dk/bolig/2333863"
+  },
+  "2321091": {
+    "id": "2321091",
+    "adresse": "Rosbæksvej 8, 2100 København Ø",
+    "pris": 28750000,
+    "kvm": null,
+    "vaerelser": 9.0,
+    "byggeaar": 1927,
+    "url": "https://www.boliga.dk/bolig/2321091"
+  },
+  "2323425": {
+    "id": "2323425",
+    "adresse": "Sølundsvej 3, 2100 København Ø",
+    "pris": 35000000,
+    "kvm": null,
+    "vaerelser": 11.0,
+    "byggeaar": 1910,
+    "url": "https://www.boliga.dk/bolig/2323425"
+  },
+  "2365424": {
+    "id": "2365424",
+    "adresse": "Vesterfælledvej 64E, 1799 København V",
+    "pris": 13695000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 2018,
+    "url": "https://www.boliga.dk/bolig/2365424"
+  },
+  "2360334": {
+    "id": "2360334",
+    "adresse": "Vesterfælledvej 64L, 1799 København V",
+    "pris": 13995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 2018,
+    "url": "https://www.boliga.dk/bolig/2360334"
+  },
+  "2298387": {
+    "id": "2298387",
+    "adresse": "Küchlersgade 2, 1774 København V",
+    "pris": 16795000,
+    "kvm": null,
+    "vaerelser": 9.0,
+    "byggeaar": 1888,
+    "url": "https://www.boliga.dk/bolig/2298387"
+  },
+  "2318540": {
+    "id": "2318540",
+    "adresse": "Løngangstræde 21K, 1468 København K",
+    "pris": 9498000,
+    "kvm": null,
+    "vaerelser": 2.0,
+    "byggeaar": 1867,
+    "url": "https://www.boliga.dk/bolig/2318540"
+  },
+  "2353096": {
+    "id": "2353096",
+    "adresse": "Krudtløbsvej 39, 1439 København K",
+    "pris": 2095000,
+    "kvm": null,
+    "vaerelser": 0.0,
+    "byggeaar": 1960,
+    "url": "https://www.boliga.dk/bolig/2353096"
+  },
+  "2279487": {
+    "id": "2279487",
+    "adresse": "Krudtløbsvej 2D, 1439 København K",
+    "pris": 17995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1925,
+    "url": "https://www.boliga.dk/bolig/2279487"
+  },
+  "2357164": {
+    "id": "2357164",
+    "adresse": "Krudtløbsvej 2C, 1439 København K",
+    "pris": 25000000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1925,
+    "url": "https://www.boliga.dk/bolig/2357164"
+  },
+  "2339812": {
+    "id": "2339812",
+    "adresse": "William Wains Gade 23, 1432 København K",
+    "pris": 6650000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 2004,
+    "url": "https://www.boliga.dk/bolig/2339812"
+  },
+  "2366556": {
+    "id": "2366556",
+    "adresse": "Luftmarinegade 44, 1432 København K",
+    "pris": 8495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 2014,
+    "url": "https://www.boliga.dk/bolig/2366556"
+  },
+  "2332118": {
+    "id": "2332118",
+    "adresse": "Luftmarinegade 34, 1432 København K",
+    "pris": 10595000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2012,
+    "url": "https://www.boliga.dk/bolig/2332118"
+  },
+  "2361412": {
+    "id": "2361412",
+    "adresse": "Luftmarinegade 104, 1432 København K",
+    "pris": 10995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2012,
+    "url": "https://www.boliga.dk/bolig/2361412"
+  },
+  "2324807": {
+    "id": "2324807",
+    "adresse": "Dronningensgade 19, 1420 København K",
+    "pris": 23900000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2026,
+    "url": "https://www.boliga.dk/bolig/2324807"
+  },
+  "2237090": {
+    "id": "2237090",
+    "adresse": "Sankt Annæ Gade 10, 1416 København K",
+    "pris": 18998000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1760,
+    "url": "https://www.boliga.dk/bolig/2237090"
+  },
+  "2361942": {
+    "id": "2361942",
+    "adresse": "Krusemyntegade 23, 1318 København K",
+    "pris": 18395000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1883,
+    "url": "https://www.boliga.dk/bolig/2361942"
+  },
+  "2346111": {
+    "id": "2346111",
+    "adresse": "Krusemyntegade 19, 1318 København K",
+    "pris": 18995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1874,
+    "url": "https://www.boliga.dk/bolig/2346111"
+  },
+  "2340092": {
+    "id": "2340092",
+    "adresse": "Stokhusgade 4B, st., 1317 København K",
+    "pris": 9895000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 2007,
+    "url": "https://www.boliga.dk/bolig/2340092"
+  },
+  "2342983": {
+    "id": "2342983",
+    "adresse": "Store Kongensgade 110B st, 1264 København K",
+    "pris": 16750000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1838,
+    "url": "https://www.boliga.dk/bolig/2342983"
+  },
+  "2321133": {
+    "id": "2321133",
+    "adresse": "Toldbodgade 75, 1253 København K",
+    "pris": 35000000,
+    "kvm": null,
+    "vaerelser": 8.0,
+    "byggeaar": 1873,
+    "url": "https://www.boliga.dk/bolig/2321133"
+  }
+}
