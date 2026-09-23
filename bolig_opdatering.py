@@ -76,8 +76,7 @@ def hent_aktuelle_huse():
 
 
 def generer_html_rapport(tidsserie_data):
-    """Genererer en HTML-rapport med et Plotly Express-diagram og tabel over afgåede boliger."""
-    # Build dataframe for plot
+    """Genererer en HTML-rapport med et Plotly Express-diagram og tabeller over afgang og prisnedsættelser."""
     rows = []
     for dato, data in tidsserie_data.items():
         rows.append(
@@ -86,17 +85,17 @@ def generer_html_rapport(tidsserie_data):
                 "Boligudbud": data.get("total_udbud", 0),
                 "Tilgang (Nye)": data.get("tilgang_antal", 0),
                 "Afgang (Fjernet)": data.get("afgang_antal", 0),
+                "Prisnedsættelser": data.get("prisnedsaettelse_antal", 0),
             }
         )
 
     df = pd.DataFrame(rows)
 
-    # Plot med Plotly Express
     fig = px.line(
         df,
         x="Dato",
-        y=["Boligudbud", "Tilgang (Nye)", "Afgang (Fjernet)"],
-        title="Boligudbud, tilgang og afgang over tid (Hvidovre Kommune)",
+        y=["Boligudbud", "Tilgang (Nye)", "Afgang (Fjernet)", "Prisnedsættelser"],
+        title="Boligmarkedet i Hvidovre Kommune (Udbud, ændringer & prisændringer)",
         labels={"value": "Antal boliger", "variable": "Måling", "Dato": "Dato"},
         markers=True,
     )
@@ -107,12 +106,38 @@ def generer_html_rapport(tidsserie_data):
         legend=dict(title="", orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
     )
 
-    # Konverter graf til HTML snippet
     chart_html = fig.to_html(full_html=False, include_plotlyjs="cdn")
 
-    # Byg HTML-tabel over afgåede boliger
-    tabel_rows_html = ""
-    # Sorter datoer nyeste først
+    # 1. Tabel over PRISNEDSÆTTELSER
+    pris_rows_html = ""
+    for dato in sorted(tidsserie_data.keys(), reverse=True):
+        nedsaettelser = tidsserie_data[dato].get("prisnedsaettelser_huse", [])
+        if nedsaettelser:
+            for h in nedsaettelser:
+                pris_for = f"{h['pris_for']:,} kr.".replace(",", ".") if h.get("pris_for") else "N/A"
+                pris_efter = f"{h['pris_efter']:,} kr.".replace(",", ".") if h.get("pris_efter") else "N/A"
+                besparelse = (
+                    f"-{h['besparelse']:,} kr. ({h.get('procent', 0)}%)".replace(",", ".")
+                    if h.get("besparelse")
+                    else "N/A"
+                )
+                url_link = f"<a href='{h['url']}' target='_blank'>Se annonce</a>" if h.get("url") else "-"
+                pris_rows_html += f"""
+                <tr>
+                    <td><b>{dato}</b></td>
+                    <td>{h['adresse']}</td>
+                    <td><s style='color: #888;'>{pris_for}</s></td>
+                    <td><b style='color: #d9534f;'>{pris_efter}</b></td>
+                    <td><span style='color: #28a745; font-weight: bold;'>{besparelse}</span></td>
+                    <td>{url_link}</td>
+                </tr>
+                """
+
+    if not pris_rows_html:
+        pris_rows_html = "<tr><td colspan='6'>Ingen prisnedsættelser registreret endnu.</td></tr>"
+
+    # 2. Tabel over AFGÅEDE BOLIGER
+    afgang_rows_html = ""
     for dato in sorted(tidsserie_data.keys(), reverse=True):
         afgaaede = tidsserie_data[dato].get("afgaaet_huse", [])
         if afgaaede:
@@ -120,7 +145,7 @@ def generer_html_rapport(tidsserie_data):
                 pris_formatted = f"{h['pris']:,} kr.".replace(",", ".") if h.get("pris") else "N/A"
                 kvm_val = f"{h['kvm']} m²" if h.get("kvm") else "N/A"
                 url_link = f"<a href='{h['url']}' target='_blank'>Se annonce</a>" if h.get("url") else "-"
-                tabel_rows_html += f"""
+                afgang_rows_html += f"""
                 <tr>
                     <td><b>{dato}</b></td>
                     <td>{h['adresse']}</td>
@@ -130,10 +155,12 @@ def generer_html_rapport(tidsserie_data):
                 </tr>
                 """
 
-    if not tabel_rows_html:
-        tabel_rows_html = "<tr><td colspan='5'>Ingen afgåede boliger registreret endnu.</td></tr>"
+    if not afgang_rows_html:
+        afgang_rows_html = "<tr><td colspan='5'>Ingen afgåede boliger registreret endnu.</td></tr>"
 
-    # Samlet HTML dokument
+    # Tidspunkt ud fra miljøets/systemets tidszone (sat via TZ i GitHub Actions)
+    nu_tid = datetime.now().strftime("%d-%m-%Y kl. %H:%M")
+
     html_content = f"""<!DOCTYPE html>
 <html lang="da">
 <head>
@@ -166,6 +193,7 @@ def generer_html_rapport(tidsserie_data):
             width: 100%;
             border-collapse: collapse;
             margin-top: 15px;
+            margin-bottom: 30px;
         }}
         th, td {{
             padding: 12px;
@@ -203,6 +231,23 @@ def generer_html_rapport(tidsserie_data):
             {chart_html}
         </div>
 
+        <h2>📉 Historiske prisnedsættelser</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Dato</th>
+                    <th>Adresse</th>
+                    <th>Før pris</th>
+                    <th>Efter pris</th>
+                    <th>Nedsætning</th>
+                    <th>Link</th>
+                </tr>
+            </thead>
+            <tbody>
+                {pris_rows_html}
+            </tbody>
+        </table>
+
         <h2>📋 Afgåede boliger (Solgt / Fjernet fra udbud)</h2>
         <table>
             <thead>
@@ -210,17 +255,17 @@ def generer_html_rapport(tidsserie_data):
                     <th>Dato</th>
                     <th>Adresse</th>
                     <th>Kvadratmeter</th>
-                    <th>Udbudspris</th>
+                    <th>Sidste udbudspris</th>
                     <th>Link</th>
                 </tr>
             </thead>
             <tbody>
-                {tabel_rows_html}
+                {afgang_rows_html}
             </tbody>
         </table>
 
         <div class="footer">
-            Sidst opdateret: {datetime.now().strftime("%d-%m-%Y kl. %H:%M")}
+            Sidst opdateret: {nu_tid}
         </div>
     </div>
 </body>
@@ -253,8 +298,27 @@ def sammenlign_og_opdater():
 
     nye_ids = dagens_ids - tidligere_ids
     fjernede_ids = tidligere_ids - dagens_ids if not første_kørsel else set()
+    eksisterende_ids = dagens_ids.intersection(tidligere_ids) if not første_kørsel else set()
 
-    # Indlæs eller opret tidsserie-historik
+    prisnedsaettelser_liste = []
+    for hid in eksisterende_ids:
+        gammel_pris = tidligere_huse[hid].get("pris")
+        ny_pris = dagens_huse[hid].get("pris")
+
+        if gammel_pris and ny_pris and ny_pris < gammel_pris:
+            forskellig = gammel_pris - ny_pris
+            pct = round((forskellig / gammel_pris) * 100, 1)
+            prisnedsaettelser_liste.append(
+                {
+                    "adresse": dagens_huse[hid]["adresse"],
+                    "pris_for": gammel_pris,
+                    "pris_efter": ny_pris,
+                    "besparelse": forskellig,
+                    "procent": pct,
+                    "url": dagens_huse[hid]["url"],
+                }
+            )
+
     tidsserie_data = {}
     if os.path.exists(TIMESERIES_FILE):
         with open(TIMESERIES_FILE, "r", encoding="utf-8") as f:
@@ -262,7 +326,6 @@ def sammenlign_og_opdater():
 
     idag_str = datetime.now().strftime("%Y-%m-%d")
 
-    # Gem dagens tal og afgåede boliger
     afgaaet_liste = [
         {
             "adresse": tidligere_huse[hid]["adresse"],
@@ -277,17 +340,17 @@ def sammenlign_og_opdater():
         "total_udbud": len(dagens_huse),
         "tilgang_antal": len(nye_ids) if not første_kørsel else 0,
         "afgang_antal": len(fjernede_ids),
+        "prisnedsaettelse_antal": len(prisnedsaettelser_liste),
         "afgaaet_huse": afgaaet_liste,
+        "prisnedsaettelser_huse": prisnedsaettelser_liste,
     }
 
-    # Gem filer
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(dagens_huse, f, ensure_ascii=False, indent=2)
 
     with open(TIMESERIES_FILE, "w", encoding="utf-8") as f:
         json.dump(tidsserie_data, f, ensure_ascii=False, indent=2)
 
-    # Generer HTML rapporten
     generer_html_rapport(tidsserie_data)
 
 
