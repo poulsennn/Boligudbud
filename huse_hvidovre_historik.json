@@ -1,0 +1,920 @@
+{
+  "2335690": {
+    "id": "2335690",
+    "adresse": "Hjørnagervej 2A, 2650 Hvidovre",
+    "pris": 4395000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1936,
+    "url": "https://www.boliga.dk/bolig/2335690"
+  },
+  "2319129": {
+    "id": "2319129",
+    "adresse": "Mågevej 7B, 2650 Hvidovre",
+    "pris": 4495000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1981,
+    "url": "https://www.boliga.dk/bolig/2319129"
+  },
+  "2356382": {
+    "id": "2356382",
+    "adresse": "Frydenhøjparken 3, 2650 Hvidovre",
+    "pris": 4495000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1958,
+    "url": "https://www.boliga.dk/bolig/2356382"
+  },
+  "2366484": {
+    "id": "2366484",
+    "adresse": "Gammel Køge Landevej 370L, 2650 Hvidovre",
+    "pris": 4495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1986,
+    "url": "https://www.boliga.dk/bolig/2366484"
+  },
+  "2344081": {
+    "id": "2344081",
+    "adresse": "Engstrupgårdsvej 38, 2650 Hvidovre",
+    "pris": 4595000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1962,
+    "url": "https://www.boliga.dk/bolig/2344081"
+  },
+  "2336563": {
+    "id": "2336563",
+    "adresse": "Vestre Strandvej 12, 2650 Hvidovre",
+    "pris": 4885000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1953,
+    "url": "https://www.boliga.dk/bolig/2336563"
+  },
+  "2307527": {
+    "id": "2307527",
+    "adresse": "Enghøjen 19, 2650 Hvidovre",
+    "pris": 4995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1975,
+    "url": "https://www.boliga.dk/bolig/2307527"
+  },
+  "2334916": {
+    "id": "2334916",
+    "adresse": "Engvadvej 5, 2650 Hvidovre",
+    "pris": 4995000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1964,
+    "url": "https://www.boliga.dk/bolig/2334916"
+  },
+  "2335123": {
+    "id": "2335123",
+    "adresse": "Engstrupgårdsvej 22, 2650 Hvidovre",
+    "pris": 4995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1959,
+    "url": "https://www.boliga.dk/bolig/2335123"
+  },
+  "2341192": {
+    "id": "2341192",
+    "adresse": "Landlystvej 49, 2650 Hvidovre",
+    "pris": 4995000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1940,
+    "url": "https://www.boliga.dk/bolig/2341192"
+  },
+  "2345419": {
+    "id": "2345419",
+    "adresse": "Frydenstrands Alle 28, 2650 Hvidovre",
+    "pris": 5245000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1931,
+    "url": "https://www.boliga.dk/bolig/2345419"
+  },
+  "2365969": {
+    "id": "2365969",
+    "adresse": "Ketteholm 39, 2650 Hvidovre",
+    "pris": 5245000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1980,
+    "url": "https://www.boliga.dk/bolig/2365969"
+  },
+  "2335125": {
+    "id": "2335125",
+    "adresse": "Engholm Alle 36, 2650 Hvidovre",
+    "pris": 5495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1959,
+    "url": "https://www.boliga.dk/bolig/2335125"
+  },
+  "2355531": {
+    "id": "2355531",
+    "adresse": "Rosmosevej 36, 2650 Hvidovre",
+    "pris": 5495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1955,
+    "url": "https://www.boliga.dk/bolig/2355531"
+  },
+  "2355719": {
+    "id": "2355719",
+    "adresse": "Sandholtvej 41, 2650 Hvidovre",
+    "pris": 5495000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1979,
+    "url": "https://www.boliga.dk/bolig/2355719"
+  },
+  "2360465": {
+    "id": "2360465",
+    "adresse": "Risbjerggårds Alle 4B, 2650 Hvidovre",
+    "pris": 5495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1986,
+    "url": "https://www.boliga.dk/bolig/2360465"
+  },
+  "2363074": {
+    "id": "2363074",
+    "adresse": "Hvidovre Boulevard 10, 2650 Hvidovre",
+    "pris": 5495000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1962,
+    "url": "https://www.boliga.dk/bolig/2363074"
+  },
+  "2364081": {
+    "id": "2364081",
+    "adresse": "Vedbyholm 3, 2650 Hvidovre",
+    "pris": 5495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1976,
+    "url": "https://www.boliga.dk/bolig/2364081"
+  },
+  "2366039": {
+    "id": "2366039",
+    "adresse": "Hvidovrevej 271B, 2650 Hvidovre",
+    "pris": 5595000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1982,
+    "url": "https://www.boliga.dk/bolig/2366039"
+  },
+  "2359770": {
+    "id": "2359770",
+    "adresse": "Ærtebjergvej 39, 2650 Hvidovre",
+    "pris": 5695000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1964,
+    "url": "https://www.boliga.dk/bolig/2359770"
+  },
+  "2337531": {
+    "id": "2337531",
+    "adresse": "M Bechs Alle 126, 2650 Hvidovre",
+    "pris": 5699000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1948,
+    "url": "https://www.boliga.dk/bolig/2337531"
+  },
+  "2354350": {
+    "id": "2354350",
+    "adresse": "Nymarksvej 1, 2650 Hvidovre",
+    "pris": 5795000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1959,
+    "url": "https://www.boliga.dk/bolig/2354350"
+  },
+  "2369579": {
+    "id": "2369579",
+    "adresse": "Brostykkevej 164, 2650 Hvidovre",
+    "pris": 5795000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1925,
+    "url": "https://www.boliga.dk/bolig/2369579"
+  },
+  "2369948": {
+    "id": "2369948",
+    "adresse": "Dansborg Alle 1G, 2650 Hvidovre",
+    "pris": 5795000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1983,
+    "url": "https://www.boliga.dk/bolig/2369948"
+  },
+  "2358697": {
+    "id": "2358697",
+    "adresse": "Parallelvej 75, 2650 Hvidovre",
+    "pris": 5895000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1960,
+    "url": "https://www.boliga.dk/bolig/2358697"
+  },
+  "2331812": {
+    "id": "2331812",
+    "adresse": "Avedørestræde 5, 2650 Hvidovre",
+    "pris": 5925000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1900,
+    "url": "https://www.boliga.dk/bolig/2331812"
+  },
+  "2330716": {
+    "id": "2330716",
+    "adresse": "Avedøre Tværvej 74, 2650 Hvidovre",
+    "pris": 5994500,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2019,
+    "url": "https://www.boliga.dk/bolig/2330716"
+  },
+  "2314377": {
+    "id": "2314377",
+    "adresse": "Krebsevej 48, 2650 Hvidovre",
+    "pris": 5995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1963,
+    "url": "https://www.boliga.dk/bolig/2314377"
+  },
+  "2340819": {
+    "id": "2340819",
+    "adresse": "Elkærvej 16, 2650 Hvidovre",
+    "pris": 5995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1998,
+    "url": "https://www.boliga.dk/bolig/2340819"
+  },
+  "2347328": {
+    "id": "2347328",
+    "adresse": "Fortvænget 1, 2650 Hvidovre",
+    "pris": 5995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1959,
+    "url": "https://www.boliga.dk/bolig/2347328"
+  },
+  "2362164": {
+    "id": "2362164",
+    "adresse": "Tværskovvej 4, 2650 Hvidovre",
+    "pris": 5995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1972,
+    "url": "https://www.boliga.dk/bolig/2362164"
+  },
+  "2364938": {
+    "id": "2364938",
+    "adresse": "Avedøre Tværvej 72, 2650 Hvidovre",
+    "pris": 5995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2019,
+    "url": "https://www.boliga.dk/bolig/2364938"
+  },
+  "2366485": {
+    "id": "2366485",
+    "adresse": "Rønnebærvej 12, 2650 Hvidovre",
+    "pris": 5995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1957,
+    "url": "https://www.boliga.dk/bolig/2366485"
+  },
+  "2366491": {
+    "id": "2366491",
+    "adresse": "Sønderkær 54, 2650 Hvidovre",
+    "pris": 5995000,
+    "kvm": null,
+    "vaerelser": 2.0,
+    "byggeaar": 1934,
+    "url": "https://www.boliga.dk/bolig/2366491"
+  },
+  "2370407": {
+    "id": "2370407",
+    "adresse": "Hvidovreskellet 49, 2650 Hvidovre",
+    "pris": 5995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1987,
+    "url": "https://www.boliga.dk/bolig/2370407"
+  },
+  "2331369": {
+    "id": "2331369",
+    "adresse": "Planteheldvej 12, 2650 Hvidovre",
+    "pris": 6295000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1943,
+    "url": "https://www.boliga.dk/bolig/2331369"
+  },
+  "2366989": {
+    "id": "2366989",
+    "adresse": "Strandvangsvej 11C, 2650 Hvidovre",
+    "pris": 6295000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1949,
+    "url": "https://www.boliga.dk/bolig/2366989"
+  },
+  "2369926": {
+    "id": "2369926",
+    "adresse": "Vestre Strandvej 34, 2650 Hvidovre",
+    "pris": 6295000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1979,
+    "url": "https://www.boliga.dk/bolig/2369926"
+  },
+  "2309345": {
+    "id": "2309345",
+    "adresse": "Grænsevej 24, 2650 Hvidovre",
+    "pris": 6445000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 1932,
+    "url": "https://www.boliga.dk/bolig/2309345"
+  },
+  "2364858": {
+    "id": "2364858",
+    "adresse": "Brostykkevej 86, 2650 Hvidovre",
+    "pris": 6475000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1969,
+    "url": "https://www.boliga.dk/bolig/2364858"
+  },
+  "2335681": {
+    "id": "2335681",
+    "adresse": "Nordlundsvej 50, 2650 Hvidovre",
+    "pris": 6495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1940,
+    "url": "https://www.boliga.dk/bolig/2335681"
+  },
+  "2338564": {
+    "id": "2338564",
+    "adresse": "Brobyvej 39, 2650 Hvidovre",
+    "pris": 6495000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1969,
+    "url": "https://www.boliga.dk/bolig/2338564"
+  },
+  "2347829": {
+    "id": "2347829",
+    "adresse": "Guldbærvænget 1, 2650 Hvidovre",
+    "pris": 6495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1971,
+    "url": "https://www.boliga.dk/bolig/2347829"
+  },
+  "2361014": {
+    "id": "2361014",
+    "adresse": "Bjeverskov Alle 3, 2650 Hvidovre",
+    "pris": 6495000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1939,
+    "url": "https://www.boliga.dk/bolig/2361014"
+  },
+  "2366936": {
+    "id": "2366936",
+    "adresse": "Kærgårdsvej 7, 2650 Hvidovre",
+    "pris": 6495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1978,
+    "url": "https://www.boliga.dk/bolig/2366936"
+  },
+  "2369697": {
+    "id": "2369697",
+    "adresse": "Ærtebjergvej 11, 2650 Hvidovre",
+    "pris": 6645000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1964,
+    "url": "https://www.boliga.dk/bolig/2369697"
+  },
+  "2362648": {
+    "id": "2362648",
+    "adresse": "Rudbølvej 5, 2650 Hvidovre",
+    "pris": 6695000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1963,
+    "url": "https://www.boliga.dk/bolig/2362648"
+  },
+  "2358968": {
+    "id": "2358968",
+    "adresse": "Nørremarksvej 21, 2650 Hvidovre",
+    "pris": 6795000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1957,
+    "url": "https://www.boliga.dk/bolig/2358968"
+  },
+  "2342787": {
+    "id": "2342787",
+    "adresse": "Eriksminde Alle 7, 2650 Hvidovre",
+    "pris": 6995000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1935,
+    "url": "https://www.boliga.dk/bolig/2342787"
+  },
+  "2349437": {
+    "id": "2349437",
+    "adresse": "Kærmark 48, 2650 Hvidovre",
+    "pris": 6995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1958,
+    "url": "https://www.boliga.dk/bolig/2349437"
+  },
+  "2350114": {
+    "id": "2350114",
+    "adresse": "Poppel Alle 3A, 2650 Hvidovre",
+    "pris": 6995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1933,
+    "url": "https://www.boliga.dk/bolig/2350114"
+  },
+  "2357958": {
+    "id": "2357958",
+    "adresse": "Ulsevej 2, 2650 Hvidovre",
+    "pris": 6995000,
+    "kvm": null,
+    "vaerelser": 2.0,
+    "byggeaar": 1935,
+    "url": "https://www.boliga.dk/bolig/2357958"
+  },
+  "2362483": {
+    "id": "2362483",
+    "adresse": "Svendebjergvej 38, 2650 Hvidovre",
+    "pris": 6995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1932,
+    "url": "https://www.boliga.dk/bolig/2362483"
+  },
+  "2309690": {
+    "id": "2309690",
+    "adresse": "Brøndbyskel 17, 2650 Hvidovre",
+    "pris": 7188888,
+    "kvm": null,
+    "vaerelser": 8.0,
+    "byggeaar": 1959,
+    "url": "https://www.boliga.dk/bolig/2309690"
+  },
+  "2304607": {
+    "id": "2304607",
+    "adresse": "Brøndbyskel 20, 2650 Hvidovre",
+    "pris": 7195000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1977,
+    "url": "https://www.boliga.dk/bolig/2304607"
+  },
+  "2359692": {
+    "id": "2359692",
+    "adresse": "Storegade 8A, 2650 Hvidovre",
+    "pris": 7395000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1890,
+    "url": "https://www.boliga.dk/bolig/2359692"
+  },
+  "2348280": {
+    "id": "2348280",
+    "adresse": "Kløverprisvej 10C, 2650 Hvidovre",
+    "pris": 7495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2025,
+    "url": "https://www.boliga.dk/bolig/2348280"
+  },
+  "2361962": {
+    "id": "2361962",
+    "adresse": "Fagerstedvej 19, 2650 Hvidovre",
+    "pris": 7495000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1959,
+    "url": "https://www.boliga.dk/bolig/2361962"
+  },
+  "2332249": {
+    "id": "2332249",
+    "adresse": "Bårsevej 26, 2650 Hvidovre",
+    "pris": 7795000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1935,
+    "url": "https://www.boliga.dk/bolig/2332249"
+  },
+  "2331136": {
+    "id": "2331136",
+    "adresse": "Bavnevej 50, 2650 Hvidovre",
+    "pris": 7995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1941,
+    "url": "https://www.boliga.dk/bolig/2331136"
+  },
+  "2357395": {
+    "id": "2357395",
+    "adresse": "Stenstykkevej 19, 2650 Hvidovre",
+    "pris": 7995000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 1926,
+    "url": "https://www.boliga.dk/bolig/2357395"
+  },
+  "2370408": {
+    "id": "2370408",
+    "adresse": "William Boothsvej 6, 2650 Hvidovre",
+    "pris": 7995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1939,
+    "url": "https://www.boliga.dk/bolig/2370408"
+  },
+  "2358587": {
+    "id": "2358587",
+    "adresse": "Birke Alle 22, 2650 Hvidovre",
+    "pris": 8195000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 1940,
+    "url": "https://www.boliga.dk/bolig/2358587"
+  },
+  "2369736": {
+    "id": "2369736",
+    "adresse": "Helenas Alle 3, 2650 Hvidovre",
+    "pris": 8195000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1939,
+    "url": "https://www.boliga.dk/bolig/2369736"
+  },
+  "2354527": {
+    "id": "2354527",
+    "adresse": "Filmbyen 8C, 2650 Hvidovre",
+    "pris": 8250000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1951,
+    "url": "https://www.boliga.dk/bolig/2354527"
+  },
+  "2370573": {
+    "id": "2370573",
+    "adresse": "Glimvej 11, 2650 Hvidovre",
+    "pris": 8295000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1940,
+    "url": "https://www.boliga.dk/bolig/2370573"
+  },
+  "2356812": {
+    "id": "2356812",
+    "adresse": "Bårsevej 10, 2650 Hvidovre",
+    "pris": 8485000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1928,
+    "url": "https://www.boliga.dk/bolig/2356812"
+  },
+  "2362040": {
+    "id": "2362040",
+    "adresse": "Plovheldvej 9, 2650 Hvidovre",
+    "pris": 8495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1940,
+    "url": "https://www.boliga.dk/bolig/2362040"
+  },
+  "2363206": {
+    "id": "2363206",
+    "adresse": "Strandløbervej 33, 2650 Hvidovre",
+    "pris": 8495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1955,
+    "url": "https://www.boliga.dk/bolig/2363206"
+  },
+  "2365432": {
+    "id": "2365432",
+    "adresse": "Ege Alle 42, 2650 Hvidovre",
+    "pris": 8495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1932,
+    "url": "https://www.boliga.dk/bolig/2365432"
+  },
+  "2343006": {
+    "id": "2343006",
+    "adresse": "Tureby Alle 13, 2650 Hvidovre",
+    "pris": 8885000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1932,
+    "url": "https://www.boliga.dk/bolig/2343006"
+  },
+  "2340852": {
+    "id": "2340852",
+    "adresse": "Sjølundvej 39, 2650 Hvidovre",
+    "pris": 8995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1963,
+    "url": "https://www.boliga.dk/bolig/2340852"
+  },
+  "2367426": {
+    "id": "2367426",
+    "adresse": "Krogstens Alle 38, 2650 Hvidovre",
+    "pris": 9195000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1940,
+    "url": "https://www.boliga.dk/bolig/2367426"
+  },
+  "2369770": {
+    "id": "2369770",
+    "adresse": "Nordlundsvej 52, 2650 Hvidovre",
+    "pris": 9195000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1939,
+    "url": "https://www.boliga.dk/bolig/2369770"
+  },
+  "2339008": {
+    "id": "2339008",
+    "adresse": "Giesegårdsvej 16, 2650 Hvidovre",
+    "pris": 9245000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1925,
+    "url": "https://www.boliga.dk/bolig/2339008"
+  },
+  "2348272": {
+    "id": "2348272",
+    "adresse": "Strandby Alle 46, 2650 Hvidovre",
+    "pris": 9375000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2002,
+    "url": "https://www.boliga.dk/bolig/2348272"
+  },
+  "2335601": {
+    "id": "2335601",
+    "adresse": "Paris Boulevard 12, 2650 Hvidovre",
+    "pris": 9485000,
+    "kvm": null,
+    "vaerelser": 8.0,
+    "byggeaar": 1938,
+    "url": "https://www.boliga.dk/bolig/2335601"
+  },
+  "2357180": {
+    "id": "2357180",
+    "adresse": "Strandvangsvej 27, 2650 Hvidovre",
+    "pris": 9485000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1967,
+    "url": "https://www.boliga.dk/bolig/2357180"
+  },
+  "2358421": {
+    "id": "2358421",
+    "adresse": "Fjeldstedvej 34, 2650 Hvidovre",
+    "pris": 9495000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 2005,
+    "url": "https://www.boliga.dk/bolig/2358421"
+  },
+  "2340749": {
+    "id": "2340749",
+    "adresse": "I G Smiths Alle 39, 2650 Hvidovre",
+    "pris": 9745000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1932,
+    "url": "https://www.boliga.dk/bolig/2340749"
+  },
+  "2357925": {
+    "id": "2357925",
+    "adresse": "Odysseus Alle 18, 2650 Hvidovre",
+    "pris": 9785000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1958,
+    "url": "https://www.boliga.dk/bolig/2357925"
+  },
+  "2320307": {
+    "id": "2320307",
+    "adresse": "Strandvangsvej 2, 2650 Hvidovre",
+    "pris": 9975000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1940,
+    "url": "https://www.boliga.dk/bolig/2320307"
+  },
+  "2363988": {
+    "id": "2363988",
+    "adresse": "Brostykkevej 19B, 2650 Hvidovre",
+    "pris": 9985000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1924,
+    "url": "https://www.boliga.dk/bolig/2363988"
+  },
+  "2347523": {
+    "id": "2347523",
+    "adresse": "Hectors Alle 11, 2650 Hvidovre",
+    "pris": 9995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1931,
+    "url": "https://www.boliga.dk/bolig/2347523"
+  },
+  "2352652": {
+    "id": "2352652",
+    "adresse": "Nordlundsvej 3, 2650 Hvidovre",
+    "pris": 9995000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 2013,
+    "url": "https://www.boliga.dk/bolig/2352652"
+  },
+  "2361587": {
+    "id": "2361587",
+    "adresse": "Sydkærsvej 93, 2650 Hvidovre",
+    "pris": 10375000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1924,
+    "url": "https://www.boliga.dk/bolig/2361587"
+  },
+  "2343322": {
+    "id": "2343322",
+    "adresse": "Strandbovej 93, 2650 Hvidovre",
+    "pris": 10495000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1925,
+    "url": "https://www.boliga.dk/bolig/2343322"
+  },
+  "2359045": {
+    "id": "2359045",
+    "adresse": "Ulstrupvej 12, 2650 Hvidovre",
+    "pris": 10495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 2020,
+    "url": "https://www.boliga.dk/bolig/2359045"
+  },
+  "2366683": {
+    "id": "2366683",
+    "adresse": "Agermosen 25, 2650 Hvidovre",
+    "pris": 10495000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1965,
+    "url": "https://www.boliga.dk/bolig/2366683"
+  },
+  "2339322": {
+    "id": "2339322",
+    "adresse": "Gadestævnet 66, 2650 Hvidovre",
+    "pris": 10975000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 1956,
+    "url": "https://www.boliga.dk/bolig/2339322"
+  },
+  "2360715": {
+    "id": "2360715",
+    "adresse": "Kirkebroen 33, 2650 Hvidovre",
+    "pris": 10995000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 2020,
+    "url": "https://www.boliga.dk/bolig/2360715"
+  },
+  "2362818": {
+    "id": "2362818",
+    "adresse": "H C Bojsensvej 1, 2650 Hvidovre",
+    "pris": 11495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2023,
+    "url": "https://www.boliga.dk/bolig/2362818"
+  },
+  "2323467": {
+    "id": "2323467",
+    "adresse": "Karise Alle 5, 2650 Hvidovre",
+    "pris": 11995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1937,
+    "url": "https://www.boliga.dk/bolig/2323467"
+  },
+  "2342631": {
+    "id": "2342631",
+    "adresse": "Lodsvej 11, 2650 Hvidovre",
+    "pris": 11995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1962,
+    "url": "https://www.boliga.dk/bolig/2342631"
+  },
+  "2340282": {
+    "id": "2340282",
+    "adresse": "Bjeverskov Alle 47, 2650 Hvidovre",
+    "pris": 12245000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2011,
+    "url": "https://www.boliga.dk/bolig/2340282"
+  },
+  "2353574": {
+    "id": "2353574",
+    "adresse": "Tavlekærsvej 59, 2650 Hvidovre",
+    "pris": 12500000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 2022,
+    "url": "https://www.boliga.dk/bolig/2353574"
+  },
+  "2337013": {
+    "id": "2337013",
+    "adresse": "Risbjerggårds Alle 81, 2650 Hvidovre",
+    "pris": 12595000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 1939,
+    "url": "https://www.boliga.dk/bolig/2337013"
+  },
+  "2344405": {
+    "id": "2344405",
+    "adresse": "Torstensvej 14, 2650 Hvidovre",
+    "pris": 12875000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2019,
+    "url": "https://www.boliga.dk/bolig/2344405"
+  },
+  "2337330": {
+    "id": "2337330",
+    "adresse": "Strandvangsvej 47, 2650 Hvidovre",
+    "pris": 13375000,
+    "kvm": null,
+    "vaerelser": 8.0,
+    "byggeaar": 1924,
+    "url": "https://www.boliga.dk/bolig/2337330"
+  },
+  "2357175": {
+    "id": "2357175",
+    "adresse": "Krogstens Alle 70, 2650 Hvidovre",
+    "pris": 13885000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 2023,
+    "url": "https://www.boliga.dk/bolig/2357175"
+  },
+  "2370607": {
+    "id": "2370607",
+    "adresse": "Torndalsvej 7, 2650 Hvidovre",
+    "pris": 5495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1971,
+    "url": "https://www.boliga.dk/bolig/2370607"
+  },
+  "2363446": {
+    "id": "2363446",
+    "adresse": "Nordvang 4, 2610 Rødovre",
+    "pris": 11495000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1937,
+    "url": "https://www.boliga.dk/bolig/2363446"
+  }
+}
