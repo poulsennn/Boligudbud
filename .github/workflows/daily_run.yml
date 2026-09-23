@@ -1,0 +1,38 @@
+name: Daglig Boligopdatering
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Hent repository data
+        uses: actions/checkout@v4
+
+      - name: Opsæt Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Installer afhængigheder
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pandas plotly
+
+      - name: Kør boligscript
+        env:
+          TZ: 'Europe/Copenhagen'
+        run: python bolig_opdatering.py
+
+      - name: Gem opdateret historik og HTML i GitHub
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add huse_hvidovre_historik.json bolig_tidsserie.json index.html
+          git commit -m "Auto-opdatering af bolighistorik og HTML rapport [skip ci]" || exit 0
+          git push
+ 
