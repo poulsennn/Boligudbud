@@ -96,10 +96,10 @@ def generer_fane_indhold(key, kommune_navn, tidsserie_data):
         rows.append(
             {
                 "Dato": dato,
-                "Boligudbud": data.get("total_udbud", 0),
-                "Tilgang (Nye)": data.get("tilgang_antal", 0),
-                "Afgang (Fjernet)": data.get("afgang_antal", 0),
-                "Prisnedsættelser": data.get("prisnedsaettelse_antal", 0),
+                "Boligudbud": data.get("total_udbud"),
+                "Tilgang (Nye)": data.get("tilgang_antal"),
+                "Afgang (Fjernet)": data.get("afgang_antal"),
+                "Prisnedsættelser": data.get("prisnedsaettelse_antal"),
             }
         )
 
