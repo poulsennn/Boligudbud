@@ -3,6 +3,8 @@
     "total_udbud": 102,
     "tilgang_antal": 0,
     "afgang_antal": 0,
-    "afgaaet_huse": []
+    "prisnedsaettelse_antal": 0,
+    "afgaaet_huse": [],
+    "prisnedsaettelser_huse": []
   }
 }
