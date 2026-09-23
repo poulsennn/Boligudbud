@@ -1,10 +1,22 @@
 {
-  "2026-09-23": {
-    "total_udbud": 102,
-    "tilgang_antal": 0,
-    "afgang_antal": 0,
-    "prisnedsaettelse_antal": 0,
-    "afgaaet_huse": [],
-    "prisnedsaettelser_huse": []
+  "hvidovre": {
+    "2026-09-23": {
+      "total_udbud": 102,
+      "tilgang_antal": 0,
+      "afgang_antal": 0,
+      "prisnedsaettelse_antal": 0,
+      "afgaaet_huse": [],
+      "prisnedsaettelser_huse": []
+    }
+  },
+  "kobenhavn": {
+    "2026-09-23": {
+      "total_udbud": 299,
+      "tilgang_antal": 0,
+      "afgang_antal": 0,
+      "prisnedsaettelse_antal": 0,
+      "afgaaet_huse": [],
+      "prisnedsaettelser_huse": []
+    }
   }
 }
