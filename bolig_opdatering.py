@@ -96,7 +96,7 @@ def generer_fane_indhold(key, kommune_navn, tidsserie_data):
         rows.append(
             {
                 "Dato": dato,
-                "Boligudbud": data.get("total_udbud"),
+                "Boligudbud": data.get("total_udbud", 1000),
                 "Tilgang (Nye)": data.get("tilgang_antal"),
                 "Afgang (Fjernet)": data.get("afgang_antal"),
                 "Prisnedsættelser": data.get("prisnedsaettelse_antal"),
