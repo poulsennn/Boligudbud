@@ -6,5 +6,22 @@
     "prisnedsaettelse_antal": 0,
     "afgaaet_huse": [],
     "prisnedsaettelser_huse": []
+  },
+  "2026-09-24": {
+    "total_udbud": 102,
+    "tilgang_antal": 0,
+    "afgang_antal": 0,
+    "prisnedsaettelse_antal": 1,
+    "afgaaet_huse": [],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Odysseus Alle 18, 2650 Hvidovre",
+        "pris_for": 9785000,
+        "pris_efter": 9625000,
+        "besparelse": 160000,
+        "procent": 1.6,
+        "url": "https://www.boliga.dk/bolig/2357925"
+      }
+    ]
   }
 }

@@ -710,6 +710,15 @@
     "byggeaar": 2005,
     "url": "https://www.boliga.dk/bolig/2358421"
   },
+  "2357925": {
+    "id": "2357925",
+    "adresse": "Odysseus Alle 18, 2650 Hvidovre",
+    "pris": 9625000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1958,
+    "url": "https://www.boliga.dk/bolig/2357925"
+  },
   "2340749": {
     "id": "2340749",
     "adresse": "I G Smiths Alle 39, 2650 Hvidovre",
@@ -718,15 +727,6 @@
     "vaerelser": 5.0,
     "byggeaar": 1932,
     "url": "https://www.boliga.dk/bolig/2340749"
-  },
-  "2357925": {
-    "id": "2357925",
-    "adresse": "Odysseus Alle 18, 2650 Hvidovre",
-    "pris": 9785000,
-    "kvm": null,
-    "vaerelser": 5.0,
-    "byggeaar": 1958,
-    "url": "https://www.boliga.dk/bolig/2357925"
   },
   "2320307": {
     "id": "2320307",
