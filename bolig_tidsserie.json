@@ -27,39 +27,9 @@
   "2026-09-25": {
     "total_udbud": 100,
     "tilgang_antal": 0,
-    "afgang_antal": 2,
-    "prisnedsaettelse_antal": 2,
-    "afgaaet_huse": [
-      {
-        "adresse": "Karise Alle 5, 2650 Hvidovre",
-        "kvm": null,
-        "pris": 11995000,
-        "url": "https://www.boliga.dk/bolig/2323467"
-      },
-      {
-        "adresse": "Bårsevej 10, 2650 Hvidovre",
-        "kvm": null,
-        "pris": 8485000,
-        "url": "https://www.boliga.dk/bolig/2356812"
-      }
-    ],
-    "prisnedsaettelser_huse": [
-      {
-        "adresse": "Tværskovvej 4, 2650 Hvidovre",
-        "pris_for": 5995000,
-        "pris_efter": 5750000,
-        "besparelse": 245000,
-        "procent": 4.1,
-        "url": "https://www.boliga.dk/bolig/2362164"
-      },
-      {
-        "adresse": "Strandby Alle 46, 2650 Hvidovre",
-        "pris_for": 9375000,
-        "pris_efter": 8995000,
-        "besparelse": 380000,
-        "procent": 4.1,
-        "url": "https://www.boliga.dk/bolig/2348272"
-      }
-    ]
+    "afgang_antal": 0,
+    "prisnedsaettelse_antal": 0,
+    "afgaaet_huse": [],
+    "prisnedsaettelser_huse": []
   }
 }
