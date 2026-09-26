@@ -31,5 +31,26 @@
     "prisnedsaettelse_antal": 0,
     "afgaaet_huse": [],
     "prisnedsaettelser_huse": []
+  },
+  "2026-09-26": {
+    "total_udbud": 98,
+    "tilgang_antal": 0,
+    "afgang_antal": 2,
+    "prisnedsaettelse_antal": 0,
+    "afgaaet_huse": [
+      {
+        "adresse": "Ketteholm 39, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 5245000,
+        "url": "https://www.boliga.dk/bolig/2365969"
+      },
+      {
+        "adresse": "Kærmark 48, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 6995000,
+        "url": "https://www.boliga.dk/bolig/2349437"
+      }
+    ],
+    "prisnedsaettelser_huse": []
   }
 }
