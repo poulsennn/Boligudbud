@@ -39,5 +39,20 @@
     "prisnedsaettelse_antal": 0,
     "afgaaet_huse": [],
     "prisnedsaettelser_huse": []
+  },
+  "2026-09-27": {
+    "total_udbud": 97,
+    "tilgang_antal": 0,
+    "afgang_antal": 1,
+    "prisnedsaettelse_antal": 0,
+    "afgaaet_huse": [
+      {
+        "adresse": "Vestre Strandvej 34, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 6295000,
+        "url": "https://www.boliga.dk/bolig/2369926"
+      }
+    ],
+    "prisnedsaettelser_huse": []
   }
 }
