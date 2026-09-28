@@ -54,5 +54,13 @@
       }
     ],
     "prisnedsaettelser_huse": []
+  },
+  "2026-09-28": {
+    "total_udbud": 98,
+    "tilgang_antal": 1,
+    "afgang_antal": 0,
+    "prisnedsaettelse_antal": 0,
+    "afgaaet_huse": [],
+    "prisnedsaettelser_huse": []
   }
 }
