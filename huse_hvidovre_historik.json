@@ -89,6 +89,15 @@
     "byggeaar": 1940,
     "url": "https://www.boliga.dk/bolig/2341192"
   },
+  "2371764": {
+    "id": "2371764",
+    "adresse": "Landlystvej 37, 2650 Hvidovre",
+    "pris": 5145000,
+    "kvm": null,
+    "vaerelser": 2.0,
+    "byggeaar": 1934,
+    "url": "https://www.boliga.dk/bolig/2371764"
+  },
   "2345419": {
     "id": "2345419",
     "adresse": "Frydenstrands Alle 28, 2650 Hvidovre",
@@ -692,15 +701,6 @@
     "byggeaar": 2005,
     "url": "https://www.boliga.dk/bolig/2358421"
   },
-  "2357925": {
-    "id": "2357925",
-    "adresse": "Odysseus Alle 18, 2650 Hvidovre",
-    "pris": 9625000,
-    "kvm": null,
-    "vaerelser": 5.0,
-    "byggeaar": 1958,
-    "url": "https://www.boliga.dk/bolig/2357925"
-  },
   "2340749": {
     "id": "2340749",
     "adresse": "I G Smiths Alle 39, 2650 Hvidovre",
@@ -808,6 +808,15 @@
     "vaerelser": 5.0,
     "byggeaar": 2023,
     "url": "https://www.boliga.dk/bolig/2362818"
+  },
+  "2371951": {
+    "id": "2371951",
+    "adresse": "Catherine Boothsvej 18A, 2650 Hvidovre",
+    "pris": 11495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2022,
+    "url": "https://www.boliga.dk/bolig/2371951"
   },
   "2342631": {
     "id": "2342631",
