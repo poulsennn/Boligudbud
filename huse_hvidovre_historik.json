@@ -134,6 +134,15 @@
     "byggeaar": 1979,
     "url": "https://www.boliga.dk/bolig/2355719"
   },
+  "2359770": {
+    "id": "2359770",
+    "adresse": "Ærtebjergvej 39, 2650 Hvidovre",
+    "pris": 5495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1964,
+    "url": "https://www.boliga.dk/bolig/2359770"
+  },
   "2360465": {
     "id": "2360465",
     "adresse": "Risbjerggårds Alle 4B, 2650 Hvidovre",
@@ -178,15 +187,6 @@
     "vaerelser": 4.0,
     "byggeaar": 1982,
     "url": "https://www.boliga.dk/bolig/2366039"
-  },
-  "2359770": {
-    "id": "2359770",
-    "adresse": "Ærtebjergvej 39, 2650 Hvidovre",
-    "pris": 5695000,
-    "kvm": null,
-    "vaerelser": 4.0,
-    "byggeaar": 1964,
-    "url": "https://www.boliga.dk/bolig/2359770"
   },
   "2337531": {
     "id": "2337531",
@@ -322,6 +322,15 @@
     "vaerelser": 4.0,
     "byggeaar": 1987,
     "url": "https://www.boliga.dk/bolig/2370407"
+  },
+  "2371984": {
+    "id": "2371984",
+    "adresse": "Grænsevej 5, 2650 Hvidovre",
+    "pris": 5995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1934,
+    "url": "https://www.boliga.dk/bolig/2371984"
   },
   "2371538": {
     "id": "2371538",
@@ -520,6 +529,15 @@
     "vaerelser": 6.0,
     "byggeaar": 1959,
     "url": "https://www.boliga.dk/bolig/2361962"
+  },
+  "2372066": {
+    "id": "2372066",
+    "adresse": "Ketilstorp Alle 56, 2650 Hvidovre",
+    "pris": 7495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1939,
+    "url": "https://www.boliga.dk/bolig/2372066"
   },
   "2332249": {
     "id": "2332249",

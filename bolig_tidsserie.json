@@ -77,5 +77,22 @@
       }
     ],
     "prisnedsaettelser_huse": []
+  },
+  "2026-09-30": {
+    "total_udbud": 101,
+    "tilgang_antal": 2,
+    "afgang_antal": 0,
+    "prisnedsaettelse_antal": 1,
+    "afgaaet_huse": [],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Ærtebjergvej 39, 2650 Hvidovre",
+        "pris_for": 5695000,
+        "pris_efter": 5495000,
+        "besparelse": 200000,
+        "procent": 3.5,
+        "url": "https://www.boliga.dk/bolig/2359770"
+      }
+    ]
   }
 }
