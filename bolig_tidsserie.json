@@ -94,5 +94,43 @@
         "url": "https://www.boliga.dk/bolig/2359770"
       }
     ]
+  },
+  "2026-10-01": {
+    "total_udbud": 100,
+    "tilgang_antal": 1,
+    "afgang_antal": 2,
+    "prisnedsaettelse_antal": 2,
+    "afgaaet_huse": [
+      {
+        "adresse": "Kløverprisvej 10C, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 7495000,
+        "url": "https://www.boliga.dk/bolig/2348280"
+      },
+      {
+        "adresse": "Fagerstedvej 19, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 7495000,
+        "url": "https://www.boliga.dk/bolig/2361962"
+      }
+    ],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Sydkærsvej 93, 2650 Hvidovre",
+        "pris_for": 10375000,
+        "pris_efter": 9995000,
+        "besparelse": 380000,
+        "procent": 3.7,
+        "url": "https://www.boliga.dk/bolig/2361587"
+      },
+      {
+        "adresse": "Plovheldvej 9, 2650 Hvidovre",
+        "pris_for": 8495000,
+        "pris_efter": 7995000,
+        "besparelse": 500000,
+        "procent": 5.9,
+        "url": "https://www.boliga.dk/bolig/2362040"
+      }
+    ]
   }
 }

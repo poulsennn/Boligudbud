@@ -512,24 +512,6 @@
     "byggeaar": 1890,
     "url": "https://www.boliga.dk/bolig/2359692"
   },
-  "2348280": {
-    "id": "2348280",
-    "adresse": "Kløverprisvej 10C, 2650 Hvidovre",
-    "pris": 7495000,
-    "kvm": null,
-    "vaerelser": 5.0,
-    "byggeaar": 2025,
-    "url": "https://www.boliga.dk/bolig/2348280"
-  },
-  "2361962": {
-    "id": "2361962",
-    "adresse": "Fagerstedvej 19, 2650 Hvidovre",
-    "pris": 7495000,
-    "kvm": null,
-    "vaerelser": 6.0,
-    "byggeaar": 1959,
-    "url": "https://www.boliga.dk/bolig/2361962"
-  },
   "2372066": {
     "id": "2372066",
     "adresse": "Ketilstorp Alle 56, 2650 Hvidovre",
@@ -566,6 +548,15 @@
     "byggeaar": 1926,
     "url": "https://www.boliga.dk/bolig/2357395"
   },
+  "2362040": {
+    "id": "2362040",
+    "adresse": "Plovheldvej 9, 2650 Hvidovre",
+    "pris": 7995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1940,
+    "url": "https://www.boliga.dk/bolig/2362040"
+  },
   "2370408": {
     "id": "2370408",
     "adresse": "William Boothsvej 6, 2650 Hvidovre",
@@ -574,6 +565,15 @@
     "vaerelser": 4.0,
     "byggeaar": 1939,
     "url": "https://www.boliga.dk/bolig/2370408"
+  },
+  "2372479": {
+    "id": "2372479",
+    "adresse": "Rosmosevej 62, 2650 Hvidovre",
+    "pris": 7995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1970,
+    "url": "https://www.boliga.dk/bolig/2372479"
   },
   "2358587": {
     "id": "2358587",
@@ -610,15 +610,6 @@
     "vaerelser": 3.0,
     "byggeaar": 1940,
     "url": "https://www.boliga.dk/bolig/2370573"
-  },
-  "2362040": {
-    "id": "2362040",
-    "adresse": "Plovheldvej 9, 2650 Hvidovre",
-    "pris": 8495000,
-    "kvm": null,
-    "vaerelser": 4.0,
-    "byggeaar": 1940,
-    "url": "https://www.boliga.dk/bolig/2362040"
   },
   "2363206": {
     "id": "2363206",
@@ -767,7 +758,7 @@
   "2361587": {
     "id": "2361587",
     "adresse": "Sydkærsvej 93, 2650 Hvidovre",
-    "pris": 10375000,
+    "pris": 9995000,
     "kvm": null,
     "vaerelser": 5.0,
     "byggeaar": 1924,
