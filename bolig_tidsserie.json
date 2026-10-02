@@ -132,5 +132,35 @@
         "url": "https://www.boliga.dk/bolig/2362040"
       }
     ]
+  },
+  "2026-10-02": {
+    "total_udbud": 100,
+    "tilgang_antal": 2,
+    "afgang_antal": 2,
+    "prisnedsaettelse_antal": 1,
+    "afgaaet_huse": [
+      {
+        "adresse": "Giesegårdsvej 16, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 9245000,
+        "url": "https://www.boliga.dk/bolig/2339008"
+      },
+      {
+        "adresse": "Tværskovvej 4, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 5750000,
+        "url": "https://www.boliga.dk/bolig/2362164"
+      }
+    ],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Bjeverskov Alle 3, 2650 Hvidovre",
+        "pris_for": 6495000,
+        "pris_efter": 6295000,
+        "besparelse": 200000,
+        "procent": 3.1,
+        "url": "https://www.boliga.dk/bolig/2361014"
+      }
+    ]
   }
 }

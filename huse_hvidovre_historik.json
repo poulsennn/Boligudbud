@@ -188,6 +188,15 @@
     "byggeaar": 1982,
     "url": "https://www.boliga.dk/bolig/2366039"
   },
+  "2372858": {
+    "id": "2372858",
+    "adresse": "Borrisvej 31, 2650 Hvidovre",
+    "pris": 5695000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1963,
+    "url": "https://www.boliga.dk/bolig/2372858"
+  },
   "2337531": {
     "id": "2337531",
     "adresse": "M Bechs Alle 126, 2650 Hvidovre",
@@ -196,15 +205,6 @@
     "vaerelser": 4.0,
     "byggeaar": 1948,
     "url": "https://www.boliga.dk/bolig/2337531"
-  },
-  "2362164": {
-    "id": "2362164",
-    "adresse": "Tværskovvej 4, 2650 Hvidovre",
-    "pris": 5750000,
-    "kvm": null,
-    "vaerelser": 4.0,
-    "byggeaar": 1972,
-    "url": "https://www.boliga.dk/bolig/2362164"
   },
   "2354350": {
     "id": "2354350",
@@ -350,6 +350,15 @@
     "byggeaar": 1943,
     "url": "https://www.boliga.dk/bolig/2331369"
   },
+  "2361014": {
+    "id": "2361014",
+    "adresse": "Bjeverskov Alle 3, 2650 Hvidovre",
+    "pris": 6295000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1939,
+    "url": "https://www.boliga.dk/bolig/2361014"
+  },
   "2366989": {
     "id": "2366989",
     "adresse": "Strandvangsvej 11C, 2650 Hvidovre",
@@ -403,15 +412,6 @@
     "vaerelser": 5.0,
     "byggeaar": 1971,
     "url": "https://www.boliga.dk/bolig/2347829"
-  },
-  "2361014": {
-    "id": "2361014",
-    "adresse": "Bjeverskov Alle 3, 2650 Hvidovre",
-    "pris": 6495000,
-    "kvm": null,
-    "vaerelser": 3.0,
-    "byggeaar": 1939,
-    "url": "https://www.boliga.dk/bolig/2361014"
   },
   "2366936": {
     "id": "2366936",
@@ -674,15 +674,6 @@
     "byggeaar": 1939,
     "url": "https://www.boliga.dk/bolig/2369770"
   },
-  "2339008": {
-    "id": "2339008",
-    "adresse": "Giesegårdsvej 16, 2650 Hvidovre",
-    "pris": 9245000,
-    "kvm": null,
-    "vaerelser": 5.0,
-    "byggeaar": 1925,
-    "url": "https://www.boliga.dk/bolig/2339008"
-  },
   "2335601": {
     "id": "2335601",
     "adresse": "Paris Boulevard 12, 2650 Hvidovre",
@@ -889,6 +880,15 @@
     "vaerelser": 6.0,
     "byggeaar": 2023,
     "url": "https://www.boliga.dk/bolig/2357175"
+  },
+  "2373047": {
+    "id": "2373047",
+    "adresse": "Vojensvej 51, 2610 Rødovre",
+    "pris": 6995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1937,
+    "url": "https://www.boliga.dk/bolig/2373047"
   },
   "2363446": {
     "id": "2363446",
