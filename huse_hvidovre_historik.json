@@ -638,6 +638,15 @@
     "byggeaar": 1932,
     "url": "https://www.boliga.dk/bolig/2343006"
   },
+  "2367426": {
+    "id": "2367426",
+    "adresse": "Krogstens Alle 38, 2650 Hvidovre",
+    "pris": 8895000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1940,
+    "url": "https://www.boliga.dk/bolig/2367426"
+  },
   "2340852": {
     "id": "2340852",
     "adresse": "Sjølundvej 39, 2650 Hvidovre",
@@ -656,15 +665,6 @@
     "byggeaar": 2002,
     "url": "https://www.boliga.dk/bolig/2348272"
   },
-  "2367426": {
-    "id": "2367426",
-    "adresse": "Krogstens Alle 38, 2650 Hvidovre",
-    "pris": 9195000,
-    "kvm": null,
-    "vaerelser": 3.0,
-    "byggeaar": 1940,
-    "url": "https://www.boliga.dk/bolig/2367426"
-  },
   "2369770": {
     "id": "2369770",
     "adresse": "Nordlundsvej 52, 2650 Hvidovre",
@@ -673,6 +673,15 @@
     "vaerelser": 6.0,
     "byggeaar": 1939,
     "url": "https://www.boliga.dk/bolig/2369770"
+  },
+  "2373220": {
+    "id": "2373220",
+    "adresse": "Greve Alle 88, 2650 Hvidovre",
+    "pris": 9250000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1927,
+    "url": "https://www.boliga.dk/bolig/2373220"
   },
   "2335601": {
     "id": "2335601",
@@ -782,15 +791,6 @@
     "byggeaar": 1965,
     "url": "https://www.boliga.dk/bolig/2366683"
   },
-  "2339322": {
-    "id": "2339322",
-    "adresse": "Gadestævnet 66, 2650 Hvidovre",
-    "pris": 10975000,
-    "kvm": null,
-    "vaerelser": 7.0,
-    "byggeaar": 1956,
-    "url": "https://www.boliga.dk/bolig/2339322"
-  },
   "2360715": {
     "id": "2360715",
     "adresse": "Kirkebroen 33, 2650 Hvidovre",
@@ -814,7 +814,7 @@
     "adresse": "Catherine Boothsvej 18A, 2650 Hvidovre",
     "pris": 11495000,
     "kvm": null,
-    "vaerelser": 5.0,
+    "vaerelser": 7.0,
     "byggeaar": 2022,
     "url": "https://www.boliga.dk/bolig/2371951"
   },

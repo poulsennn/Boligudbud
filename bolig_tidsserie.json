@@ -162,5 +162,29 @@
         "url": "https://www.boliga.dk/bolig/2361014"
       }
     ]
+  },
+  "2026-10-03": {
+    "total_udbud": 100,
+    "tilgang_antal": 1,
+    "afgang_antal": 1,
+    "prisnedsaettelse_antal": 1,
+    "afgaaet_huse": [
+      {
+        "adresse": "Gadestævnet 66, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 10975000,
+        "url": "https://www.boliga.dk/bolig/2339322"
+      }
+    ],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Krogstens Alle 38, 2650 Hvidovre",
+        "pris_for": 9195000,
+        "pris_efter": 8895000,
+        "besparelse": 300000,
+        "procent": 3.3,
+        "url": "https://www.boliga.dk/bolig/2367426"
+      }
+    ]
   }
 }
