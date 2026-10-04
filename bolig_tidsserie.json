@@ -186,5 +186,20 @@
         "url": "https://www.boliga.dk/bolig/2367426"
       }
     ]
+  },
+  "2026-10-04": {
+    "total_udbud": 99,
+    "tilgang_antal": 0,
+    "afgang_antal": 1,
+    "prisnedsaettelse_antal": 0,
+    "afgaaet_huse": [
+      {
+        "adresse": "Rosmosevej 62, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 7995000,
+        "url": "https://www.boliga.dk/bolig/2372479"
+      }
+    ],
+    "prisnedsaettelser_huse": []
   }
 }
