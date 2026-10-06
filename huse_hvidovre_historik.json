@@ -197,6 +197,15 @@
     "byggeaar": 1963,
     "url": "https://www.boliga.dk/bolig/2372858"
   },
+  "2373763": {
+    "id": "2373763",
+    "adresse": "Vestre Strandvej 62, 2650 Hvidovre",
+    "pris": 5695000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1975,
+    "url": "https://www.boliga.dk/bolig/2373763"
+  },
   "2337531": {
     "id": "2337531",
     "adresse": "M Bechs Alle 126, 2650 Hvidovre",
@@ -241,6 +250,15 @@
     "vaerelser": 5.0,
     "byggeaar": 1960,
     "url": "https://www.boliga.dk/bolig/2358697"
+  },
+  "2373767": {
+    "id": "2373767",
+    "adresse": "Allingvej 100, 2650 Hvidovre",
+    "pris": 5895000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1979,
+    "url": "https://www.boliga.dk/bolig/2373767"
   },
   "2331812": {
     "id": "2331812",
@@ -373,7 +391,7 @@
     "adresse": "Grænsevej 24, 2650 Hvidovre",
     "pris": 6445000,
     "kvm": null,
-    "vaerelser": 7.0,
+    "vaerelser": 6.0,
     "byggeaar": 1932,
     "url": "https://www.boliga.dk/bolig/2309345"
   },
@@ -521,6 +539,15 @@
     "byggeaar": 1939,
     "url": "https://www.boliga.dk/bolig/2372066"
   },
+  "2373759": {
+    "id": "2373759",
+    "adresse": "Rudbølvej 14, 2650 Hvidovre",
+    "pris": 7495000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1967,
+    "url": "https://www.boliga.dk/bolig/2373759"
+  },
   "2332249": {
     "id": "2332249",
     "adresse": "Bårsevej 26, 2650 Hvidovre",
@@ -601,6 +628,15 @@
     "vaerelser": 3.0,
     "byggeaar": 1940,
     "url": "https://www.boliga.dk/bolig/2370573"
+  },
+  "2373786": {
+    "id": "2373786",
+    "adresse": "Strandby Alle 48, 2650 Hvidovre",
+    "pris": 8295000,
+    "kvm": null,
+    "vaerelser": 8.0,
+    "byggeaar": 1967,
+    "url": "https://www.boliga.dk/bolig/2373786"
   },
   "2363206": {
     "id": "2363206",
