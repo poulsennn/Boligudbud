@@ -217,5 +217,65 @@
     "prisnedsaettelse_antal": 0,
     "afgaaet_huse": [],
     "prisnedsaettelser_huse": []
+  },
+  "2026-10-07": {
+    "total_udbud": 105,
+    "tilgang_antal": 5,
+    "afgang_antal": 3,
+    "prisnedsaettelse_antal": 4,
+    "afgaaet_huse": [
+      {
+        "adresse": "Birke Alle 22, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 8195000,
+        "url": "https://www.boliga.dk/bolig/2358587"
+      },
+      {
+        "adresse": "Poppel Alle 3A, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 6995000,
+        "url": "https://www.boliga.dk/bolig/2350114"
+      },
+      {
+        "adresse": "Planteheldvej 12, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 6295000,
+        "url": "https://www.boliga.dk/bolig/2331369"
+      }
+    ],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Bavnevej 50, 2650 Hvidovre",
+        "pris_for": 7995000,
+        "pris_efter": 7495000,
+        "besparelse": 500000,
+        "procent": 6.3,
+        "url": "https://www.boliga.dk/bolig/2331136"
+      },
+      {
+        "adresse": "Engvadvej 5, 2650 Hvidovre",
+        "pris_for": 4995000,
+        "pris_efter": 4795000,
+        "besparelse": 200000,
+        "procent": 4.0,
+        "url": "https://www.boliga.dk/bolig/2334916"
+      },
+      {
+        "adresse": "Risbjerggårds Alle 81, 2650 Hvidovre",
+        "pris_for": 12595000,
+        "pris_efter": 11995000,
+        "besparelse": 600000,
+        "procent": 4.8,
+        "url": "https://www.boliga.dk/bolig/2337013"
+      },
+      {
+        "adresse": "Elkærvej 16, 2650 Hvidovre",
+        "pris_for": 5995000,
+        "pris_efter": 5695000,
+        "besparelse": 300000,
+        "procent": 5.0,
+        "url": "https://www.boliga.dk/bolig/2340819"
+      }
+    ]
   }
 }
