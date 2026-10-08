@@ -277,5 +277,51 @@
         "url": "https://www.boliga.dk/bolig/2340819"
       }
     ]
+  },
+  "2026-10-08": {
+    "total_udbud": 104,
+    "tilgang_antal": 1,
+    "afgang_antal": 2,
+    "prisnedsaettelse_antal": 3,
+    "afgaaet_huse": [
+      {
+        "adresse": "Brostykkevej 86, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 6475000,
+        "url": "https://www.boliga.dk/bolig/2364858"
+      },
+      {
+        "adresse": "Eriksminde Alle 7, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 6995000,
+        "url": "https://www.boliga.dk/bolig/2342787"
+      }
+    ],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Landlystvej 37, 2650 Hvidovre",
+        "pris_for": 5145000,
+        "pris_efter": 4995000,
+        "besparelse": 150000,
+        "procent": 2.9,
+        "url": "https://www.boliga.dk/bolig/2371764"
+      },
+      {
+        "adresse": "Glimvej 11, 2650 Hvidovre",
+        "pris_for": 8295000,
+        "pris_efter": 7995000,
+        "besparelse": 300000,
+        "procent": 3.6,
+        "url": "https://www.boliga.dk/bolig/2370573"
+      },
+      {
+        "adresse": "Nordlundsvej 52, 2650 Hvidovre",
+        "pris_for": 9195000,
+        "pris_efter": 8995000,
+        "besparelse": 200000,
+        "procent": 2.2,
+        "url": "https://www.boliga.dk/bolig/2369770"
+      }
+    ]
   }
 }
