@@ -323,5 +323,45 @@
         "url": "https://www.boliga.dk/bolig/2369770"
       }
     ]
+  },
+  "2026-10-09": {
+    "total_udbud": 104,
+    "tilgang_antal": 1,
+    "afgang_antal": 1,
+    "prisnedsaettelse_antal": 3,
+    "afgaaet_huse": [
+      {
+        "adresse": "Borrisvej 31, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 5695000,
+        "url": "https://www.boliga.dk/bolig/2372858"
+      }
+    ],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Engholm Alle 36, 2650 Hvidovre",
+        "pris_for": 5495000,
+        "pris_efter": 5295000,
+        "besparelse": 200000,
+        "procent": 3.6,
+        "url": "https://www.boliga.dk/bolig/2335125"
+      },
+      {
+        "adresse": "Sjølundvej 39, 2650 Hvidovre",
+        "pris_for": 8995000,
+        "pris_efter": 8595000,
+        "besparelse": 400000,
+        "procent": 4.4,
+        "url": "https://www.boliga.dk/bolig/2340852"
+      },
+      {
+        "adresse": "Parallelvej 75, 2650 Hvidovre",
+        "pris_for": 5895000,
+        "pris_efter": 5795000,
+        "besparelse": 100000,
+        "procent": 1.7,
+        "url": "https://www.boliga.dk/bolig/2358697"
+      }
+    ]
   }
 }
