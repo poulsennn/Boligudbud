@@ -377,6 +377,15 @@
     "byggeaar": 1983,
     "url": "https://www.boliga.dk/bolig/2374304"
   },
+  "2375262": {
+    "id": "2375262",
+    "adresse": "Hvidovrevej 97D, 2650 Hvidovre",
+    "pris": 5995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1978,
+    "url": "https://www.boliga.dk/bolig/2375262"
+  },
   "2371538": {
     "id": "2371538",
     "adresse": "Hvidovre Strandvej 141, 2650 Hvidovre",
@@ -835,6 +844,15 @@
     "vaerelser": 7.0,
     "byggeaar": 2020,
     "url": "https://www.boliga.dk/bolig/2360715"
+  },
+  "2375546": {
+    "id": "2375546",
+    "adresse": "Dryadevej 14, 2650 Hvidovre",
+    "pris": 10995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 2015,
+    "url": "https://www.boliga.dk/bolig/2375546"
   },
   "2362818": {
     "id": "2362818",
