@@ -371,5 +371,20 @@
     "prisnedsaettelse_antal": 0,
     "afgaaet_huse": [],
     "prisnedsaettelser_huse": []
+  },
+  "2026-10-11": {
+    "total_udbud": 105,
+    "tilgang_antal": 0,
+    "afgang_antal": 1,
+    "prisnedsaettelse_antal": 0,
+    "afgaaet_huse": [
+      {
+        "adresse": "M Bechs Alle 126, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 5699000,
+        "url": "https://www.boliga.dk/bolig/2337531"
+      }
+    ],
+    "prisnedsaettelser_huse": []
   }
 }
