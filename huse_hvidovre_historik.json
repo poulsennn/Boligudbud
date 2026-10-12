@@ -89,15 +89,6 @@
     "byggeaar": 1959,
     "url": "https://www.boliga.dk/bolig/2335123"
   },
-  "2341192": {
-    "id": "2341192",
-    "adresse": "Landlystvej 49, 2650 Hvidovre",
-    "pris": 4995000,
-    "kvm": null,
-    "vaerelser": 3.0,
-    "byggeaar": 1940,
-    "url": "https://www.boliga.dk/bolig/2341192"
-  },
   "2371764": {
     "id": "2371764",
     "adresse": "Landlystvej 37, 2650 Hvidovre",
@@ -269,6 +260,15 @@
     "byggeaar": 1962,
     "url": "https://www.boliga.dk/bolig/2374183"
   },
+  "2375642": {
+    "id": "2375642",
+    "adresse": "Hvidovrevej 358, 2650 Hvidovre",
+    "pris": 5795000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1936,
+    "url": "https://www.boliga.dk/bolig/2375642"
+  },
   "2373767": {
     "id": "2373767",
     "adresse": "Allingvej 100, 2650 Hvidovre",
@@ -403,6 +403,15 @@
     "vaerelser": 5.0,
     "byggeaar": 1949,
     "url": "https://www.boliga.dk/bolig/2366989"
+  },
+  "2375713": {
+    "id": "2375713",
+    "adresse": "Bredegårds Alle 3, 2650 Hvidovre",
+    "pris": 6350000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1963,
+    "url": "https://www.boliga.dk/bolig/2375713"
   },
   "2309345": {
     "id": "2309345",

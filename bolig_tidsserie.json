@@ -386,5 +386,20 @@
       }
     ],
     "prisnedsaettelser_huse": []
+  },
+  "2026-10-12": {
+    "total_udbud": 106,
+    "tilgang_antal": 2,
+    "afgang_antal": 1,
+    "prisnedsaettelse_antal": 0,
+    "afgaaet_huse": [
+      {
+        "adresse": "Landlystvej 49, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 4995000,
+        "url": "https://www.boliga.dk/bolig/2341192"
+      }
+    ],
+    "prisnedsaettelser_huse": []
   }
 }
