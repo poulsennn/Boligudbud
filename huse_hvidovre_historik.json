@@ -8,6 +8,15 @@
     "byggeaar": 1959,
     "url": "https://www.boliga.dk/bolig/2375121"
   },
+  "2366484": {
+    "id": "2366484",
+    "adresse": "Gammel Køge Landevej 370L, 2650 Hvidovre",
+    "pris": 4295000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1986,
+    "url": "https://www.boliga.dk/bolig/2366484"
+  },
   "2335690": {
     "id": "2335690",
     "adresse": "Hjørnagervej 2A, 2650 Hvidovre",
@@ -34,15 +43,6 @@
     "vaerelser": 3.0,
     "byggeaar": 1958,
     "url": "https://www.boliga.dk/bolig/2356382"
-  },
-  "2366484": {
-    "id": "2366484",
-    "adresse": "Gammel Køge Landevej 370L, 2650 Hvidovre",
-    "pris": 4495000,
-    "kvm": null,
-    "vaerelser": 4.0,
-    "byggeaar": 1986,
-    "url": "https://www.boliga.dk/bolig/2366484"
   },
   "2344081": {
     "id": "2344081",
@@ -449,6 +449,15 @@
     "byggeaar": 1971,
     "url": "https://www.boliga.dk/bolig/2347829"
   },
+  "2362483": {
+    "id": "2362483",
+    "adresse": "Svendebjergvej 38, 2650 Hvidovre",
+    "pris": 6495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1932,
+    "url": "https://www.boliga.dk/bolig/2362483"
+  },
   "2366936": {
     "id": "2366936",
     "adresse": "Kærgårdsvej 7, 2650 Hvidovre",
@@ -493,15 +502,6 @@
     "vaerelser": 2.0,
     "byggeaar": 1935,
     "url": "https://www.boliga.dk/bolig/2357958"
-  },
-  "2362483": {
-    "id": "2362483",
-    "adresse": "Svendebjergvej 38, 2650 Hvidovre",
-    "pris": 6995000,
-    "kvm": null,
-    "vaerelser": 4.0,
-    "byggeaar": 1932,
-    "url": "https://www.boliga.dk/bolig/2362483"
   },
   "2374653": {
     "id": "2374653",
@@ -755,6 +755,15 @@
     "byggeaar": 2005,
     "url": "https://www.boliga.dk/bolig/2358421"
   },
+  "2375813": {
+    "id": "2375813",
+    "adresse": "Fredtoftevej 17, 2650 Hvidovre",
+    "pris": 9495000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1928,
+    "url": "https://www.boliga.dk/bolig/2375813"
+  },
   "2340749": {
     "id": "2340749",
     "adresse": "I G Smiths Alle 39, 2650 Hvidovre",
@@ -863,15 +872,6 @@
     "byggeaar": 2023,
     "url": "https://www.boliga.dk/bolig/2362818"
   },
-  "2371951": {
-    "id": "2371951",
-    "adresse": "Catherine Boothsvej 18A, 2650 Hvidovre",
-    "pris": 11495000,
-    "kvm": null,
-    "vaerelser": 7.0,
-    "byggeaar": 2022,
-    "url": "https://www.boliga.dk/bolig/2371951"
-  },
   "2337013": {
     "id": "2337013",
     "adresse": "Risbjerggårds Alle 81, 2650 Hvidovre",
@@ -934,6 +934,15 @@
     "vaerelser": 6.0,
     "byggeaar": 2023,
     "url": "https://www.boliga.dk/bolig/2357175"
+  },
+  "2376046": {
+    "id": "2376046",
+    "adresse": "Bredegårds Alle 48, 2650 Hvidovre",
+    "pris": 6495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1963,
+    "url": "https://www.boliga.dk/bolig/2376046"
   },
   "2373047": {
     "id": "2373047",

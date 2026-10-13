@@ -401,5 +401,37 @@
       }
     ],
     "prisnedsaettelser_huse": []
+  },
+  "2026-10-13": {
+    "total_udbud": 107,
+    "tilgang_antal": 2,
+    "afgang_antal": 1,
+    "prisnedsaettelse_antal": 2,
+    "afgaaet_huse": [
+      {
+        "adresse": "Catherine Boothsvej 18A, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 11495000,
+        "url": "https://www.boliga.dk/bolig/2371951"
+      }
+    ],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Gammel Køge Landevej 370L, 2650 Hvidovre",
+        "pris_for": 4495000,
+        "pris_efter": 4295000,
+        "besparelse": 200000,
+        "procent": 4.4,
+        "url": "https://www.boliga.dk/bolig/2366484"
+      },
+      {
+        "adresse": "Svendebjergvej 38, 2650 Hvidovre",
+        "pris_for": 6995000,
+        "pris_efter": 6495000,
+        "besparelse": 500000,
+        "procent": 7.1,
+        "url": "https://www.boliga.dk/bolig/2362483"
+      }
+    ]
   }
 }
