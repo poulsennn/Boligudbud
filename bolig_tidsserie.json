@@ -433,5 +433,20 @@
         "url": "https://www.boliga.dk/bolig/2362483"
       }
     ]
+  },
+  "2026-10-14": {
+    "total_udbud": 109,
+    "tilgang_antal": 3,
+    "afgang_antal": 1,
+    "prisnedsaettelse_antal": 0,
+    "afgaaet_huse": [
+      {
+        "adresse": "Ketilstorp Alle 56, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 7495000,
+        "url": "https://www.boliga.dk/bolig/2372066"
+      }
+    ],
+    "prisnedsaettelser_huse": []
   }
 }

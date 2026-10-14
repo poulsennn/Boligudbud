@@ -467,6 +467,15 @@
     "byggeaar": 1978,
     "url": "https://www.boliga.dk/bolig/2366936"
   },
+  "2376046": {
+    "id": "2376046",
+    "adresse": "Bredegårds Alle 48, 2650 Hvidovre",
+    "pris": 6495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1963,
+    "url": "https://www.boliga.dk/bolig/2376046"
+  },
   "2369697": {
     "id": "2369697",
     "adresse": "Ærtebjergvej 11, 2650 Hvidovre",
@@ -548,15 +557,6 @@
     "byggeaar": 1941,
     "url": "https://www.boliga.dk/bolig/2331136"
   },
-  "2372066": {
-    "id": "2372066",
-    "adresse": "Ketilstorp Alle 56, 2650 Hvidovre",
-    "pris": 7495000,
-    "kvm": null,
-    "vaerelser": 4.0,
-    "byggeaar": 1939,
-    "url": "https://www.boliga.dk/bolig/2372066"
-  },
   "2373759": {
     "id": "2373759",
     "adresse": "Rudbølvej 14, 2650 Hvidovre",
@@ -565,6 +565,15 @@
     "vaerelser": 3.0,
     "byggeaar": 1967,
     "url": "https://www.boliga.dk/bolig/2373759"
+  },
+  "2376352": {
+    "id": "2376352",
+    "adresse": "Voldgårdsvej 10, 2650 Hvidovre",
+    "pris": 7495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1961,
+    "url": "https://www.boliga.dk/bolig/2376352"
   },
   "2332249": {
     "id": "2332249",
@@ -845,6 +854,15 @@
     "byggeaar": 1965,
     "url": "https://www.boliga.dk/bolig/2366683"
   },
+  "2376370": {
+    "id": "2376370",
+    "adresse": "Bavnevej 43, 2650 Hvidovre",
+    "pris": 10500000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1970,
+    "url": "https://www.boliga.dk/bolig/2376370"
+  },
   "2360715": {
     "id": "2360715",
     "adresse": "Kirkebroen 33, 2650 Hvidovre",
@@ -862,6 +880,15 @@
     "vaerelser": 6.0,
     "byggeaar": 2015,
     "url": "https://www.boliga.dk/bolig/2375546"
+  },
+  "2376244": {
+    "id": "2376244",
+    "adresse": "Elme Alle 21, 2650 Hvidovre",
+    "pris": 10995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1958,
+    "url": "https://www.boliga.dk/bolig/2376244"
   },
   "2362818": {
     "id": "2362818",
@@ -934,15 +961,6 @@
     "vaerelser": 6.0,
     "byggeaar": 2023,
     "url": "https://www.boliga.dk/bolig/2357175"
-  },
-  "2376046": {
-    "id": "2376046",
-    "adresse": "Bredegårds Alle 48, 2650 Hvidovre",
-    "pris": 6495000,
-    "kvm": null,
-    "vaerelser": 5.0,
-    "byggeaar": 1963,
-    "url": "https://www.boliga.dk/bolig/2376046"
   },
   "2373047": {
     "id": "2373047",
