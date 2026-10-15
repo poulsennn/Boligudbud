@@ -107,6 +107,15 @@
     "byggeaar": 1965,
     "url": "https://www.boliga.dk/bolig/2374391"
   },
+  "2376504": {
+    "id": "2376504",
+    "adresse": "Engstrupgårdsvej 63, 2650 Hvidovre",
+    "pris": 5095000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1961,
+    "url": "https://www.boliga.dk/bolig/2376504"
+  },
   "2345419": {
     "id": "2345419",
     "adresse": "Frydenstrands Alle 28, 2650 Hvidovre",
@@ -268,6 +277,15 @@
     "vaerelser": 5.0,
     "byggeaar": 1936,
     "url": "https://www.boliga.dk/bolig/2375642"
+  },
+  "2376503": {
+    "id": "2376503",
+    "adresse": "Avedøre Enghavevej 20, 2650 Hvidovre",
+    "pris": 5795000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1958,
+    "url": "https://www.boliga.dk/bolig/2376503"
   },
   "2373767": {
     "id": "2373767",
@@ -926,6 +944,15 @@
     "byggeaar": 2011,
     "url": "https://www.boliga.dk/bolig/2340282"
   },
+  "2344405": {
+    "id": "2344405",
+    "adresse": "Torstensvej 14, 2650 Hvidovre",
+    "pris": 12375000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2019,
+    "url": "https://www.boliga.dk/bolig/2344405"
+  },
   "2353574": {
     "id": "2353574",
     "adresse": "Tavlekærsvej 59, 2650 Hvidovre",
@@ -934,15 +961,6 @@
     "vaerelser": 7.0,
     "byggeaar": 2022,
     "url": "https://www.boliga.dk/bolig/2353574"
-  },
-  "2344405": {
-    "id": "2344405",
-    "adresse": "Torstensvej 14, 2650 Hvidovre",
-    "pris": 12875000,
-    "kvm": null,
-    "vaerelser": 5.0,
-    "byggeaar": 2019,
-    "url": "https://www.boliga.dk/bolig/2344405"
   },
   "2337330": {
     "id": "2337330",

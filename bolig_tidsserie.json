@@ -448,5 +448,22 @@
       }
     ],
     "prisnedsaettelser_huse": []
+  },
+  "2026-10-15": {
+    "total_udbud": 111,
+    "tilgang_antal": 2,
+    "afgang_antal": 0,
+    "prisnedsaettelse_antal": 1,
+    "afgaaet_huse": [],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Torstensvej 14, 2650 Hvidovre",
+        "pris_for": 12875000,
+        "pris_efter": 12375000,
+        "besparelse": 500000,
+        "procent": 3.9,
+        "url": "https://www.boliga.dk/bolig/2344405"
+      }
+    ]
   }
 }
