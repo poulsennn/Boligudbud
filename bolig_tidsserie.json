@@ -473,5 +473,22 @@
     "prisnedsaettelse_antal": 0,
     "afgaaet_huse": [],
     "prisnedsaettelser_huse": []
+  },
+  "2026-10-17": {
+    "total_udbud": 112,
+    "tilgang_antal": 0,
+    "afgang_antal": 0,
+    "prisnedsaettelse_antal": 1,
+    "afgaaet_huse": [],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Rosmosevej 36, 2650 Hvidovre",
+        "pris_for": 5495000,
+        "pris_efter": 5245000,
+        "besparelse": 250000,
+        "procent": 4.5,
+        "url": "https://www.boliga.dk/bolig/2355531"
+      }
+    ]
   }
 }

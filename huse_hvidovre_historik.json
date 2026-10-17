@@ -125,6 +125,15 @@
     "byggeaar": 1931,
     "url": "https://www.boliga.dk/bolig/2345419"
   },
+  "2355531": {
+    "id": "2355531",
+    "adresse": "Rosmosevej 36, 2650 Hvidovre",
+    "pris": 5245000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1955,
+    "url": "https://www.boliga.dk/bolig/2355531"
+  },
   "2335125": {
     "id": "2335125",
     "adresse": "Engholm Alle 36, 2650 Hvidovre",
@@ -133,15 +142,6 @@
     "vaerelser": 4.0,
     "byggeaar": 1959,
     "url": "https://www.boliga.dk/bolig/2335125"
-  },
-  "2355531": {
-    "id": "2355531",
-    "adresse": "Rosmosevej 36, 2650 Hvidovre",
-    "pris": 5495000,
-    "kvm": null,
-    "vaerelser": 4.0,
-    "byggeaar": 1955,
-    "url": "https://www.boliga.dk/bolig/2355531"
   },
   "2355719": {
     "id": "2355719",
