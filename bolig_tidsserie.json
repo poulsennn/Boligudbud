@@ -490,5 +490,20 @@
         "url": "https://www.boliga.dk/bolig/2355531"
       }
     ]
+  },
+  "2026-10-18": {
+    "total_udbud": 111,
+    "tilgang_antal": 0,
+    "afgang_antal": 1,
+    "prisnedsaettelse_antal": 0,
+    "afgaaet_huse": [
+      {
+        "adresse": "Sandholtvej 41, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 5495000,
+        "url": "https://www.boliga.dk/bolig/2355719"
+      }
+    ],
+    "prisnedsaettelser_huse": []
   }
 }
