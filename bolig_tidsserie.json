@@ -513,5 +513,45 @@
     "prisnedsaettelse_antal": 0,
     "afgaaet_huse": [],
     "prisnedsaettelser_huse": []
+  },
+  "2026-10-20": {
+    "total_udbud": 113,
+    "tilgang_antal": 2,
+    "afgang_antal": 1,
+    "prisnedsaettelse_antal": 3,
+    "afgaaet_huse": [
+      {
+        "adresse": "Agermosen 25, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 10495000,
+        "url": "https://www.boliga.dk/bolig/2366683"
+      }
+    ],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Nordlundsvej 3, 2650 Hvidovre",
+        "pris_for": 9995000,
+        "pris_efter": 9795000,
+        "besparelse": 200000,
+        "procent": 2.0,
+        "url": "https://www.boliga.dk/bolig/2352652"
+      },
+      {
+        "adresse": "Filmbyen 8C, 2650 Hvidovre",
+        "pris_for": 8250000,
+        "pris_efter": 7950000,
+        "besparelse": 300000,
+        "procent": 3.6,
+        "url": "https://www.boliga.dk/bolig/2354527"
+      },
+      {
+        "adresse": "Nymarksvej 1, 2650 Hvidovre",
+        "pris_for": 5795000,
+        "pris_efter": 5495000,
+        "besparelse": 300000,
+        "procent": 5.2,
+        "url": "https://www.boliga.dk/bolig/2354350"
+      }
+    ]
   }
 }

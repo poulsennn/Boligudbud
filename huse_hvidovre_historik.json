@@ -143,6 +143,15 @@
     "byggeaar": 1959,
     "url": "https://www.boliga.dk/bolig/2335125"
   },
+  "2354350": {
+    "id": "2354350",
+    "adresse": "Nymarksvej 1, 2650 Hvidovre",
+    "pris": 5495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1959,
+    "url": "https://www.boliga.dk/bolig/2354350"
+  },
   "2359770": {
     "id": "2359770",
     "adresse": "Ærtebjergvej 39, 2650 Hvidovre",
@@ -214,15 +223,6 @@
     "vaerelser": 5.0,
     "byggeaar": 1975,
     "url": "https://www.boliga.dk/bolig/2373763"
-  },
-  "2354350": {
-    "id": "2354350",
-    "adresse": "Nymarksvej 1, 2650 Hvidovre",
-    "pris": 5795000,
-    "kvm": null,
-    "vaerelser": 5.0,
-    "byggeaar": 1959,
-    "url": "https://www.boliga.dk/bolig/2354350"
   },
   "2358697": {
     "id": "2358697",
@@ -512,6 +512,15 @@
     "byggeaar": 1957,
     "url": "https://www.boliga.dk/bolig/2358968"
   },
+  "2350114": {
+    "id": "2350114",
+    "adresse": "Poppel Alle 3A, 2650 Hvidovre",
+    "pris": 6845000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1933,
+    "url": "https://www.boliga.dk/bolig/2350114"
+  },
   "2357958": {
     "id": "2357958",
     "adresse": "Ulsevej 2, 2650 Hvidovre",
@@ -593,6 +602,24 @@
     "byggeaar": 1935,
     "url": "https://www.boliga.dk/bolig/2332249"
   },
+  "2377569": {
+    "id": "2377569",
+    "adresse": "Kløverprisvej 15, 2650 Hvidovre",
+    "pris": 7795000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1944,
+    "url": "https://www.boliga.dk/bolig/2377569"
+  },
+  "2354527": {
+    "id": "2354527",
+    "adresse": "Filmbyen 8C, 2650 Hvidovre",
+    "pris": 7950000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1951,
+    "url": "https://www.boliga.dk/bolig/2354527"
+  },
   "2357395": {
     "id": "2357395",
     "adresse": "Stenstykkevej 19, 2650 Hvidovre",
@@ -629,6 +656,15 @@
     "byggeaar": 1940,
     "url": "https://www.boliga.dk/bolig/2370573"
   },
+  "2377385": {
+    "id": "2377385",
+    "adresse": "Schradersvej 19B, 2650 Hvidovre",
+    "pris": 7995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1987,
+    "url": "https://www.boliga.dk/bolig/2377385"
+  },
   "2369736": {
     "id": "2369736",
     "adresse": "Helenas Alle 3, 2650 Hvidovre",
@@ -637,15 +673,6 @@
     "vaerelser": 5.0,
     "byggeaar": 1939,
     "url": "https://www.boliga.dk/bolig/2369736"
-  },
-  "2354527": {
-    "id": "2354527",
-    "adresse": "Filmbyen 8C, 2650 Hvidovre",
-    "pris": 8250000,
-    "kvm": null,
-    "vaerelser": 5.0,
-    "byggeaar": 1951,
-    "url": "https://www.boliga.dk/bolig/2354527"
   },
   "2373786": {
     "id": "2373786",
@@ -791,6 +818,15 @@
     "byggeaar": 1932,
     "url": "https://www.boliga.dk/bolig/2340749"
   },
+  "2352652": {
+    "id": "2352652",
+    "adresse": "Nordlundsvej 3, 2650 Hvidovre",
+    "pris": 9795000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 2013,
+    "url": "https://www.boliga.dk/bolig/2352652"
+  },
   "2320307": {
     "id": "2320307",
     "adresse": "Strandvangsvej 2, 2650 Hvidovre",
@@ -818,15 +854,6 @@
     "byggeaar": 1931,
     "url": "https://www.boliga.dk/bolig/2347523"
   },
-  "2352652": {
-    "id": "2352652",
-    "adresse": "Nordlundsvej 3, 2650 Hvidovre",
-    "pris": 9995000,
-    "kvm": null,
-    "vaerelser": 7.0,
-    "byggeaar": 2013,
-    "url": "https://www.boliga.dk/bolig/2352652"
-  },
   "2361587": {
     "id": "2361587",
     "adresse": "Sydkærsvej 93, 2650 Hvidovre",
@@ -853,15 +880,6 @@
     "vaerelser": 4.0,
     "byggeaar": 2020,
     "url": "https://www.boliga.dk/bolig/2359045"
-  },
-  "2366683": {
-    "id": "2366683",
-    "adresse": "Agermosen 25, 2650 Hvidovre",
-    "pris": 10495000,
-    "kvm": null,
-    "vaerelser": 6.0,
-    "byggeaar": 1965,
-    "url": "https://www.boliga.dk/bolig/2366683"
   },
   "2376370": {
     "id": "2376370",
@@ -979,15 +997,6 @@
     "vaerelser": 6.0,
     "byggeaar": 2023,
     "url": "https://www.boliga.dk/bolig/2357175"
-  },
-  "2377385": {
-    "id": "2377385",
-    "adresse": "Schradersvej 19B, 2650 Hvidovre",
-    "pris": 7995000,
-    "kvm": null,
-    "vaerelser": 4.0,
-    "byggeaar": 1987,
-    "url": "https://www.boliga.dk/bolig/2377385"
   },
   "2373047": {
     "id": "2373047",
