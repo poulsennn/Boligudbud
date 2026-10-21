@@ -553,5 +553,43 @@
         "url": "https://www.boliga.dk/bolig/2354350"
       }
     ]
+  },
+  "2026-10-21": {
+    "total_udbud": 114,
+    "tilgang_antal": 3,
+    "afgang_antal": 2,
+    "prisnedsaettelse_antal": 2,
+    "afgaaet_huse": [
+      {
+        "adresse": "Gammel Køge Landevej 370L, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 4295000,
+        "url": "https://www.boliga.dk/bolig/2366484"
+      },
+      {
+        "adresse": "Lodsvej 11, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 11995000,
+        "url": "https://www.boliga.dk/bolig/2342631"
+      }
+    ],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Sønderkær 54, 2650 Hvidovre",
+        "pris_for": 5995000,
+        "pris_efter": 5745000,
+        "besparelse": 250000,
+        "procent": 4.2,
+        "url": "https://www.boliga.dk/bolig/2366491"
+      },
+      {
+        "adresse": "Hectors Alle 11, 2650 Hvidovre",
+        "pris_for": 9995000,
+        "pris_efter": 9195000,
+        "besparelse": 800000,
+        "procent": 8.0,
+        "url": "https://www.boliga.dk/bolig/2347523"
+      }
+    ]
   }
 }
