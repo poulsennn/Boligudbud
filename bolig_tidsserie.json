@@ -591,5 +591,37 @@
         "url": "https://www.boliga.dk/bolig/2347523"
       }
     ]
+  },
+  "2026-10-22": {
+    "total_udbud": 113,
+    "tilgang_antal": 0,
+    "afgang_antal": 1,
+    "prisnedsaettelse_antal": 2,
+    "afgaaet_huse": [
+      {
+        "adresse": "Strandvangsvej 11C, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 6295000,
+        "url": "https://www.boliga.dk/bolig/2366989"
+      }
+    ],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "I G Smiths Alle 39, 2650 Hvidovre",
+        "pris_for": 9745000,
+        "pris_efter": 9475000,
+        "besparelse": 270000,
+        "procent": 2.8,
+        "url": "https://www.boliga.dk/bolig/2340749"
+      },
+      {
+        "adresse": "Frydenstrands Alle 28, 2650 Hvidovre",
+        "pris_for": 5245000,
+        "pris_efter": 4995000,
+        "besparelse": 250000,
+        "procent": 4.8,
+        "url": "https://www.boliga.dk/bolig/2345419"
+      }
+    ]
   }
 }
