@@ -623,5 +623,20 @@
         "url": "https://www.boliga.dk/bolig/2345419"
       }
     ]
+  },
+  "2026-10-23": {
+    "total_udbud": 113,
+    "tilgang_antal": 1,
+    "afgang_antal": 1,
+    "prisnedsaettelse_antal": 0,
+    "afgaaet_huse": [
+      {
+        "adresse": "Avedøre Enghavevej 20, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 5795000,
+        "url": "https://www.boliga.dk/bolig/2376503"
+      }
+    ],
+    "prisnedsaettelser_huse": []
   }
 }

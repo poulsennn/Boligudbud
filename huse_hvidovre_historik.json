@@ -278,15 +278,6 @@
     "byggeaar": 1936,
     "url": "https://www.boliga.dk/bolig/2375642"
   },
-  "2376503": {
-    "id": "2376503",
-    "adresse": "Avedøre Enghavevej 20, 2650 Hvidovre",
-    "pris": 5795000,
-    "kvm": null,
-    "vaerelser": 4.0,
-    "byggeaar": 1958,
-    "url": "https://www.boliga.dk/bolig/2376503"
-  },
   "2373767": {
     "id": "2373767",
     "adresse": "Allingvej 100, 2650 Hvidovre",
@@ -484,6 +475,15 @@
     "vaerelser": 3.0,
     "byggeaar": 1955,
     "url": "https://www.boliga.dk/bolig/2378075"
+  },
+  "2378542": {
+    "id": "2378542",
+    "adresse": "Ketilstorp Alle 58, 2650 Hvidovre",
+    "pris": 6495000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1953,
+    "url": "https://www.boliga.dk/bolig/2378542"
   },
   "2369697": {
     "id": "2369697",
