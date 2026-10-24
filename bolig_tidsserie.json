@@ -638,5 +638,22 @@
       }
     ],
     "prisnedsaettelser_huse": []
+  },
+  "2026-10-24": {
+    "total_udbud": 114,
+    "tilgang_antal": 1,
+    "afgang_antal": 0,
+    "prisnedsaettelse_antal": 1,
+    "afgaaet_huse": [],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Stenstykkevej 19, 2650 Hvidovre",
+        "pris_for": 7995000,
+        "pris_efter": 7745000,
+        "besparelse": 250000,
+        "procent": 3.1,
+        "url": "https://www.boliga.dk/bolig/2357395"
+      }
+    ]
   }
 }

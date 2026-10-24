@@ -602,6 +602,24 @@
     "byggeaar": 1976,
     "url": "https://www.boliga.dk/bolig/2377881"
   },
+  "2378954": {
+    "id": "2378954",
+    "adresse": "Vesterkærsvej 18, 2650 Hvidovre",
+    "pris": 7495000,
+    "kvm": null,
+    "vaerelser": 8.0,
+    "byggeaar": 1968,
+    "url": "https://www.boliga.dk/bolig/2378954"
+  },
+  "2357395": {
+    "id": "2357395",
+    "adresse": "Stenstykkevej 19, 2650 Hvidovre",
+    "pris": 7745000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 1926,
+    "url": "https://www.boliga.dk/bolig/2357395"
+  },
   "2332249": {
     "id": "2332249",
     "adresse": "Bårsevej 26, 2650 Hvidovre",
@@ -628,15 +646,6 @@
     "vaerelser": 5.0,
     "byggeaar": 1951,
     "url": "https://www.boliga.dk/bolig/2354527"
-  },
-  "2357395": {
-    "id": "2357395",
-    "adresse": "Stenstykkevej 19, 2650 Hvidovre",
-    "pris": 7995000,
-    "kvm": null,
-    "vaerelser": 7.0,
-    "byggeaar": 1926,
-    "url": "https://www.boliga.dk/bolig/2357395"
   },
   "2362040": {
     "id": "2362040",
