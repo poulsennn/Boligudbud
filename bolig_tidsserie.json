@@ -655,5 +655,13 @@
         "url": "https://www.boliga.dk/bolig/2357395"
       }
     ]
+  },
+  "2026-10-25": {
+    "total_udbud": 114,
+    "tilgang_antal": 0,
+    "afgang_antal": 0,
+    "prisnedsaettelse_antal": 0,
+    "afgaaet_huse": [],
+    "prisnedsaettelser_huse": []
   }
 }
