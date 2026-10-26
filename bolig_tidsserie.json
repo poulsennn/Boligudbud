@@ -663,5 +663,26 @@
     "prisnedsaettelse_antal": 0,
     "afgaaet_huse": [],
     "prisnedsaettelser_huse": []
+  },
+  "2026-10-26": {
+    "total_udbud": 112,
+    "tilgang_antal": 0,
+    "afgang_antal": 2,
+    "prisnedsaettelse_antal": 0,
+    "afgaaet_huse": [
+      {
+        "adresse": "Poppel Alle 3A, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 6845000,
+        "url": "https://www.boliga.dk/bolig/2350114"
+      },
+      {
+        "adresse": "Krebsevej 48, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 5995000,
+        "url": "https://www.boliga.dk/bolig/2314377"
+      }
+    ],
+    "prisnedsaettelser_huse": []
   }
 }
