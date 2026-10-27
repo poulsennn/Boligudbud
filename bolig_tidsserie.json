@@ -684,5 +684,35 @@
       }
     ],
     "prisnedsaettelser_huse": []
+  },
+  "2026-10-27": {
+    "total_udbud": 114,
+    "tilgang_antal": 4,
+    "afgang_antal": 2,
+    "prisnedsaettelse_antal": 1,
+    "afgaaet_huse": [
+      {
+        "adresse": "Engstrupgårdsvej 17, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 3695000,
+        "url": "https://www.boliga.dk/bolig/2375121"
+      },
+      {
+        "adresse": "Dansvej 28, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 6995000,
+        "url": "https://www.boliga.dk/bolig/2374653"
+      }
+    ],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Brostykkevej 19B, 2650 Hvidovre",
+        "pris_for": 9985000,
+        "pris_efter": 9475000,
+        "besparelse": 510000,
+        "procent": 5.1,
+        "url": "https://www.boliga.dk/bolig/2363988"
+      }
+    ]
   }
 }
