@@ -714,5 +714,35 @@
         "url": "https://www.boliga.dk/bolig/2363988"
       }
     ]
+  },
+  "2026-10-28": {
+    "total_udbud": 114,
+    "tilgang_antal": 2,
+    "afgang_antal": 2,
+    "prisnedsaettelse_antal": 1,
+    "afgaaet_huse": [
+      {
+        "adresse": "Dansborg Alle 1G, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 5795000,
+        "url": "https://www.boliga.dk/bolig/2369948"
+      },
+      {
+        "adresse": "Hvidovreskellet 49, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 5995000,
+        "url": "https://www.boliga.dk/bolig/2370407"
+      }
+    ],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Grænsevej 24, 2650 Hvidovre",
+        "pris_for": 6445000,
+        "pris_efter": 6295000,
+        "besparelse": 150000,
+        "procent": 2.3,
+        "url": "https://www.boliga.dk/bolig/2309345"
+      }
+    ]
   }
 }

@@ -1,4 +1,13 @@
 {
+  "2379663": {
+    "id": "2379663",
+    "adresse": "Brostykkevej 198D, 2650 Hvidovre",
+    "pris": 3995000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1961,
+    "url": "https://www.boliga.dk/bolig/2379663"
+  },
   "2335690": {
     "id": "2335690",
     "adresse": "Hjørnagervej 2A, 2650 Hvidovre",
@@ -251,15 +260,6 @@
     "byggeaar": 1925,
     "url": "https://www.boliga.dk/bolig/2369579"
   },
-  "2369948": {
-    "id": "2369948",
-    "adresse": "Dansborg Alle 1G, 2650 Hvidovre",
-    "pris": 5795000,
-    "kvm": null,
-    "vaerelser": 3.0,
-    "byggeaar": 1983,
-    "url": "https://www.boliga.dk/bolig/2369948"
-  },
   "2374183": {
     "id": "2374183",
     "adresse": "Bredholtvej 38, 2650 Hvidovre",
@@ -341,15 +341,6 @@
     "byggeaar": 1957,
     "url": "https://www.boliga.dk/bolig/2366485"
   },
-  "2370407": {
-    "id": "2370407",
-    "adresse": "Hvidovreskellet 49, 2650 Hvidovre",
-    "pris": 5995000,
-    "kvm": null,
-    "vaerelser": 4.0,
-    "byggeaar": 1987,
-    "url": "https://www.boliga.dk/bolig/2370407"
-  },
   "2371984": {
     "id": "2371984",
     "adresse": "Grænsevej 5, 2650 Hvidovre",
@@ -377,6 +368,15 @@
     "byggeaar": 1978,
     "url": "https://www.boliga.dk/bolig/2375262"
   },
+  "2379928": {
+    "id": "2379928",
+    "adresse": "Nørbyholm 35, 2650 Hvidovre",
+    "pris": 5995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1975,
+    "url": "https://www.boliga.dk/bolig/2379928"
+  },
   "2371538": {
     "id": "2371538",
     "adresse": "Hvidovre Strandvej 141, 2650 Hvidovre",
@@ -385,6 +385,15 @@
     "vaerelser": 4.0,
     "byggeaar": 1970,
     "url": "https://www.boliga.dk/bolig/2371538"
+  },
+  "2309345": {
+    "id": "2309345",
+    "adresse": "Grænsevej 24, 2650 Hvidovre",
+    "pris": 6295000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1932,
+    "url": "https://www.boliga.dk/bolig/2309345"
   },
   "2361014": {
     "id": "2361014",
@@ -403,15 +412,6 @@
     "vaerelser": 3.0,
     "byggeaar": 1963,
     "url": "https://www.boliga.dk/bolig/2375713"
-  },
-  "2309345": {
-    "id": "2309345",
-    "adresse": "Grænsevej 24, 2650 Hvidovre",
-    "pris": 6445000,
-    "kvm": null,
-    "vaerelser": 6.0,
-    "byggeaar": 1932,
-    "url": "https://www.boliga.dk/bolig/2309345"
   },
   "2335681": {
     "id": "2335681",
