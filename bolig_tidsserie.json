@@ -744,5 +744,67 @@
         "url": "https://www.boliga.dk/bolig/2309345"
       }
     ]
+  },
+  "2026-10-29": {
+    "total_udbud": 112,
+    "tilgang_antal": 0,
+    "afgang_antal": 2,
+    "prisnedsaettelse_antal": 5,
+    "afgaaet_huse": [
+      {
+        "adresse": "Schradersvej 19B, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 7995000,
+        "url": "https://www.boliga.dk/bolig/2377385"
+      },
+      {
+        "adresse": "Bårsevej 26, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 7795000,
+        "url": "https://www.boliga.dk/bolig/2332249"
+      }
+    ],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Strandvangsvej 27, 2650 Hvidovre",
+        "pris_for": 9485000,
+        "pris_efter": 9245000,
+        "besparelse": 240000,
+        "procent": 2.5,
+        "url": "https://www.boliga.dk/bolig/2357180"
+      },
+      {
+        "adresse": "H C Bojsensvej 1, 2650 Hvidovre",
+        "pris_for": 11495000,
+        "pris_efter": 11195000,
+        "besparelse": 300000,
+        "procent": 2.6,
+        "url": "https://www.boliga.dk/bolig/2362818"
+      },
+      {
+        "adresse": "Ege Alle 42, 2650 Hvidovre",
+        "pris_for": 8495000,
+        "pris_efter": 8245000,
+        "besparelse": 250000,
+        "procent": 2.9,
+        "url": "https://www.boliga.dk/bolig/2365432"
+      },
+      {
+        "adresse": "Frydenhøjparken 44, 2650 Hvidovre",
+        "pris_for": 4995000,
+        "pris_efter": 4795000,
+        "besparelse": 200000,
+        "procent": 4.0,
+        "url": "https://www.boliga.dk/bolig/2374391"
+      },
+      {
+        "adresse": "Helenas Alle 3, 2650 Hvidovre",
+        "pris_for": 8195000,
+        "pris_efter": 7995000,
+        "besparelse": 200000,
+        "procent": 2.4,
+        "url": "https://www.boliga.dk/bolig/2369736"
+      }
+    ]
   }
 }
