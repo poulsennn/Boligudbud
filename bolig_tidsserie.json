@@ -806,5 +806,30 @@
         "url": "https://www.boliga.dk/bolig/2369736"
       }
     ]
+  },
+  "2026-10-30": {
+    "total_udbud": 113,
+    "tilgang_antal": 1,
+    "afgang_antal": 0,
+    "prisnedsaettelse_antal": 2,
+    "afgaaet_huse": [],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Engstrupgårdsvej 22, 2650 Hvidovre",
+        "pris_for": 4995000,
+        "pris_efter": 4795000,
+        "besparelse": 200000,
+        "procent": 4.0,
+        "url": "https://www.boliga.dk/bolig/2335123"
+      },
+      {
+        "adresse": "Strandbovej 93, 2650 Hvidovre",
+        "pris_for": 10495000,
+        "pris_efter": 9998000,
+        "besparelse": 497000,
+        "procent": 4.7,
+        "url": "https://www.boliga.dk/bolig/2343322"
+      }
+    ]
   }
 }
