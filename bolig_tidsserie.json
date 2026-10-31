@@ -831,5 +831,22 @@
         "url": "https://www.boliga.dk/bolig/2343322"
       }
     ]
+  },
+  "2026-10-31": {
+    "total_udbud": 115,
+    "tilgang_antal": 2,
+    "afgang_antal": 0,
+    "prisnedsaettelse_antal": 1,
+    "afgaaet_huse": [],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Rønnebærvej 12, 2650 Hvidovre",
+        "pris_for": 5995000,
+        "pris_efter": 5695000,
+        "besparelse": 300000,
+        "procent": 5.0,
+        "url": "https://www.boliga.dk/bolig/2366485"
+      }
+    ]
   }
 }

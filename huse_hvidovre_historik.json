@@ -215,6 +215,15 @@
     "byggeaar": 1998,
     "url": "https://www.boliga.dk/bolig/2340819"
   },
+  "2366485": {
+    "id": "2366485",
+    "adresse": "Rønnebærvej 12, 2650 Hvidovre",
+    "pris": 5695000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1957,
+    "url": "https://www.boliga.dk/bolig/2366485"
+  },
   "2373763": {
     "id": "2373763",
     "adresse": "Vestre Strandvej 62, 2650 Hvidovre",
@@ -331,15 +340,6 @@
     "vaerelser": 5.0,
     "byggeaar": 2019,
     "url": "https://www.boliga.dk/bolig/2364938"
-  },
-  "2366485": {
-    "id": "2366485",
-    "adresse": "Rønnebærvej 12, 2650 Hvidovre",
-    "pris": 5995000,
-    "kvm": null,
-    "vaerelser": 4.0,
-    "byggeaar": 1957,
-    "url": "https://www.boliga.dk/bolig/2366485"
   },
   "2371984": {
     "id": "2371984",
@@ -656,6 +656,15 @@
     "byggeaar": 1940,
     "url": "https://www.boliga.dk/bolig/2370573"
   },
+  "2380687": {
+    "id": "2380687",
+    "adresse": "Fjeldstedvej 37, 2650 Hvidovre",
+    "pris": 7995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1960,
+    "url": "https://www.boliga.dk/bolig/2380687"
+  },
   "2365432": {
     "id": "2365432",
     "adresse": "Ege Alle 42, 2650 Hvidovre",
@@ -880,6 +889,15 @@
     "vaerelser": 6.0,
     "byggeaar": 1925,
     "url": "https://www.boliga.dk/bolig/2343322"
+  },
+  "2380977": {
+    "id": "2380977",
+    "adresse": "Ærtebjergvej 34, 2650 Hvidovre",
+    "pris": 10475000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 2025,
+    "url": "https://www.boliga.dk/bolig/2380977"
   },
   "2359045": {
     "id": "2359045",
