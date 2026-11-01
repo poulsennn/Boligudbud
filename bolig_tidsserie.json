@@ -848,5 +848,32 @@
         "url": "https://www.boliga.dk/bolig/2366485"
       }
     ]
+  },
+  "2026-11-01": {
+    "total_udbud": 112,
+    "tilgang_antal": 0,
+    "afgang_antal": 3,
+    "prisnedsaettelse_antal": 0,
+    "afgaaet_huse": [
+      {
+        "adresse": "Ulsevej 2, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 6995000,
+        "url": "https://www.boliga.dk/bolig/2357958"
+      },
+      {
+        "adresse": "Rosmosevej 36, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 5245000,
+        "url": "https://www.boliga.dk/bolig/2355531"
+      },
+      {
+        "adresse": "Strandby Alle 46, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 8995000,
+        "url": "https://www.boliga.dk/bolig/2348272"
+      }
+    ],
+    "prisnedsaettelser_huse": []
   }
 }
