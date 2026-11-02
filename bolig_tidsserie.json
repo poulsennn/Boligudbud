@@ -875,5 +875,13 @@
       }
     ],
     "prisnedsaettelser_huse": []
+  },
+  "2026-11-02": {
+    "total_udbud": 112,
+    "tilgang_antal": 0,
+    "afgang_antal": 0,
+    "prisnedsaettelse_antal": 0,
+    "afgaaet_huse": [],
+    "prisnedsaettelser_huse": []
   }
 }
