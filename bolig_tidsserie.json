@@ -883,5 +883,46 @@
     "prisnedsaettelse_antal": 0,
     "afgaaet_huse": [],
     "prisnedsaettelser_huse": []
+  },
+  "2026-11-03": {
+    "total_udbud": 115,
+    "tilgang_antal": 3,
+    "afgang_antal": 0,
+    "prisnedsaettelse_antal": 4,
+    "afgaaet_huse": [],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Avedøre Tværvej 74, 2650 Hvidovre",
+        "pris_for": 5994500,
+        "pris_efter": 5850000,
+        "besparelse": 144500,
+        "procent": 2.4,
+        "url": "https://www.boliga.dk/bolig/2330716"
+      },
+      {
+        "adresse": "Parallelvej 75, 2650 Hvidovre",
+        "pris_for": 5795000,
+        "pris_efter": 5600000,
+        "besparelse": 195000,
+        "procent": 3.4,
+        "url": "https://www.boliga.dk/bolig/2358697"
+      },
+      {
+        "adresse": "Avedøre Tværvej 72, 2650 Hvidovre",
+        "pris_for": 5995000,
+        "pris_efter": 5850000,
+        "besparelse": 145000,
+        "procent": 2.4,
+        "url": "https://www.boliga.dk/bolig/2364938"
+      },
+      {
+        "adresse": "Kærgårdsvej 7, 2650 Hvidovre",
+        "pris_for": 6495000,
+        "pris_efter": 6195000,
+        "besparelse": 300000,
+        "procent": 4.6,
+        "url": "https://www.boliga.dk/bolig/2366936"
+      }
+    ]
   }
 }
