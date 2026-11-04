@@ -924,5 +924,65 @@
         "url": "https://www.boliga.dk/bolig/2366936"
       }
     ]
+  },
+  "2026-11-04": {
+    "total_udbud": 114,
+    "tilgang_antal": 2,
+    "afgang_antal": 3,
+    "prisnedsaettelse_antal": 4,
+    "afgaaet_huse": [
+      {
+        "adresse": "Hjørnagervej 2A, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 4395000,
+        "url": "https://www.boliga.dk/bolig/2335690"
+      },
+      {
+        "adresse": "Krogstens Alle 38, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 8895000,
+        "url": "https://www.boliga.dk/bolig/2367426"
+      },
+      {
+        "adresse": "Stenstykkevej 19, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 7745000,
+        "url": "https://www.boliga.dk/bolig/2357395"
+      }
+    ],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Sydkærsvej 61, 2650 Hvidovre",
+        "pris_for": 8975000,
+        "pris_efter": 8495000,
+        "besparelse": 480000,
+        "procent": 5.3,
+        "url": "https://www.boliga.dk/bolig/2342180"
+      },
+      {
+        "adresse": "Dansborg Alle 1A, 2650 Hvidovre",
+        "pris_for": 5995000,
+        "pris_efter": 5795000,
+        "besparelse": 200000,
+        "procent": 3.3,
+        "url": "https://www.boliga.dk/bolig/2374304"
+      },
+      {
+        "adresse": "Hvidovrevej 271B, 2650 Hvidovre",
+        "pris_for": 5595000,
+        "pris_efter": 5395000,
+        "besparelse": 200000,
+        "procent": 3.6,
+        "url": "https://www.boliga.dk/bolig/2366039"
+      },
+      {
+        "adresse": "Ærtebjergvej 11, 2650 Hvidovre",
+        "pris_for": 6645000,
+        "pris_efter": 6495000,
+        "besparelse": 150000,
+        "procent": 2.3,
+        "url": "https://www.boliga.dk/bolig/2369697"
+      }
+    ]
   }
 }
