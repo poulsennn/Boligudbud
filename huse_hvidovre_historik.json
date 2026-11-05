@@ -890,6 +890,15 @@
     "byggeaar": 2020,
     "url": "https://www.boliga.dk/bolig/2359045"
   },
+  "2376244": {
+    "id": "2376244",
+    "adresse": "Elme Alle 21, 2650 Hvidovre",
+    "pris": 10495000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1958,
+    "url": "https://www.boliga.dk/bolig/2376244"
+  },
   "2381320": {
     "id": "2381320",
     "adresse": "Eriksminde Alle 10, 2650 Hvidovre",
@@ -925,15 +934,6 @@
     "vaerelser": 6.0,
     "byggeaar": 2015,
     "url": "https://www.boliga.dk/bolig/2375546"
-  },
-  "2376244": {
-    "id": "2376244",
-    "adresse": "Elme Alle 21, 2650 Hvidovre",
-    "pris": 10995000,
-    "kvm": null,
-    "vaerelser": 6.0,
-    "byggeaar": 1958,
-    "url": "https://www.boliga.dk/bolig/2376244"
   },
   "2376967": {
     "id": "2376967",
@@ -1019,7 +1019,7 @@
   "2363446": {
     "id": "2363446",
     "adresse": "Nordvang 4, 2610 Rødovre",
-    "pris": 11495000,
+    "pris": 10995000,
     "kvm": null,
     "vaerelser": 6.0,
     "byggeaar": 1937,
