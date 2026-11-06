@@ -1009,5 +1009,37 @@
         "url": "https://www.boliga.dk/bolig/2376244"
       }
     ]
+  },
+  "2026-11-06": {
+    "total_udbud": 114,
+    "tilgang_antal": 1,
+    "afgang_antal": 1,
+    "prisnedsaettelse_antal": 2,
+    "afgaaet_huse": [
+      {
+        "adresse": "Paris Boulevard 12, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 9485000,
+        "url": "https://www.boliga.dk/bolig/2335601"
+      }
+    ],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Greve Alle 88, 2650 Hvidovre",
+        "pris_for": 9250000,
+        "pris_efter": 8995000,
+        "besparelse": 255000,
+        "procent": 2.8,
+        "url": "https://www.boliga.dk/bolig/2373220"
+      },
+      {
+        "adresse": "Fredtoftevej 17, 2650 Hvidovre",
+        "pris_for": 9495000,
+        "pris_efter": 8995000,
+        "besparelse": 500000,
+        "procent": 5.3,
+        "url": "https://www.boliga.dk/bolig/2375813"
+      }
+    ]
   }
 }

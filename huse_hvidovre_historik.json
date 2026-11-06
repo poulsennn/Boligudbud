@@ -728,6 +728,15 @@
     "byggeaar": 1932,
     "url": "https://www.boliga.dk/bolig/2343006"
   },
+  "2367426": {
+    "id": "2367426",
+    "adresse": "Krogstens Alle 38, 2650 Hvidovre",
+    "pris": 8895000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1940,
+    "url": "https://www.boliga.dk/bolig/2367426"
+  },
   "2369770": {
     "id": "2369770",
     "adresse": "Nordlundsvej 52, 2650 Hvidovre",
@@ -737,6 +746,15 @@
     "byggeaar": 1939,
     "url": "https://www.boliga.dk/bolig/2369770"
   },
+  "2373220": {
+    "id": "2373220",
+    "adresse": "Greve Alle 88, 2650 Hvidovre",
+    "pris": 8995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1927,
+    "url": "https://www.boliga.dk/bolig/2373220"
+  },
   "2374046": {
     "id": "2374046",
     "adresse": "Strandholms Alle 55B, 2650 Hvidovre",
@@ -745,6 +763,15 @@
     "vaerelser": 5.0,
     "byggeaar": 2011,
     "url": "https://www.boliga.dk/bolig/2374046"
+  },
+  "2375813": {
+    "id": "2375813",
+    "adresse": "Fredtoftevej 17, 2650 Hvidovre",
+    "pris": 8995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1928,
+    "url": "https://www.boliga.dk/bolig/2375813"
   },
   "2379437": {
     "id": "2379437",
@@ -782,15 +809,6 @@
     "byggeaar": 1967,
     "url": "https://www.boliga.dk/bolig/2357180"
   },
-  "2373220": {
-    "id": "2373220",
-    "adresse": "Greve Alle 88, 2650 Hvidovre",
-    "pris": 9250000,
-    "kvm": null,
-    "vaerelser": 4.0,
-    "byggeaar": 1927,
-    "url": "https://www.boliga.dk/bolig/2373220"
-  },
   "2340749": {
     "id": "2340749",
     "adresse": "I G Smiths Alle 39, 2650 Hvidovre",
@@ -809,15 +827,6 @@
     "byggeaar": 1924,
     "url": "https://www.boliga.dk/bolig/2363988"
   },
-  "2335601": {
-    "id": "2335601",
-    "adresse": "Paris Boulevard 12, 2650 Hvidovre",
-    "pris": 9485000,
-    "kvm": null,
-    "vaerelser": 7.0,
-    "byggeaar": 1938,
-    "url": "https://www.boliga.dk/bolig/2335601"
-  },
   "2358421": {
     "id": "2358421",
     "adresse": "Fjeldstedvej 34, 2650 Hvidovre",
@@ -826,15 +835,6 @@
     "vaerelser": 6.0,
     "byggeaar": 2005,
     "url": "https://www.boliga.dk/bolig/2358421"
-  },
-  "2375813": {
-    "id": "2375813",
-    "adresse": "Fredtoftevej 17, 2650 Hvidovre",
-    "pris": 9495000,
-    "kvm": null,
-    "vaerelser": 6.0,
-    "byggeaar": 1928,
-    "url": "https://www.boliga.dk/bolig/2375813"
   },
   "2352652": {
     "id": "2352652",
@@ -877,7 +877,7 @@
     "adresse": "Ærtebjergvej 34, 2650 Hvidovre",
     "pris": 10475000,
     "kvm": null,
-    "vaerelser": 6.0,
+    "vaerelser": 7.0,
     "byggeaar": 2025,
     "url": "https://www.boliga.dk/bolig/2380977"
   },
