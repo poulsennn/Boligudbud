@@ -1041,5 +1041,26 @@
         "url": "https://www.boliga.dk/bolig/2375813"
       }
     ]
+  },
+  "2026-11-07": {
+    "total_udbud": 114,
+    "tilgang_antal": 2,
+    "afgang_antal": 2,
+    "prisnedsaettelse_antal": 0,
+    "afgaaet_huse": [
+      {
+        "adresse": "Grænsevej 5, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 5995000,
+        "url": "https://www.boliga.dk/bolig/2371984"
+      },
+      {
+        "adresse": "Bjeverskov Alle 3, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 6295000,
+        "url": "https://www.boliga.dk/bolig/2361014"
+      }
+    ],
+    "prisnedsaettelser_huse": []
   }
 }
