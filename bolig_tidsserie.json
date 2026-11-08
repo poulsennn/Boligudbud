@@ -1062,5 +1062,26 @@
       }
     ],
     "prisnedsaettelser_huse": []
+  },
+  "2026-11-08": {
+    "total_udbud": 112,
+    "tilgang_antal": 0,
+    "afgang_antal": 2,
+    "prisnedsaettelse_antal": 0,
+    "afgaaet_huse": [
+      {
+        "adresse": "Rudbølvej 14, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 7495000,
+        "url": "https://www.boliga.dk/bolig/2373759"
+      },
+      {
+        "adresse": "Engholm Alle 36, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 5295000,
+        "url": "https://www.boliga.dk/bolig/2335125"
+      }
+    ],
+    "prisnedsaettelser_huse": []
   }
 }
