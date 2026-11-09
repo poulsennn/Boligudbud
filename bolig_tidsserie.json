@@ -1083,5 +1083,22 @@
       }
     ],
     "prisnedsaettelser_huse": []
+  },
+  "2026-11-09": {
+    "total_udbud": 112,
+    "tilgang_antal": 0,
+    "afgang_antal": 0,
+    "prisnedsaettelse_antal": 1,
+    "afgaaet_huse": [],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Brostykkevej 164, 2650 Hvidovre",
+        "pris_for": 5795000,
+        "pris_efter": 5595000,
+        "besparelse": 200000,
+        "procent": 3.5,
+        "url": "https://www.boliga.dk/bolig/2369579"
+      }
+    ]
   }
 }

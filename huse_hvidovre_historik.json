@@ -179,6 +179,15 @@
     "byggeaar": 1954,
     "url": "https://www.boliga.dk/bolig/2377920"
   },
+  "2369579": {
+    "id": "2369579",
+    "adresse": "Brostykkevej 164, 2650 Hvidovre",
+    "pris": 5595000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1925,
+    "url": "https://www.boliga.dk/bolig/2369579"
+  },
   "2358697": {
     "id": "2358697",
     "adresse": "Parallelvej 75, 2650 Hvidovre",
@@ -232,15 +241,6 @@
     "vaerelser": 3.0,
     "byggeaar": 1934,
     "url": "https://www.boliga.dk/bolig/2366491"
-  },
-  "2369579": {
-    "id": "2369579",
-    "adresse": "Brostykkevej 164, 2650 Hvidovre",
-    "pris": 5795000,
-    "kvm": null,
-    "vaerelser": 4.0,
-    "byggeaar": 1925,
-    "url": "https://www.boliga.dk/bolig/2369579"
   },
   "2374183": {
     "id": "2374183",
