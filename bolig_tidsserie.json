@@ -1117,5 +1117,13 @@
         "url": "https://www.boliga.dk/bolig/2370607"
       }
     ]
+  },
+  "2026-11-11": {
+    "total_udbud": 117,
+    "tilgang_antal": 2,
+    "afgang_antal": 0,
+    "prisnedsaettelse_antal": 0,
+    "afgaaet_huse": [],
+    "prisnedsaettelser_huse": []
   }
 }

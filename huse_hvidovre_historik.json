@@ -521,6 +521,15 @@
     "byggeaar": 1937,
     "url": "https://www.boliga.dk/bolig/2381556"
   },
+  "2383604": {
+    "id": "2383604",
+    "adresse": "Krogholtsvej 8, 2650 Hvidovre",
+    "pris": 7175000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1955,
+    "url": "https://www.boliga.dk/bolig/2383604"
+  },
   "2309690": {
     "id": "2309690",
     "adresse": "Brøndbyskel 17, 2650 Hvidovre",
@@ -583,6 +592,15 @@
     "vaerelser": 8.0,
     "byggeaar": 1968,
     "url": "https://www.boliga.dk/bolig/2378954"
+  },
+  "2383679": {
+    "id": "2383679",
+    "adresse": "Fjeldstedvej 50, 2650 Hvidovre",
+    "pris": 7495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1964,
+    "url": "https://www.boliga.dk/bolig/2383679"
   },
   "2377569": {
     "id": "2377569",
