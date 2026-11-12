@@ -1125,5 +1125,29 @@
     "prisnedsaettelse_antal": 0,
     "afgaaet_huse": [],
     "prisnedsaettelser_huse": []
+  },
+  "2026-11-12": {
+    "total_udbud": 117,
+    "tilgang_antal": 1,
+    "afgang_antal": 1,
+    "prisnedsaettelse_antal": 1,
+    "afgaaet_huse": [
+      {
+        "adresse": "Avedørestræde 5, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 5925000,
+        "url": "https://www.boliga.dk/bolig/2331812"
+      }
+    ],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Bjeverskov Alle 47, 2650 Hvidovre",
+        "pris_for": 12245000,
+        "pris_efter": 11975000,
+        "besparelse": 270000,
+        "procent": 2.2,
+        "url": "https://www.boliga.dk/bolig/2340282"
+      }
+    ]
   }
 }

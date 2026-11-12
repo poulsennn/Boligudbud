@@ -323,15 +323,6 @@
     "byggeaar": 1979,
     "url": "https://www.boliga.dk/bolig/2373767"
   },
-  "2331812": {
-    "id": "2331812",
-    "adresse": "Avedørestræde 5, 2650 Hvidovre",
-    "pris": 5925000,
-    "kvm": null,
-    "vaerelser": 4.0,
-    "byggeaar": 1900,
-    "url": "https://www.boliga.dk/bolig/2331812"
-  },
   "2347328": {
     "id": "2347328",
     "adresse": "Fortvænget 1, 2650 Hvidovre",
@@ -367,6 +358,15 @@
     "vaerelser": 5.0,
     "byggeaar": 1945,
     "url": "https://www.boliga.dk/bolig/2381279"
+  },
+  "2383710": {
+    "id": "2383710",
+    "adresse": "Lindelundsvej 3, 2650 Hvidovre",
+    "pris": 5995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1968,
+    "url": "https://www.boliga.dk/bolig/2383710"
   },
   "2366936": {
     "id": "2366936",
@@ -980,6 +980,15 @@
     "byggeaar": 2023,
     "url": "https://www.boliga.dk/bolig/2362818"
   },
+  "2340282": {
+    "id": "2340282",
+    "adresse": "Bjeverskov Alle 47, 2650 Hvidovre",
+    "pris": 11975000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2011,
+    "url": "https://www.boliga.dk/bolig/2340282"
+  },
   "2337013": {
     "id": "2337013",
     "adresse": "Risbjerggårds Alle 81, 2650 Hvidovre",
@@ -988,15 +997,6 @@
     "vaerelser": 7.0,
     "byggeaar": 1939,
     "url": "https://www.boliga.dk/bolig/2337013"
-  },
-  "2340282": {
-    "id": "2340282",
-    "adresse": "Bjeverskov Alle 47, 2650 Hvidovre",
-    "pris": 12245000,
-    "kvm": null,
-    "vaerelser": 5.0,
-    "byggeaar": 2011,
-    "url": "https://www.boliga.dk/bolig/2340282"
   },
   "2344405": {
     "id": "2344405",
