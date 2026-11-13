@@ -1149,5 +1149,43 @@
         "url": "https://www.boliga.dk/bolig/2340282"
       }
     ]
+  },
+  "2026-11-13": {
+    "total_udbud": 119,
+    "tilgang_antal": 4,
+    "afgang_antal": 2,
+    "prisnedsaettelse_antal": 2,
+    "afgaaet_huse": [
+      {
+        "adresse": "Risbjerggårds Alle 4B, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 5495000,
+        "url": "https://www.boliga.dk/bolig/2360465"
+      },
+      {
+        "adresse": "Ulstrupvej 12, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 10495000,
+        "url": "https://www.boliga.dk/bolig/2359045"
+      }
+    ],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Tureby Alle 13, 2650 Hvidovre",
+        "pris_for": 8885000,
+        "pris_efter": 8475000,
+        "besparelse": 410000,
+        "procent": 4.6,
+        "url": "https://www.boliga.dk/bolig/2343006"
+      },
+      {
+        "adresse": "Hvidovre Strandvej 141, 2650 Hvidovre",
+        "pris_for": 6245000,
+        "pris_efter": 5975000,
+        "besparelse": 270000,
+        "procent": 4.3,
+        "url": "https://www.boliga.dk/bolig/2371538"
+      }
+    ]
   }
 }
