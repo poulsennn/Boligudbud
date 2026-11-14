@@ -1187,5 +1187,29 @@
         "url": "https://www.boliga.dk/bolig/2371538"
       }
     ]
+  },
+  "2026-11-14": {
+    "total_udbud": 118,
+    "tilgang_antal": 0,
+    "afgang_antal": 1,
+    "prisnedsaettelse_antal": 1,
+    "afgaaet_huse": [
+      {
+        "adresse": "Kærgårdsvej 7, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 6195000,
+        "url": "https://www.boliga.dk/bolig/2366936"
+      }
+    ],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Catherine Boothsvej 51, 2650 Hvidovre",
+        "pris_for": 10995000,
+        "pris_efter": 10635000,
+        "besparelse": 360000,
+        "procent": 3.3,
+        "url": "https://www.boliga.dk/bolig/2376967"
+      }
+    ]
   }
 }
