@@ -1211,5 +1211,26 @@
         "url": "https://www.boliga.dk/bolig/2376967"
       }
     ]
+  },
+  "2026-11-15": {
+    "total_udbud": 117,
+    "tilgang_antal": 1,
+    "afgang_antal": 2,
+    "prisnedsaettelse_antal": 0,
+    "afgaaet_huse": [
+      {
+        "adresse": "Kløverprisvej 82, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 5995000,
+        "url": "https://www.boliga.dk/bolig/2381279"
+      },
+      {
+        "adresse": "Kløverprisvej 15, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 7795000,
+        "url": "https://www.boliga.dk/bolig/2377569"
+      }
+    ],
+    "prisnedsaettelser_huse": []
   }
 }

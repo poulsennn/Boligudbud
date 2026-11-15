@@ -359,15 +359,6 @@
     "byggeaar": 1975,
     "url": "https://www.boliga.dk/bolig/2379928"
   },
-  "2381279": {
-    "id": "2381279",
-    "adresse": "Kløverprisvej 82, 2650 Hvidovre",
-    "pris": 5995000,
-    "kvm": null,
-    "vaerelser": 5.0,
-    "byggeaar": 1945,
-    "url": "https://www.boliga.dk/bolig/2381279"
-  },
   "2383710": {
     "id": "2383710",
     "adresse": "Lindelundsvej 3, 2650 Hvidovre",
@@ -610,15 +601,6 @@
     "vaerelser": 4.0,
     "byggeaar": 1976,
     "url": "https://www.boliga.dk/bolig/2384023"
-  },
-  "2377569": {
-    "id": "2377569",
-    "adresse": "Kløverprisvej 15, 2650 Hvidovre",
-    "pris": 7795000,
-    "kvm": null,
-    "vaerelser": 6.0,
-    "byggeaar": 1944,
-    "url": "https://www.boliga.dk/bolig/2377569"
   },
   "2354527": {
     "id": "2354527",
@@ -1042,6 +1024,15 @@
     "vaerelser": 6.0,
     "byggeaar": 2023,
     "url": "https://www.boliga.dk/bolig/2357175"
+  },
+  "2384613": {
+    "id": "2384613",
+    "adresse": "Engvænget 11, 2650 Hvidovre",
+    "pris": 6995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1971,
+    "url": "https://www.boliga.dk/bolig/2384613"
   },
   "2373047": {
     "id": "2373047",
