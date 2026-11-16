@@ -512,6 +512,15 @@
     "byggeaar": 1937,
     "url": "https://www.boliga.dk/bolig/2381556"
   },
+  "2384613": {
+    "id": "2384613",
+    "adresse": "Engvænget 11, 2650 Hvidovre",
+    "pris": 6995000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1971,
+    "url": "https://www.boliga.dk/bolig/2384613"
+  },
   "2383604": {
     "id": "2383604",
     "adresse": "Krogholtsvej 8, 2650 Hvidovre",
@@ -1024,15 +1033,6 @@
     "vaerelser": 6.0,
     "byggeaar": 2023,
     "url": "https://www.boliga.dk/bolig/2357175"
-  },
-  "2384613": {
-    "id": "2384613",
-    "adresse": "Engvænget 11, 2650 Hvidovre",
-    "pris": 6995000,
-    "kvm": null,
-    "vaerelser": 4.0,
-    "byggeaar": 1971,
-    "url": "https://www.boliga.dk/bolig/2384613"
   },
   "2373047": {
     "id": "2373047",
