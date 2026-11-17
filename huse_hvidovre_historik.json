@@ -368,6 +368,15 @@
     "byggeaar": 1968,
     "url": "https://www.boliga.dk/bolig/2383710"
   },
+  "2384792": {
+    "id": "2384792",
+    "adresse": "Allesøvej 12, 2650 Hvidovre",
+    "pris": 6100000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1968,
+    "url": "https://www.boliga.dk/bolig/2384792"
+  },
   "2381752": {
     "id": "2381752",
     "adresse": "Søstrand Alle 6, 2650 Hvidovre",
@@ -736,6 +745,15 @@
     "vaerelser": 5.0,
     "byggeaar": 1963,
     "url": "https://www.boliga.dk/bolig/2340852"
+  },
+  "2384713": {
+    "id": "2384713",
+    "adresse": "Strandby Alle 46, 2650 Hvidovre",
+    "pris": 8795000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 2002,
+    "url": "https://www.boliga.dk/bolig/2384713"
   },
   "2367426": {
     "id": "2367426",
