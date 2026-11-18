@@ -1248,5 +1248,71 @@
     "prisnedsaettelse_antal": 0,
     "afgaaet_huse": [],
     "prisnedsaettelser_huse": []
+  },
+  "2026-11-18": {
+    "total_udbud": 112,
+    "tilgang_antal": 1,
+    "afgang_antal": 8,
+    "prisnedsaettelse_antal": 1,
+    "afgaaet_huse": [
+      {
+        "adresse": "Helenas Alle 3, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 7995000,
+        "url": "https://www.boliga.dk/bolig/2369736"
+      },
+      {
+        "adresse": "Lerbjergvej 14, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 6995000,
+        "url": "https://www.boliga.dk/bolig/2381556"
+      },
+      {
+        "adresse": "Kærmark 53, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 6495000,
+        "url": "https://www.boliga.dk/bolig/2378075"
+      },
+      {
+        "adresse": "Risbjerggårds Alle 39, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 8495000,
+        "url": "https://www.boliga.dk/bolig/2379444"
+      },
+      {
+        "adresse": "Ærtebjergvej 11, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 6495000,
+        "url": "https://www.boliga.dk/bolig/2369697"
+      },
+      {
+        "adresse": "Hjørnagervej 2A, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 4245000,
+        "url": "https://www.boliga.dk/bolig/2383108"
+      },
+      {
+        "adresse": "Strandby Alle 48, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 8295000,
+        "url": "https://www.boliga.dk/bolig/2373786"
+      },
+      {
+        "adresse": "Søstjernevej 26, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 5695000,
+        "url": "https://www.boliga.dk/bolig/2379365"
+      }
+    ],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Bredegårds Alle 48, 2650 Hvidovre",
+        "pris_for": 6495000,
+        "pris_efter": 5995000,
+        "besparelse": 500000,
+        "procent": 7.7,
+        "url": "https://www.boliga.dk/bolig/2376046"
+      }
+    ]
   }
 }
