@@ -1314,5 +1314,26 @@
         "url": "https://www.boliga.dk/bolig/2376046"
       }
     ]
+  },
+  "2026-11-19": {
+    "total_udbud": 111,
+    "tilgang_antal": 1,
+    "afgang_antal": 2,
+    "prisnedsaettelse_antal": 0,
+    "afgaaet_huse": [
+      {
+        "adresse": "Strandby Alle 46, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 8795000,
+        "url": "https://www.boliga.dk/bolig/2384713"
+      },
+      {
+        "adresse": "Hvidovre Boulevard 10, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 5495000,
+        "url": "https://www.boliga.dk/bolig/2363074"
+      }
+    ],
+    "prisnedsaettelser_huse": []
   }
 }

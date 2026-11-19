@@ -161,15 +161,6 @@
     "byggeaar": 1964,
     "url": "https://www.boliga.dk/bolig/2359770"
   },
-  "2363074": {
-    "id": "2363074",
-    "adresse": "Hvidovre Boulevard 10, 2650 Hvidovre",
-    "pris": 5495000,
-    "kvm": null,
-    "vaerelser": 6.0,
-    "byggeaar": 1962,
-    "url": "https://www.boliga.dk/bolig/2363074"
-  },
   "2364081": {
     "id": "2364081",
     "adresse": "Vedbyholm 3, 2650 Hvidovre",
@@ -187,6 +178,15 @@
     "vaerelser": 6.0,
     "byggeaar": 1954,
     "url": "https://www.boliga.dk/bolig/2377920"
+  },
+  "2385177": {
+    "id": "2385177",
+    "adresse": "Dalumvej 30, 2650 Hvidovre",
+    "pris": 5495000,
+    "kvm": null,
+    "vaerelser": 3.0,
+    "byggeaar": 1935,
+    "url": "https://www.boliga.dk/bolig/2385177"
   },
   "2369579": {
     "id": "2369579",
@@ -673,15 +673,6 @@
     "vaerelser": 5.0,
     "byggeaar": 1963,
     "url": "https://www.boliga.dk/bolig/2340852"
-  },
-  "2384713": {
-    "id": "2384713",
-    "adresse": "Strandby Alle 46, 2650 Hvidovre",
-    "pris": 8795000,
-    "kvm": null,
-    "vaerelser": 6.0,
-    "byggeaar": 2002,
-    "url": "https://www.boliga.dk/bolig/2384713"
   },
   "2367426": {
     "id": "2367426",
