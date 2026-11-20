@@ -1335,5 +1335,43 @@
       }
     ],
     "prisnedsaettelser_huse": []
+  },
+  "2026-11-20": {
+    "total_udbud": 119,
+    "tilgang_antal": 10,
+    "afgang_antal": 2,
+    "prisnedsaettelse_antal": 2,
+    "afgaaet_huse": [
+      {
+        "adresse": "Guldbærvænget 1, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 6495000,
+        "url": "https://www.boliga.dk/bolig/2347829"
+      },
+      {
+        "adresse": "Præstemosen 50, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 6750000,
+        "url": "https://www.boliga.dk/bolig/2384047"
+      }
+    ],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Sønderkær 54, 2650 Hvidovre",
+        "pris_for": 5745000,
+        "pris_efter": 5495000,
+        "besparelse": 250000,
+        "procent": 4.4,
+        "url": "https://www.boliga.dk/bolig/2366491"
+      },
+      {
+        "adresse": "Voldgårdsvej 10, 2650 Hvidovre",
+        "pris_for": 7495000,
+        "pris_efter": 7275000,
+        "besparelse": 220000,
+        "procent": 2.9,
+        "url": "https://www.boliga.dk/bolig/2376352"
+      }
+    ]
   }
 }
