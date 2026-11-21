@@ -8,6 +8,15 @@
     "byggeaar": 1932,
     "url": "https://www.boliga.dk/bolig/2383032"
   },
+  "2319129": {
+    "id": "2319129",
+    "adresse": "Mågevej 7B, 2650 Hvidovre",
+    "pris": 3995000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1981,
+    "url": "https://www.boliga.dk/bolig/2319129"
+  },
   "2379663": {
     "id": "2379663",
     "adresse": "Brostykkevej 198D, 2650 Hvidovre",
@@ -25,15 +34,6 @@
     "vaerelser": 4.0,
     "byggeaar": 1936,
     "url": "https://www.boliga.dk/bolig/2383108"
-  },
-  "2319129": {
-    "id": "2319129",
-    "adresse": "Mågevej 7B, 2650 Hvidovre",
-    "pris": 4495000,
-    "kvm": null,
-    "vaerelser": 6.0,
-    "byggeaar": 1981,
-    "url": "https://www.boliga.dk/bolig/2319129"
   },
   "2356382": {
     "id": "2356382",
@@ -277,15 +277,6 @@
     "vaerelser": 5.0,
     "byggeaar": 1939,
     "url": "https://www.boliga.dk/bolig/2379365"
-  },
-  "2374183": {
-    "id": "2374183",
-    "adresse": "Bredholtvej 38, 2650 Hvidovre",
-    "pris": 5795000,
-    "kvm": null,
-    "vaerelser": 3.0,
-    "byggeaar": 1962,
-    "url": "https://www.boliga.dk/bolig/2374183"
   },
   "2374304": {
     "id": "2374304",
@@ -601,6 +592,15 @@
     "vaerelser": 4.0,
     "byggeaar": 1976,
     "url": "https://www.boliga.dk/bolig/2384023"
+  },
+  "2386172": {
+    "id": "2386172",
+    "adresse": "Hvidovre Strandvej 109A, 2650 Hvidovre",
+    "pris": 7495000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 1936,
+    "url": "https://www.boliga.dk/bolig/2386172"
   },
   "2354527": {
     "id": "2354527",

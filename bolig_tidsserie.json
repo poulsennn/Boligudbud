@@ -1373,5 +1373,29 @@
         "url": "https://www.boliga.dk/bolig/2376352"
       }
     ]
+  },
+  "2026-11-21": {
+    "total_udbud": 119,
+    "tilgang_antal": 1,
+    "afgang_antal": 1,
+    "prisnedsaettelse_antal": 1,
+    "afgaaet_huse": [
+      {
+        "adresse": "Bredholtvej 38, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 5795000,
+        "url": "https://www.boliga.dk/bolig/2374183"
+      }
+    ],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Mågevej 7B, 2650 Hvidovre",
+        "pris_for": 4495000,
+        "pris_efter": 3995000,
+        "besparelse": 500000,
+        "procent": 11.1,
+        "url": "https://www.boliga.dk/bolig/2319129"
+      }
+    ]
   }
 }
