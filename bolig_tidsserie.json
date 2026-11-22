@@ -1397,5 +1397,13 @@
         "url": "https://www.boliga.dk/bolig/2319129"
       }
     ]
+  },
+  "2026-11-22": {
+    "total_udbud": 119,
+    "tilgang_antal": 0,
+    "afgang_antal": 0,
+    "prisnedsaettelse_antal": 0,
+    "afgaaet_huse": [],
+    "prisnedsaettelser_huse": []
   }
 }
