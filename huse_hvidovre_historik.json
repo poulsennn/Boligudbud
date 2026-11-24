@@ -143,6 +143,15 @@
     "byggeaar": 1925,
     "url": "https://www.boliga.dk/bolig/2386362"
   },
+  "2386482": {
+    "id": "2386482",
+    "adresse": "Barløsevej 5, 2650 Hvidovre",
+    "pris": 5295000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1970,
+    "url": "https://www.boliga.dk/bolig/2386482"
+  },
   "2366039": {
     "id": "2366039",
     "adresse": "Hvidovrevej 271B, 2650 Hvidovre",
@@ -178,6 +187,15 @@
     "vaerelser": 4.0,
     "byggeaar": 1964,
     "url": "https://www.boliga.dk/bolig/2359770"
+  },
+  "2360465": {
+    "id": "2360465",
+    "adresse": "Risbjerggårds Alle 4B, 2650 Hvidovre",
+    "pris": 5495000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 1986,
+    "url": "https://www.boliga.dk/bolig/2360465"
   },
   "2363074": {
     "id": "2363074",
@@ -607,9 +625,18 @@
     "adresse": "Hvidovre Strandvej 109A, 2650 Hvidovre",
     "pris": 7495000,
     "kvm": null,
-    "vaerelser": 5.0,
+    "vaerelser": 4.0,
     "byggeaar": 1936,
     "url": "https://www.boliga.dk/bolig/2386172"
+  },
+  "2386480": {
+    "id": "2386480",
+    "adresse": "Kærgårdsvej 17, 2650 Hvidovre",
+    "pris": 7645000,
+    "kvm": null,
+    "vaerelser": 4.0,
+    "byggeaar": 2021,
+    "url": "https://www.boliga.dk/bolig/2386480"
   },
   "2354527": {
     "id": "2354527",
@@ -674,6 +701,15 @@
     "byggeaar": 1960,
     "url": "https://www.boliga.dk/bolig/2380687"
   },
+  "2382589": {
+    "id": "2382589",
+    "adresse": "Hædersdalvej 53, 2650 Hvidovre",
+    "pris": 8195000,
+    "kvm": null,
+    "vaerelser": 6.0,
+    "byggeaar": 1947,
+    "url": "https://www.boliga.dk/bolig/2382589"
+  },
   "2365432": {
     "id": "2365432",
     "adresse": "Ege Alle 42, 2650 Hvidovre",
@@ -682,15 +718,6 @@
     "vaerelser": 5.0,
     "byggeaar": 1932,
     "url": "https://www.boliga.dk/bolig/2365432"
-  },
-  "2382589": {
-    "id": "2382589",
-    "adresse": "Hædersdalvej 53, 2650 Hvidovre",
-    "pris": 8395000,
-    "kvm": null,
-    "vaerelser": 6.0,
-    "byggeaar": 1947,
-    "url": "https://www.boliga.dk/bolig/2382589"
   },
   "2343006": {
     "id": "2343006",
@@ -817,6 +844,15 @@
     "vaerelser": 6.0,
     "byggeaar": 1956,
     "url": "https://www.boliga.dk/bolig/2383039"
+  },
+  "2386582": {
+    "id": "2386582",
+    "adresse": "Rebæk Alle 54, 2650 Hvidovre",
+    "pris": 8995000,
+    "kvm": null,
+    "vaerelser": 5.0,
+    "byggeaar": 2021,
+    "url": "https://www.boliga.dk/bolig/2386582"
   },
   "2347523": {
     "id": "2347523",

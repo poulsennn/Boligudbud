@@ -1413,5 +1413,22 @@
     "prisnedsaettelse_antal": 0,
     "afgaaet_huse": [],
     "prisnedsaettelser_huse": []
+  },
+  "2026-11-24": {
+    "total_udbud": 124,
+    "tilgang_antal": 4,
+    "afgang_antal": 0,
+    "prisnedsaettelse_antal": 1,
+    "afgaaet_huse": [],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "Hædersdalvej 53, 2650 Hvidovre",
+        "pris_for": 8395000,
+        "pris_efter": 8195000,
+        "besparelse": 200000,
+        "procent": 2.4,
+        "url": "https://www.boliga.dk/bolig/2382589"
+      }
+    ]
   }
 }
