@@ -1430,5 +1430,20 @@
         "url": "https://www.boliga.dk/bolig/2382589"
       }
     ]
+  },
+  "2026-11-25": {
+    "total_udbud": 123,
+    "tilgang_antal": 0,
+    "afgang_antal": 1,
+    "prisnedsaettelse_antal": 0,
+    "afgaaet_huse": [
+      {
+        "adresse": "Eriksminde Alle 10, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 10495000,
+        "url": "https://www.boliga.dk/bolig/2381320"
+      }
+    ],
+    "prisnedsaettelser_huse": []
   }
 }
