@@ -449,15 +449,6 @@
     "byggeaar": 1963,
     "url": "https://www.boliga.dk/bolig/2375713"
   },
-  "2335681": {
-    "id": "2335681",
-    "adresse": "Nordlundsvej 50, 2650 Hvidovre",
-    "pris": 6495000,
-    "kvm": null,
-    "vaerelser": 4.0,
-    "byggeaar": 1940,
-    "url": "https://www.boliga.dk/bolig/2335681"
-  },
   "2338564": {
     "id": "2338564",
     "adresse": "Brobyvej 39, 2650 Hvidovre",
@@ -971,6 +962,15 @@
     "byggeaar": 2025,
     "url": "https://www.boliga.dk/bolig/2380977"
   },
+  "2360715": {
+    "id": "2360715",
+    "adresse": "Kirkebroen 33, 2650 Hvidovre",
+    "pris": 10495000,
+    "kvm": null,
+    "vaerelser": 7.0,
+    "byggeaar": 2020,
+    "url": "https://www.boliga.dk/bolig/2360715"
+  },
   "2376244": {
     "id": "2376244",
     "adresse": "Elme Alle 21, 2650 Hvidovre",
@@ -1006,15 +1006,6 @@
     "vaerelser": 5.0,
     "byggeaar": 2021,
     "url": "https://www.boliga.dk/bolig/2376967"
-  },
-  "2360715": {
-    "id": "2360715",
-    "adresse": "Kirkebroen 33, 2650 Hvidovre",
-    "pris": 10995000,
-    "kvm": null,
-    "vaerelser": 7.0,
-    "byggeaar": 2020,
-    "url": "https://www.boliga.dk/bolig/2360715"
   },
   "2375546": {
     "id": "2375546",
