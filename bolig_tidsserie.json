@@ -1469,5 +1469,20 @@
         "url": "https://www.boliga.dk/bolig/2360715"
       }
     ]
+  },
+  "2026-11-27": {
+    "total_udbud": 124,
+    "tilgang_antal": 3,
+    "afgang_antal": 1,
+    "prisnedsaettelse_antal": 0,
+    "afgaaet_huse": [
+      {
+        "adresse": "Frydenhøjparken 3, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 4495000,
+        "url": "https://www.boliga.dk/bolig/2356382"
+      }
+    ],
+    "prisnedsaettelser_huse": []
   }
 }
