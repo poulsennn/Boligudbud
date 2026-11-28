@@ -1484,5 +1484,35 @@
       }
     ],
     "prisnedsaettelser_huse": []
+  },
+  "2026-11-28": {
+    "total_udbud": 125,
+    "tilgang_antal": 3,
+    "afgang_antal": 2,
+    "prisnedsaettelse_antal": 1,
+    "afgaaet_huse": [
+      {
+        "adresse": "Rebæk Alle 54, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 8995000,
+        "url": "https://www.boliga.dk/bolig/2386582"
+      },
+      {
+        "adresse": "Bredegårds Alle 48, 2650 Hvidovre",
+        "kvm": null,
+        "pris": 5995000,
+        "url": "https://www.boliga.dk/bolig/2376046"
+      }
+    ],
+    "prisnedsaettelser_huse": [
+      {
+        "adresse": "H C Bojsensvej 1, 2650 Hvidovre",
+        "pris_for": 11195000,
+        "pris_efter": 10995000,
+        "besparelse": 200000,
+        "procent": 1.8,
+        "url": "https://www.boliga.dk/bolig/2362818"
+      }
+    ]
   }
 }
